@@ -46,7 +46,13 @@ module.exports = {
       type: 'category',
       label: 'Productivity',
       collapsed: true,
-      items: ['productivity/teuxdeux'],
+      items: ['productivity/flowchart', 'productivity/teuxdeux'],
+    },
+    {
+      type: 'category',
+      label: 'Sharing',
+      collapsed: true,
+      items: ['sharing/snapdrop'],
     },
     {
       type: 'category',
