@@ -28,7 +28,7 @@ module.exports = {
       type: 'category',
       label: 'Files',
       collapsed: true,
-      items: ['files/quicklook'],
+      items: ['files/marta', 'files/quicklook'],
     },
     {
       type: 'category',
