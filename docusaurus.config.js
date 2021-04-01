@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
   organizationName: 'tinytools', // Usually your GitHub org/user name.
   projectName: 'tinytools', // Usually your repo name.
   themeConfig: {
