@@ -2,6 +2,12 @@ module.exports = {
   docs: [
     {
       type: 'category',
+      label: 'Audio',
+      collapsed: true,
+      items: ['audio/micdrop', 'audio/recordia'],
+    },
+    {
+      type: 'category',
       label: 'Browsing',
       collapsed: true,
       items: ['browsing/clearurls', 'browsing/min'],
@@ -58,7 +64,7 @@ module.exports = {
       type: 'category',
       label: 'System',
       collapsed: true,
-      items: ['system/maccy'],
+      items: ['system/maccy', 'system/appcleaner'],
     },
   ],
 }
