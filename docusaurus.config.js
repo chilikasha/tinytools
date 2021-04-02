@@ -10,6 +10,10 @@ module.exports = {
   organizationName: 'tinytools', // Usually your GitHub org/user name.
   projectName: 'tinytools', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      respectPrefersColorScheme: true,
+    },
     hideableSidebar: true,
     // sidebarCollapsible: true,
     navbar: {
