@@ -64,7 +64,7 @@ module.exports = {
       type: 'category',
       label: 'System',
       collapsed: true,
-      items: ['system/maccy', 'system/appcleaner'],
+      items: ['system/appcleaner', 'system/maccy'],
     },
   ],
 }

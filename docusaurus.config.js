@@ -29,7 +29,12 @@ module.exports = {
           label: 'Tools',
           position: 'left',
         },
-        // {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
+        {
+          to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
+          label: 'Submit',
+          position: 'left',
+        },
         {
           href: 'https://twitter.com/tinytools_club',
           label: 'Twitter',
@@ -37,39 +42,21 @@ module.exports = {
         },
       ],
     },
-    footer: {
-      style: 'light',
-      // links: [
-      //   {
-      //     // title: 'Tools',
-      //     items: [
-      //       {
-      //         label: 'Getting Started',
-      //         to: 'docs/',
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     // title: 'Community',
-      //     items: [
-      //       {
-      //         label: 'Twitter',
-      //         href: 'https://twitter.com/docusaurus',
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     // title: 'More',
-      //     items: [
-      //       {
-      //         label: 'Blog',
-      //         to: 'blog',
-      //       },
-      //     ],
-      //   },
-      // ],
-      copyright: `Copyright © ${new Date().getFullYear()} Tinytools. Built with Docusaurus.`,
-    },
+    // footer: {
+    // style: 'light',
+    // links: [
+    //   {
+    //     // title: 'Tools',
+    //     items: [
+    //       {
+    //         label: 'Getting Started',
+    //         to: 'docs/',
+    //       },
+    //     ],
+    //   },
+    // ],
+    // copyright: `Copyright © ${new Date().getFullYear()} Tinytools. Built with Docusaurus.`,
+    // },
   },
   presets: [
     [
