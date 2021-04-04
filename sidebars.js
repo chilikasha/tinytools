@@ -34,7 +34,7 @@ module.exports = {
       type: 'category',
       label: 'Files',
       collapsed: true,
-      items: ['files/marta', 'files/quicklook'],
+      items: ['files/everything', 'files/marta', 'files/quicklook'],
     },
     {
       type: 'category',
@@ -52,7 +52,11 @@ module.exports = {
       type: 'category',
       label: 'Productivity',
       collapsed: true,
-      items: ['productivity/flowchart', 'productivity/teuxdeux'],
+      items: [
+        'productivity/flowchart',
+        'productivity/teuxdeux',
+        'productivity/wox',
+      ],
     },
     {
       type: 'category',
