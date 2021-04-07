@@ -32,6 +32,18 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Dev',
+      collapsed: true,
+      items: ['dev/ipsum'],
+    },
+    {
+      type: 'category',
+      label: 'Email',
+      collapsed: true,
+      items: ['email/emailthis'],
+    },
+    {
+      type: 'category',
       label: 'Files',
       collapsed: true,
       items: ['files/everything', 'files/marta', 'files/quicklook'],

@@ -76,7 +76,8 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Curated list of fast, minimalistic, beautiful apps and tools, 
+      which solve real problems. No fluff. <head />"
     >
       <header className={clsx('hero--primary', styles.heroBanner)}>
         {/* <header className={clsx('hero hero--primary', styles.heroBanner)}> */}
