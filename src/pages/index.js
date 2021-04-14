@@ -76,9 +76,15 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Curated list of fast, minimalistic, beautiful apps and tools, 
-      which solve real problems. No fluff. <head />"
+      description="Curated list of fast, minimalistic, beautiful apps and tools,
+      which solve real problems. No fluff."
     >
+      <head>
+        <meta
+          name="ahrefs-site-verification"
+          content="e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5"
+        />
+      </head>
       <header className={clsx('hero--primary', styles.heroBanner)}>
         {/* <header className={clsx('hero hero--primary', styles.heroBanner)}> */}
         {/* <img src="img/minimize_light.svg" alt=""></img>*/}
