@@ -14,6 +14,12 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Books',
+      collapsed: true,
+      items: ['books/witreader'],
+    },
+    {
+      type: 'category',
       label: 'Calendars',
       collapsed: true,
       items: ['calendars/dato', 'calendars/day-o', 'calendars/itsycal'],
