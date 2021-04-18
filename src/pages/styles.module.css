@@ -10,7 +10,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  /*max-width: 500px;*/
+  /* max-width: 500px; */
 }
 
 @media screen and (max-width: 966px) {
@@ -30,9 +30,11 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  text-align: center;
+  /* text-decoration: underline; */
 }
 
 .featureImage {
   height: 200px;
-  width: 200px;
+  /* width: 200px; */
 }
