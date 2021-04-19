@@ -88,5 +88,11 @@ module.exports = {
       collapsed: true,
       items: ['system/appcleaner', 'system/maccy'],
     },
+    {
+      type: 'category',
+      label: 'Text',
+      collapsed: true,
+      items: ['text/owlocr'],
+    },
   ],
 }
