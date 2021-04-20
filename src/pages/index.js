@@ -68,9 +68,9 @@ export default function Home() {
   const { siteConfig = {} } = context
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Curated list of fast, minimalist, beautiful apps and tools,
-      which solve real problems. No fluff."
+      // title={`${siteConfig.title}`}
+      title="Fast minimalist single-purpose apps"
+      description="Curated list of fast, minimalist, beautiful single-purpose apps and tools."
     >
       <head>
         <meta
