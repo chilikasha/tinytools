@@ -38,3 +38,21 @@
   height: 200px;
   /* width: 200px; */
 }
+
+hr {
+  border-top: 2px solid #bbb;
+  width: 50%;
+  align: center;
+  margin: auto;
+}
+
+pDesc {
+  width: 50%;
+  text-align: justify;
+  margin: auto;
+  align: center;
+}
+
+form {
+  padding: 2rem 0;
+}

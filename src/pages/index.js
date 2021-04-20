@@ -20,7 +20,7 @@ const buttonStyle = {
 
 const features = [
   {
-    // title: 'qView',
+    title: 'qView',
     imageUrl: 'qview.png',
     description: (
       <>
@@ -29,7 +29,7 @@ const features = [
     ),
   },
   {
-    // title: 'Marta',
+    title: 'Marta',
     imageUrl: 'marta.png',
     description: (
       <>
@@ -38,7 +38,7 @@ const features = [
     ),
   },
   {
-    // title: 'Tiny Player',
+    title: 'Tiny Player',
     imageUrl: 'tinyplayer.png',
     description: (
       <>
@@ -57,7 +57,7 @@ function Feature({ imageUrl, title, description }) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
+      {/*<h3>{title}</h3>*/}
       <p>{description}</p>
     </div>
   )
@@ -99,7 +99,7 @@ export default function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <p>Fast • beautiful • minimalist • single-purpose apps.</p>
+          <h3>Fast • beautiful • minimalist • single-purpose.</h3>
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -111,9 +111,29 @@ export default function Home() {
               Browse tools
             </Link>
           </div>
-          <br></br>
           {/*<p>Updates subscription coming soon...</p>*/}
+          {/*<p style={styles.pDesc}>*/}
+          <p
+            style={{
+              width: '70%',
+              margin: 'auto',
+              textAlign: 'center',
+              lineHeight: '30px',
+              padding: '2rem 0',
+            }}
+          >
+            In the world of super apps, slow and clumsy tools packed with
+            distractions and hundreds of unnecessary features there's still a
+            place for little gems - apps which work fast, look great and solve
+            one issue.
+          </p>
         </div>
+        <hr />
+        {/*<form>
+          First name: <input type="text" name="first_name" />
+          <br></br>
+          Last name: <input type="text" name="last_name" />
+        </form>*/}
       </header>
       <main>
         {features && features.length > 0 && (
