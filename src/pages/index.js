@@ -96,46 +96,35 @@ export default function Home() {
           <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>
           <style> @media (prefers-color-scheme: dark)</style>
         </svg>*/}
-        <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <h3>Fast • beautiful • minimalist • single-purpose.</h3>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted
-              )}
-              to={useBaseUrl('docs/')}
-            >
-              Browse tools
-            </Link>
+        {/*<div className={clsx(styles.container)}>*/}
+        <section className={styles.table}>
+          <div style={{ height: '70%' }}>
+            <h1 className="hero__title">{siteConfig.title}</h1>
+            {/*<p className="hero__subtitle">{siteConfig.tagline}</p>*/}
+            <p className="hero__subtitle">
+              Fast • beautiful • minimalist • single-purpose
+            </p>
+            <div>
+              <Link
+                className={clsx('button button--primary button--lg')}
+                to={useBaseUrl('docs/')}
+              >
+                Browse tools
+              </Link>
+            </div>
           </div>
-          {/*<p>Updates subscription coming soon...</p>*/}
-          {/*<p style={styles.pDesc}>*/}
-          <p
-            style={{
-              width: '70%',
-              margin: 'auto',
-              textAlign: 'center',
-              lineHeight: '30px',
-              padding: '2rem 0',
-            }}
-          >
+        </section>
+      </header>
+      <main>
+        <div className="hero__subtitle" style={{ backgroundColor: '#3578e5' }}>
+          <p className={styles.desc}>
+            {' '}
             In the world of super apps, slow and clumsy tools packed with
             distractions and hundreds of unnecessary features there's still a
             place for little gems - apps which work fast, look great and solve
             one issue.
           </p>
         </div>
-        <hr />
-        {/*<form>
-          First name: <input type="text" name="first_name" />
-          <br></br>
-          Last name: <input type="text" name="last_name" />
-        </form>*/}
-      </header>
-      <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

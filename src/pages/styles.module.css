@@ -15,7 +15,20 @@
 
 @media screen and (max-width: 966px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1rem;
+  }
+
+  .column {
+    flex: 1;
+    flex-direction: column;
+  }
+
+  .doubleColumn {
+    flex: 2;
+  }
+
+  .table {
+    flex-direction: column;
   }
 }
 
@@ -53,6 +66,39 @@ pDesc {
   align: center;
 }
 
+.pFooter {
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+
 form {
   padding: 2rem 0;
+}
+
+/* TWO COLUMN FLEXBOX */
+.table {
+  flex: 1;
+  display: flex;
+  /*flex-direction: row;*/
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.table div {
+  flex: 1;
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*align-items: center;*/
+}
+
+.desc {
+  /*display: inline;*/
+  /*width: 600px;*/
+  text-align: center;
+  box-sizing: border-box;
+  /*margin-left: auto;*/
+  margin: auto;
+  width: 70%;
+  color: white;
 }
