@@ -77,6 +77,10 @@ export default function Home() {
           name="ahrefs-site-verification"
           content="e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5"
         />
+        <meta
+          name="google-site-verification"
+          content="Vt9gf2F49sfyadfnzNsQuhTb0bq7wfiErak43RmVDhI"
+        />
       </head>
       <header className={clsx('hero--primary', styles.heroBanner)}>
         {/* <header className={clsx('hero hero--primary', styles.heroBanner)}> */}
