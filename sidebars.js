@@ -94,5 +94,11 @@ module.exports = {
       collapsed: true,
       items: ['text/owlocr'],
     },
+    {
+      type: 'category',
+      label: 'Video',
+      collapsed: true,
+      items: ['video/licecap'],
+    },
   ],
 }
