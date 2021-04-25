@@ -1,5 +1,6 @@
 module.exports = {
   docs: [
+    'intro',
     {
       type: 'category',
       label: 'Audio',
