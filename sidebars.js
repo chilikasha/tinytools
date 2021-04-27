@@ -41,7 +41,7 @@ module.exports = {
       type: 'category',
       label: 'Dev',
       collapsed: true,
-      items: ['dev/ipsum'],
+      items: ['dev/boop', 'dev/ipsum'],
     },
     {
       type: 'category',
