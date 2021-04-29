@@ -41,7 +41,7 @@ module.exports = {
       type: 'category',
       label: 'Dev',
       collapsed: true,
-      items: ['dev/boop', 'dev/ipsum'],
+      items: ['dev/boop', 'dev/ipsum', 'dev/proxyman'],
     },
     {
       type: 'category',
@@ -93,7 +93,7 @@ module.exports = {
       type: 'category',
       label: 'Text',
       collapsed: true,
-      items: ['text/owlocr'],
+      items: ['text/espanso', 'text/owlocr'],
     },
     {
       type: 'category',
