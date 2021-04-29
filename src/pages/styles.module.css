@@ -102,3 +102,25 @@ form {
   width: 70%;
   color: white;
 }
+
+#revue-embed {
+  /* align-content: center; */
+  text-align: center;
+}
+
+.input {
+  /* height: 10px; */
+  line-height: 2em;
+  width: 300px;
+  background: #eff1f4;
+  border: none;
+  border-radius: 8px;
+  box-shadow: none;
+  outline: none;
+  color: inherit;
+  text-indent: 9px;
+  height: 45px;
+  margin-right: 10px;
+  min-width: 250px;
+  margin: 1em;
+}
