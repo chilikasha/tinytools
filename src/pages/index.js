@@ -124,7 +124,7 @@ export default function Home() {
             name="revue-form"
             target="_blank"
           >
-            <label htmlFor="member_email">
+            <label htmlFor="member_email" className={styles.label}>
               Get notified about site updates{' '}
             </label>
             <div className="revue-form-group" style={{ padding: '10px' }}>
@@ -136,14 +136,13 @@ export default function Home() {
                 id="member_email"
                 className={styles.input}
               />
-              <Input
+              <input
                 type="submit"
+                value="Subscribe"
                 name="member[subscribe]"
                 id="member_submit"
                 className={clsx('button button--secondary button--lg')}
-              >
-                Subscribe
-              </Input>
+              />
             </div>
             {/*<div className="revue-form-group">
               <label htmlFor="member_first_name">

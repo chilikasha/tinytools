@@ -104,12 +104,15 @@ form {
 }
 
 #revue-embed {
-  /* align-content: center; */
   text-align: center;
 }
 
+.label {
+  margin: 1em;
+}
+
 .input {
-  /* height: 10px; */
+  font-size: 1em;
   line-height: 2em;
   width: 300px;
   background: #eff1f4;
