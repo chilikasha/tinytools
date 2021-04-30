@@ -9,4 +9,4 @@ title: Maccy
 * native UI
 * open source and free
 
-![maccy](/maccy.jpg)
+![maccy](/maccy.webp)

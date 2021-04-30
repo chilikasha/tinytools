@@ -14,4 +14,4 @@ powerful to-do editing
 
 Available on iOS, Android and as a web app.
 
-![teuxdeux](/teuxdeux.png)
+![teuxdeux](/teuxdeux.webp)

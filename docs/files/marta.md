@@ -8,4 +8,4 @@ Other [features](https://marta.yanex.org/docs/):
 - preview
 - built-in terminal
 - plugin API
-![marta](/marta.png)
+![marta](/marta.webp)

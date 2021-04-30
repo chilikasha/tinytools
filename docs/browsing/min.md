@@ -13,5 +13,3 @@ title: Min browser
 - dark theme
 
 Built with Electron Min is available on major platforms.
-
-![min](/min.png)

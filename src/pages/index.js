@@ -21,7 +21,7 @@ const buttonStyle = {
 const features = [
   {
     title: 'qView',
-    imageUrl: 'qview.png',
+    imageUrl: 'qview.webp',
     description: (
       <>
         Fast <a href="/docs/images/qview">image viewer</a>.
@@ -30,7 +30,7 @@ const features = [
   },
   {
     title: 'Marta',
-    imageUrl: 'marta.png',
+    imageUrl: 'marta.webp',
     description: (
       <>
         Native dual-pane macOS <a href="/docs/files/marta">file manager</a>.
@@ -39,7 +39,7 @@ const features = [
   },
   {
     title: 'Tiny Player',
-    imageUrl: 'tinyplayer.png',
+    imageUrl: 'tinyplayer.webp',
     description: (
       <>
         Music <a href="/docs/music/tiny-player">player</a> for Apple ecosystem.
