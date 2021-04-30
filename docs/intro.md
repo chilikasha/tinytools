@@ -2,7 +2,7 @@
 title: Introduction
 slug: /
 ---
-Welcome to Tinytools, a list of simple apps and tools.  
+Welcome to **Tiny tools**, a list of simple apps and tools.  
 An app will likely be listed here if it's:
 - native and fast
 - single purpose
