@@ -20,7 +20,7 @@ module.exports = {
       title: 'Main',
       // logo: {
       //   alt: 'Tiny tools',
-      //   src: 'img/minimize_logo.svg',
+      //   src: 'img/circle_32.svg',
       // },
       items: [
         {

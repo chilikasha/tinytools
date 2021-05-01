@@ -61,7 +61,7 @@ export default function Home() {
     <Layout
       // title={`${siteConfig.title}`}
       title="Fast minimalist single-purpose apps"
-      description="Curated list of fast, minimalist, beautiful single-purpose apps and tools."
+      description="Collection of fast, minimalist, beautiful single-purpose apps and tools."
     >
       <head>
         <meta
@@ -110,10 +110,12 @@ export default function Home() {
         <div className="hero__subtitle" style={{ backgroundColor: '#3578e5' }}>
           <p className={styles.desc}>
             {' '}
-            In the world of super apps, slow and clumsy tools packed with
-            distractions and hundreds of unnecessary features there's still a
-            place for little gems - apps which work fast, look great and solve
-            one issue.
+            Collection of apps that serve one purpose and do it well. No more
+            feature bloat, no extra fluff or complexity, designed and built to
+            do specific tasks fast and with style. Small in size but big in
+            usefulness, these apps are about making life a little easier and
+            providing a beautiful and simple solution to everyday problems and
+            tasks.
           </p>
         </div>
         <div id="revue-embed" style={{ textAlign: 'center' }}>
