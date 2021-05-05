@@ -81,13 +81,13 @@ module.exports = {
       type: 'category',
       label: 'Sharing',
       collapsed: true,
-      items: ['sharing/snapdrop'],
+      items: ['sharing/snapdrop', 'sharing/wormhole'],
     },
     {
       type: 'category',
       label: 'System',
       collapsed: true,
-      items: ['system/appcleaner', 'system/maccy'],
+      items: ['system/appcleaner', 'system/maccy', 'system/sloth'],
     },
     {
       type: 'category',
