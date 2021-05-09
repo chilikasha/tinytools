@@ -87,7 +87,7 @@ module.exports = {
       type: 'category',
       label: 'System',
       collapsed: true,
-      items: ['system/appcleaner', 'system/maccy', 'system/sloth'],
+      items: ['system/alttab', 'system/appcleaner', 'system/maccy', 'system/sloth'],
     },
     {
       type: 'category',
