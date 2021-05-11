@@ -72,6 +72,7 @@ module.exports = {
       label: 'Productivity',
       collapsed: true,
       items: [
+        'productivity/calculations',
         'productivity/flowchart',
         'productivity/teuxdeux',
         'productivity/wox',
@@ -87,7 +88,12 @@ module.exports = {
       type: 'category',
       label: 'System',
       collapsed: true,
-      items: ['system/alttab', 'system/appcleaner', 'system/maccy', 'system/sloth'],
+      items: [
+        'system/alttab',
+        'system/appcleaner',
+        'system/maccy',
+        'system/sloth',
+      ],
     },
     {
       type: 'category',
