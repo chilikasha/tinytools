@@ -1,5 +1,6 @@
 ---
 title: The Fuck
+description: Save time with an app that corrects errors in previous console commands.
 ---
 
 [**The Fuck**](https://github.com/nvbn/thefuck) is a magnificent open-source app that corrects errors in previous console commands.

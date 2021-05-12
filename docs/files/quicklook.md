@@ -1,5 +1,6 @@
 ---
 title: QuickLook
+description: App that brings macOS's Quick Look feature to Windows.
 ---
 
 macOS has a nice feature of peeking into a file content in lightning speed by just pressing `Space`. [**QuickLook**](https://github.com/QL-Win/QuickLook) brings this feature to Windows.

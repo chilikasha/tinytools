@@ -21,12 +21,6 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Calendars',
-      collapsed: true,
-      items: ['calendars/dato', 'calendars/day-o', 'calendars/itsycal'],
-    },
-    {
-      type: 'category',
       label: 'Camera',
       collapsed: true,
       items: ['camera/handmirror'],

@@ -61,7 +61,7 @@ export default function Home() {
     <Layout
       // title={`${siteConfig.title}`}
       title="Fast minimalist single-purpose apps"
-      description="Collection of fast, minimalist, beautiful single-purpose apps and tools."
+      description="Collection of useful and simple apps for everyday problems and tasks."
     >
       <head>
         <meta
@@ -110,9 +110,9 @@ export default function Home() {
         <div className="hero__subtitle" style={{}}>
           <p className={styles.desc}>
             {' '}
-            Collection of apps that serve one purpose and do it well. No more
-            feature bloat, no extra fluff or complexity, designed and built to
-            do specific tasks fast and with style. Small in size but big in
+            Collection of apps that serve one purpose and do it well. No feature
+            bloat, no extra fluff or complexity, designed and built to do
+            specific tasks fast and with style. Small in size but big in
             usefulness, these apps are about making life a little easier and
             providing a beautiful and simple solution to everyday problems and
             tasks.

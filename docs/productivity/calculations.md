@@ -1,5 +1,6 @@
 ---
 title: Calculations
+description: Simple and fast calculations with context. Units, currency and time zones conversions. Easier than spreadsheets.
 ---
 
 ### [Soulver](https://soulver.app/)

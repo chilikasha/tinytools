@@ -1,5 +1,6 @@
 ---
 title: Proxyman
+description: A native macOS debugger tool that allows developers to capture, inspect and manipulate HTTP(s) requests/responses.
 ---
 
 [**Proxyman**](https://proxyman.io/) is a native macOS debugger tool. It allows developers to capture, inspect and manipulate HTTP(s) requests/responses. Main features:
