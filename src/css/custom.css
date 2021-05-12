@@ -10,8 +10,8 @@
   /*default*/
   --ifm-color-primary: #3578e5;
   --ifm-color-primary-dark: #306cce;
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  /*--ifm-color-primary-darker: rgb(31, 165, 136);
+  --ifm-color-primary-darkest: rgb(26, 136, 112);*/
   --ifm-color-primary-light: rgb(70, 203, 174);
   --ifm-hero-text-color: rgb(0, 0, 0);
   --ifm-color-primary-lighter: rgb(102, 212, 189);

@@ -99,7 +99,7 @@ module.exports = {
       type: 'category',
       label: 'Text',
       collapsed: true,
-      items: ['text/espanso', 'text/owlocr'],
+      items: ['text/espanso', 'text/owlocr', 'text/simple_keyboard'],
     },
     {
       type: 'category',

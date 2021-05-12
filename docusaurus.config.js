@@ -29,7 +29,7 @@ module.exports = {
           label: 'Tools',
           position: 'left',
         },
-        { to: 'blog', label: 'Blog', position: 'left' },
+        // { to: 'blog', label: 'Blog', position: 'left' },
         {
           to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
           label: 'Submit',

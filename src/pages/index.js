@@ -107,7 +107,7 @@ export default function Home() {
         </section>
       </header>
       <main>
-        <div className="hero__subtitle" style={{ backgroundColor: '#3578e5' }}>
+        <div className="hero__subtitle" style={{}}>
           <p className={styles.desc}>
             {' '}
             Collection of apps that serve one purpose and do it well. No more
