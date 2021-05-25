@@ -39,17 +39,17 @@ module.exports = {
           label: 'Tools',
           position: 'left',
         },
-        // { to: 'blog', label: 'Blog', position: 'left' },
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
           to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
           label: 'Submit',
           position: 'left',
         },
-        {
-          href: 'https://twitter.com/tinytools_club',
-          label: 'Twitter',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://twitter.com/tinytools_club',
+        //   label: 'Twitter',
+        //   position: 'right',
+        // },
       ],
     },
     // footer: {

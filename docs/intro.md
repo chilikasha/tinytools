@@ -5,7 +5,6 @@ slug: /
 Welcome to **Tiny tools**, a collection of apps and tools designed to be super simple but still incredibly useful.  An app will likely be listed here if it's:
 - native, fast and lightweight
 - single purpose
-- beautiful
 - open source
 - live (actively maintained)
 - used (or would be used) by myself
