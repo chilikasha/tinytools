@@ -29,7 +29,7 @@ module.exports = {
       type: 'category',
       label: 'CLI',
       collapsed: true,
-      items: ['cli/thefuck'],
+      items: ['cli/thefuck', 'cli/transfer'],
     },
     {
       type: 'category',
