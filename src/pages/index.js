@@ -10,33 +10,33 @@ import splitbee from '@splitbee/web'
 splitbee.init()
 
 const features = [
-  {
-    title: 'qView',
-    imageUrl: 'qview.webp',
-    description: (
-      <>
-        Fast <a href="/docs/images/qview">image viewer</a>.
-      </>
-    ),
-  },
-  {
-    title: 'Marta',
-    imageUrl: 'marta.webp',
-    description: (
-      <>
-        Native dual-pane macOS <a href="/docs/files/marta">file manager</a>.
-      </>
-    ),
-  },
-  {
-    title: 'Tiny Player',
-    imageUrl: 'tinyplayer.webp',
-    description: (
-      <>
-        Music <a href="/docs/music/tiny-player">player</a> for Apple ecosystem.
-      </>
-    ),
-  },
+  // {
+//     title: 'qView',
+//     imageUrl: 'qview.webp',
+//     description: (
+//       <>
+//         Fast <a href="/docs/images/qview">image viewer</a>.
+//       </>
+//     ),
+//   },
+//   {
+//     title: 'Marta',
+//     imageUrl: 'marta.webp',
+//     description: (
+//       <>
+//         Native dual-pane macOS <a href="/docs/files/marta">file manager</a>.
+//       </>
+//     ),
+//   },
+//   {
+//     title: 'Tiny Player',
+//     imageUrl: 'tinyplayer.webp',
+//     description: (
+//       <>
+//         Music <a href="/docs/music/tiny-player">player</a> for Apple ecosystem.
+//       </>
+//     ),
+//   },
 ]
 
 function Feature({ imageUrl, title, description }) {
@@ -117,70 +117,6 @@ export default function Home() {
             providing a beautiful and simple solution to everyday problems and
             tasks.
           </p>
-        </div>
-        <div id="revue-embed" style={{ textAlign: 'center' }}>
-          <form
-            action="https://www.getrevue.co/profile/tinytools/add_subscriber"
-            method="post"
-            id="revue-form"
-            name="revue-form"
-            target="_blank"
-          >
-            <label htmlFor="member_email" className={styles.label}>
-              Get notified about site updates{' '}
-            </label>
-            <div className="revue-form-group" style={{ padding: '10px' }}>
-              <input
-                className="revue-form-field"
-                placeholder="Your email address..."
-                type="email"
-                name="member[email]"
-                id="member_email"
-                className={styles.input}
-              />
-              <input
-                type="submit"
-                value="Subscribe"
-                name="member[subscribe]"
-                id="member_submit"
-                className={clsx('button button--secondary button--lg')}
-              />
-            </div>
-            {/*<div className="revue-form-group">
-              <label htmlFor="member_first_name">
-                First name <span className="optional">(Optional)</span>
-              </label>
-              <input
-                className="revue-form-field"
-                placeholder="First name... (Optional)"
-                type="text"
-                name="member[first_name]"
-                id="member_first_name"
-              />
-            </div>*/}
-            {/*<div
-              className="revue-form-actions"
-              className={clsx('button button--primary button--lg')}
-            >
-              <input
-                type="submit"
-                value="Subscribe"
-                name="member[subscribe]"
-                id="member_submit"
-              />
-            </div>*/}
-            {/*<div className="revue-form-footer">
-              By subscribing, you agree with Revue’s{' '}
-              <a target="_blank" href="https://www.getrevue.co/terms">
-                Terms
-              </a>{' '}
-              and{' '}
-              <a target="_blank" href="https://www.getrevue.co/privacy">
-                Privacy Policy
-              </a>
-              .
-            </div>*/}
-          </form>
         </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
