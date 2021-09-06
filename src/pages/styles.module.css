@@ -6,10 +6,10 @@
  */
 
  .desc {
-   text-align: center;
+   text-align: justify;
    box-sizing: border-box;
    margin: auto;
-   width: 80%;
+   width: 50%;
    font-size: 1.3rem
  }
 
@@ -45,6 +45,7 @@
     margin: auto;
     width: 80%;
     font-size: 1.1rem;
+    padding: 1em;
   }
 }
 
