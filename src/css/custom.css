@@ -29,19 +29,35 @@
   /*--ifm-hero-background-color: #242526;*/
 }
 
+
+.hero__title {
+  margin: 1rem 0;
+  font-size: 4.4rem!important;
+  font-weight: 600;
+}
+
+.hero__subtitle {
+  /* padding: 1rem 0; */
+  font-size: 1.5rem;
+}
+
+.footer {
+  padding: 5px;
+}
+
+@media (max-width: 966px) {
+  .hero__subtitle {
+    font-size: 1.5rem;
+    /* margin: 10px; */
+    margin: 15px;
+  }
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
-}
-
-.hero__subtitle {
-  padding: 1rem 0;
-}
-
-.hero__title {
-  margin: 1rem 0;
 }
 
 img {

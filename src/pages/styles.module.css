@@ -5,6 +5,14 @@
  * and scoped locally.
  */
 
+ .desc {
+   text-align: center;
+   box-sizing: border-box;
+   margin: auto;
+   width: 80%;
+   font-size: 1.3rem
+ }
+
 .heroBanner {
   padding: 2rem 0;
   text-align: center;
@@ -13,7 +21,7 @@
   /* max-width: 500px; */
 }
 
-@media screen and (max-width: 966px) {
+@media (max-width: 966px) {
   .heroBanner {
     padding: 1rem;
   }
@@ -30,12 +38,21 @@
   .table {
     flex-direction: column;
   }
+
+  .desc {
+    text-align: justify;
+    box-sizing: border-box;
+    margin: auto;
+    width: 80%;
+    font-size: 1.1rem;
+  }
 }
 
 .buttons {
   display: flex;
   align-items: left;
   justify-content: center;
+  margin: auto;
 }
 
 .features {
@@ -44,12 +61,10 @@
   padding: 2rem 0;
   width: 100%;
   text-align: center;
-  /* text-decoration: underline; */
 }
 
 .featureImage {
   height: 200px;
-  /* width: 200px; */
 }
 
 hr {
@@ -59,12 +74,12 @@ hr {
   margin: auto;
 }
 
-pDesc {
+/* pDesc {
   width: 50%;
   text-align: justify;
   margin: auto;
   align: center;
-}
+} */
 
 .pFooter {
   text-align: center;
@@ -92,20 +107,13 @@ form {
   /*align-items: center;*/
 }
 
-.desc {
-  /*display: inline;*/
-  /*width: 600px;*/
-  text-align: center;
-  box-sizing: border-box;
-  /*margin-left: auto;*/
-  margin: auto;
-  width: 70%;
-  /*color: white;*/
-}
-
-#revue-embed {
-  text-align: center;
-}
+/* .sub_title { */
+  /* padding: 1rem 0; */
+  /* font-size: 1.8rem; */
+  /* font-weight: 400; */
+  /* text-align: center; */
+  /* width: 80%; */
+/* } */
 
 .label {
   margin: 1em;

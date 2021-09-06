@@ -91,10 +91,7 @@ export default function Home() {
         <section className={styles.table}>
           <div style={{ height: '70%' }}>
             <h1 className="hero__title">{siteConfig.title}</h1>
-            {/*<p className="hero__subtitle">{siteConfig.tagline}</p>*/}
-            <p className="hero__subtitle">
-              Fast • beautiful • minimalist • single-purpose
-            </p>
+            <p className="hero__subtitle">{siteConfig.tagline}</p>
             <div>
               <Link
                 className={clsx('button button--primary button--lg')}
@@ -107,17 +104,15 @@ export default function Home() {
         </section>
       </header>
       <main>
-        <div className="hero__subtitle" style={{}}>
           <p className={styles.desc}>
             {' '}
-            Collection of apps that serve one purpose and do it well. No feature
+            Collection of apps that serve one purpose. No feature
             bloat, no extra fluff or complexity, designed and built to do
-            specific tasks fast and with style. Small in size but big in
+            specific things fast and with style. Small in size but big in
             usefulness, these apps are about making life a little easier and
             providing a beautiful and simple solution to everyday problems and
             tasks.
           </p>
-        </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

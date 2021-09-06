@@ -1,7 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Tiny tools',
-  tagline: 'that just work.',
+  // subtitle: 'Fast • beautiful • minimalist • single-purpose',
+  tagline: 'Fast • beautiful • minimalist • single-purpose',
   url: 'https://tinytools.club',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -39,7 +40,7 @@ module.exports = {
           label: 'Tools',
           position: 'left',
         },
-        { to: 'blog', label: 'Blog', position: 'left' },
+        // { to: 'blog', label: 'Blog', position: 'left' },
         {
           to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
           label: 'Submit',
@@ -53,20 +54,20 @@ module.exports = {
       ],
     },
     // footer: {
-    // style: 'light',
-    // links: [
-    //   {
-    //     // title: 'Tools',
-    //     items: [
-    //       {
-    //         label: 'Getting Started',
-    //         to: 'docs/',
-    //       },
-    //     ],
+    //   style: 'light',
+    //   // links: [
+    //   //   {
+    //   //     // title: 'Tools',
+    //   //     items: [
+    //   //       {
+    //   //         label: 'Getting Started',
+    //   //         to: 'docs/',
+    //   //       },
+    //   //     ],
+    //   //   },
+    //   // ],
+    //   copyright: `Copyright © ${new Date().getFullYear()} Tinytools. Built with Docusaurus.`,
     //   },
-    // ],
-    // copyright: `Copyright © ${new Date().getFullYear()} Tinytools. Built with Docusaurus.`,
-    // },
   },
   presets: [
     [
