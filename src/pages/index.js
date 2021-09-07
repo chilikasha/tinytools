@@ -10,33 +10,36 @@ import splitbee from '@splitbee/web'
 splitbee.init()
 
 const features = [
-  // {
-//     title: 'qView',
-//     imageUrl: 'qview.webp',
-//     description: (
-//       <>
-//         Fast <a href="/docs/images/qview">image viewer</a>.
-//       </>
-//     ),
-//   },
-//   {
-//     title: 'Marta',
-//     imageUrl: 'marta.webp',
-//     description: (
-//       <>
-//         Native dual-pane macOS <a href="/docs/files/marta">file manager</a>.
-//       </>
-//     ),
-//   },
-//   {
-//     title: 'Tiny Player',
-//     imageUrl: 'tinyplayer.webp',
-//     description: (
-//       <>
-//         Music <a href="/docs/music/tiny-player">player</a> for Apple ecosystem.
-//       </>
-//     ),
-//   },
+  {
+    title: 'Fast',
+    // imageUrl: 'qview.webp',
+    description: (
+      <>
+      <h3> Fast </h3>
+        Mostly native and lightweight.
+      </>
+    ),
+  },
+  {
+    title: 'Useful',
+    // imageUrl: 'marta.webp',
+    description: (
+      <>
+      <h3>Simple</h3>
+        No extra fluff and complications. Designed to do one specific task perfectly.
+      </>
+    ),
+  },
+  {
+    title: 'Single purpose',
+    // imageUrl: 'tinyplayer.webp',
+    description: (
+      <>
+        <h3> Useful</h3>
+        Tools for everyday problems and tasks making life a little easier.
+      </>
+    ),
+  },
 ]
 
 function Feature({ imageUrl, title, description }) {
@@ -97,14 +100,14 @@ export default function Home() {
                 className={clsx('button button--primary button--lg')}
                 to={useBaseUrl('docs/')}
               >
-                Browse tools
+                Browse →
               </Link>
             </div>
           </div>
         </section>
       </header>
       <main>
-          <p className={styles.desc}>
+          {/*<p className={styles.desc}>
             {' '}
             Collection of apps that serve one purpose. No feature
             bloat, no extra fluff or complexity, designed and built to do
@@ -112,7 +115,7 @@ export default function Home() {
             usefulness, these apps are about making life a little easier and
             providing a beautiful and simple solution to everyday problems and
             tasks.
-          </p>
+          </p> */}
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

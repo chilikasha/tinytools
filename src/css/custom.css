@@ -32,8 +32,9 @@
 
 .hero__title {
   margin: 1rem 0;
-  font-size: 5.4rem;
+  font-size: 3rem;
   font-weight: 600;
+  padding-top: 55px;
 }
 
 .hero__subtitle {
@@ -47,13 +48,13 @@
 
 @media (max-width: 966px) {
   .hero__title {
-    /* margin: 1rem 0; */
-    font-size: 4.4rem;
+    padding-top: 35px;
+    font-size: 3rem;
     /* font-weight: 600; */
   }
 
   .hero__subtitle {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     /* margin: 10px; */
     margin: 15px;
   }

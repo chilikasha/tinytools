@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Tiny tools',
   // subtitle: 'Fast • beautiful • minimalist • single-purpose',
-  tagline: 'Fast • beautiful • minimalist • single-purpose',
+  tagline: 'Collection of fast, minimalist, single-purpose apps',
   url: 'https://tinytools.club',
   baseUrl: '/',
   onBrokenLinks: 'throw',
