@@ -1,45 +1,22 @@
 {
   "name": "tinytools",
-  "version": "0.0.0",
-  "private": true,
+  "version": "2.0.0",
+  "description": "tiny tools collection",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
-    "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
-    "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
-    "clear": "docusaurus clear",
-    "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.5",
-    "@docusaurus/preset-classic": "2.0.0-beta.5",
-    "@mdx-js/react": "^1.6.21",
-    "@splitbee/web": "^0.2.4",
-    "clsx": "^1.1.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akapitoha/tinytools.git"
   },
-  "devDependencies": {
-    "prettier": "^2.0.5"
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akapitoha/tinytools/issues"
   },
-  "prettier": {
-    "semi": false,
-    "singleQuote": true,
-    "tabWidth": 2
-  },
-  "browserslist": {
-    "production": [
-      ">0.5%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "homepage": "https://github.com/akapitoha/tinytools#readme"
 }
