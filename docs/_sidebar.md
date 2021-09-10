@@ -1,8 +1,16 @@
-- [Best](best.md)
-
-- Misc
-  - [Quick start](thefuck.md)
-  - [Writing more pages](transfer.md)
-
-- Test
-  - [Marta](test/marta.md)
+<!-- markdownlint-disable-next-line first-line-heading -->
+- [Audio](audio)
+- [Books](books)
+- [Browsing](browsing)
+- [Camera](camera)
+- [CLI](cli)
+- [Dev](dev)
+- [Email](email)
+- [Files](files)
+- [Images](images)
+- [Music](music)
+- [Productivity](productivity)
+- [Sharing](sharing)
+- [System](system)
+- [Text](text)
+- [Video](video)

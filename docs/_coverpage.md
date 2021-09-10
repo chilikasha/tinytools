@@ -8,8 +8,8 @@
 - Do one specific task perfectly
 - For everyday problems and tasks
 
-[GitHub](https://github.com/akapitoh/tinytools/)
-[Browse](best)
+[Browse ↓](readme)
+[GitHub](https://github.com/akapitoha/tinytools)
 
 <!-- background color -->
 ![color](#f0f0f0)
