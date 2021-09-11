@@ -38,6 +38,9 @@
       /*sidebar*/
       --sidebar-background: #f0f0f0;
       --search-background: #fff;
+      /*content*/
+      --notice-tip-background: hsl(204, 60%, 96%);
+      --notice-important-background: hsl(340, 60%, 96%);
     }
   </style>
 </head>
@@ -45,17 +48,22 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      // logo: '/_images/circle.svg',
       name: 'Tiny tools',
       coverpage: "_coverpage.md",
-      homepage: "README.md",
+      loadSidebar: "_sidebar.md",
+      notFoundPage: '_404.md',
+      homepage: "intro.md",
       coverpage: true,
       onlyCover: false,
       auto2top: true,
       // repo: 'https://github.com/akapitoha/tinytools',
-      loadSidebar: "_sidebar.md",
       auto2top: true,
       maxLevel: 3,
       subMaxLevel: 3,
+      // requestHeaders: {
+      //   'cache-control': 'max-age=600',
+      // },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>

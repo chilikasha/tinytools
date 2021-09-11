@@ -20,4 +20,4 @@ This useful tool brings the power of Windows’s `alt-tab` window switcher to ma
 
 ![sloth](_images/sloth.webp)
 
-?> [TaskExplorer](https://objective-see.com/products/taskexplorer.html) by Objective-See.
+?> Alternative: [TaskExplorer](https://objective-see.com/products/taskexplorer.html) by Objective-See.
