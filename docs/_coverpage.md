@@ -8,7 +8,7 @@
 - Do one specific task perfectly
 - For everyday problems and tasks
 
-[Browse ↓](readme)
+[Browse ↓](intro)
 [GitHub](https://github.com/akapitoha/tinytools)
 
 <!-- background color -->
