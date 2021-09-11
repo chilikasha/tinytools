@@ -1,3 +1,5 @@
-[Tinytools](https://tinytools.club) is a curated list of fast, beautiful and minimalistic apps which solve one issue or just do smth very well.
+[Tinytools](https://tinytools.club) is a collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+If you have any suggestions or problems please open an issue.
+
+Site is built with docsify.
