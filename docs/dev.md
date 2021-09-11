@@ -24,4 +24,4 @@ https://picsum.photos/200?grayscale&blur=2
 Proxyman for iOS is also available, making it easy to capture all network traffic from your iOS devices without a desktop companion app.  
 Needless to say that Proxyman is built by a very responsive and open to features requests indie developer.
 
-![proxyman](_images/proxyman.webp)
+![proxyman](_images/proxyman.webp "Proxyman traffic inspector")

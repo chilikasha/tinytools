@@ -6,8 +6,6 @@
 - drag & drop
 - M1 support
 
-?> Tiny Player also comes on [iPhone andiPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
+?> Tiny Player also comes on [iPhone and iPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
 
-<figure class="thumbnails">
-    <img src="_images/tp.png" alt="Tiny player playlist view" title="Tiny player">
-</figure>
+![tiny player](_images/tp.png "Tiny player playlist view")

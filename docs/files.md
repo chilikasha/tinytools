@@ -8,9 +8,8 @@ Other [features](https://marta.yanex.org/docs/):
 - preview
 - built-in terminal
 - plugin API
-<figure class="thumbnails">
-    <img src="_images/marta.png" alt="Tiny player" title="Tiny player">
-</figure>
+
+![marta](_images/marta.png "Marta dual pane window")
 
 ### QuickLook
 macOS has a nice feature of peeking into a file content in lightning speed by just pressing `Space`. [**QuickLook**](https://github.com/QL-Win/QuickLook) brings this feature to Windows.
