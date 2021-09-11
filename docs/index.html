@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tiny tools</title>
+  <link rel="icon" href="_images/circle.svg" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta
+      name="keywords"
+      content="apps,tools,collection"
+    />
+  <meta name="description" content="Collection of useful, simple, single purpose apps and tools for everyday problems and tasks.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Theme: Simple -->
+  <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"
+      enabled>
+  <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"
+      title="buble"
+      disabled
+    />
+  <!-- Custom theme styles -->
+  <style>
+    :root {
+      /*base*/
+      --base-color: black;
+      --base-font-size: 16px;
+      --base-font-weight: 300;
+      --base-font-color: red;
+      --theme-color: #3578e5;
+      /*cover*/
+      --cover-heading-font-size: 3.5rem;
+      --cover-heading-color: #333;
+      --cover-background-color: #fff;
+      /*sidebar*/
+      --sidebar-background: #f0f0f0;
+      --search-background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Tiny tools',
+      coverpage: "_coverpage.md",
+      homepage: "README.md",
+      coverpage: true,
+      onlyCover: false,
+      auto2top: true,
+      // repo: 'https://github.com/akapitoha/tinytools',
+      loadSidebar: "_sidebar.md",
+      auto2top: true,
+      maxLevel: 3,
+      subMaxLevel: 3,
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0.8.6/dist/js/docsify-themeable.min.js"></script>
+  <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+</body>
+</html>
