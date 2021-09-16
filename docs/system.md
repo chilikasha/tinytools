@@ -3,6 +3,8 @@ This useful tool brings the power of Windows’s `alt-tab` window switcher to ma
 
 ![alttab](_images/alttab.webp "Switching windows with AltTab")
 
+?> [Contexts](https://contexts.co/): a paid alternative window switcher.
+
 ## AppCleaner
  [**AppCleaner**](https://freemacsoft.net/appcleaner/) is a small, free macOS tool which allows you to thoroughly uninstall unwanted apps. Installing an app distributes many files throughout the system. AppCleaner finds all these small files and safely deletes them.
 
