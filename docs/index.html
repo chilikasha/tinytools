@@ -16,15 +16,14 @@
   <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"
-      enabled>
+      disabled>
   <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"
-      title="buble"
-      disabled
-    />
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
+      enabled>
   <!-- Custom theme styles -->
   <style>
+    .markdown-section .warn {margin-top: 1em }
     :root {
       /*base*/
       --base-color: #333;
@@ -32,21 +31,43 @@
       --base-font-weight: 400;
       --theme-color: #3578e5;
       --base-line-height: 1.5;
+
       /*cover*/
       --cover-heading-font-size: 3.5rem;
       --cover-heading-color: #333;
       --cover-background-color: #fff;
+
       /*sidebar*/
       --sidebar-background: #fff;
       --search-background: #fff;
-      --sidebar-nav-link-margin: 0.5rem;
-      --sidebar-nav-link-padding: 0.15em 0;
+      --sidebar-name-color: #333;
+      /*--sidebar-nav-link-margin: 0.5rem;*/
+      /*--sidebar-nav-link-padding: 0.15em 0;*/
       --sidebar-nav-link-background-color--active: #EFF6FB;
       --sidebar-name-text-align: left;
+      --sidebar-border-color: #e3e3e3;
+      /*--sidebar-nav-margin: 1rem;*/
+      --sidebar-nav-pagelink-background-image--active: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='rgb%28179, 179, 179%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+      /*--sidebar-nav-pagelink-background-image--collapse: ;*/
+      --sidebar-nav-pagelink-background-image--loaded: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='rgb%28179, 179, 179%29' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+      --sidebar-padding: 0 35px;
+      --sidebar-toggle-background: #EFF6FB;
+      --sidebar-toggle-icon-stroke-width:  1.5px;
+      --sidebar-nav-link-border-color--active: #fff;
+      --sidebar-nav-link-color--active: #333;
+
       /*notice*/
       --notice-padding: 0.8em 0.8em;
       --notice-tip-background: #EFF6FB;
       --notice-important-background: hsl(340, 60%, 96%);
+      --notice-tip-before-content:  none;
+      --notice-tip-border-color: #EFF6FB;
+
+      /*content*/
+      /*--heading-margin: 0 0 0 0;*/
+      --heading-h2-border-style: none;
+      --heading-h2-margin: 2.5rem 0 0 0;
+      --heading-h2-padding: 0 0 0 0;
     }
   </style>
 </head>

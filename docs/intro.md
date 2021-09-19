@@ -8,6 +8,6 @@ Welcome to `Tiny tools`, a collection of apps and tools designed to be super sim
 - live (actively maintained)
 - used (or would be used) by myself
 
-Please use sidebar for site navigation. In case of problems, suggestions or questions please open an issue [here](https://github.com/akapitoha/tinytools/issues) or [start a discussion](https://github.com/akapitoha/tinytools/discussions).
+Please use sidebar for site navigation. In case of problems, suggestions or questions please [open an issue](https://github.com/akapitoha/tinytools/issues) or [start a discussion](https://github.com/akapitoha/tinytools/discussions).
 
 Hope you'll find something new and useful.

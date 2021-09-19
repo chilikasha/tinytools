@@ -1,5 +1,5 @@
-## The Fuck
-[**The Fuck**](https://github.com/nvbn/thefuck) is a magnificent open-source app that corrects errors in previous console commands.
+## [The Fuck](https://github.com/nvbn/thefuck)
+Open source app that corrects errors in previous console commands.
 
 Example:
 
@@ -15,8 +15,8 @@ Reading package lists... Done
 ...
 ```
 
-## Transfer.sh
-[**transfer.sh**](https://transfer.sh) is a free service for sharing files right from the command line. It lets you encrypt files, 
+## [Transfer.sh](https://transfer.sh)
+A free service for sharing files right from the command line. It lets you encrypt files, 
 scan them for malware, upload several files at once, limit downloads or set the number of days before deletion.
 
 Other useful examples of usage can be found [here](https://github.com/dutchcoders/transfer.sh/blob/master/examples.md).
