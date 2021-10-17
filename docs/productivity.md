@@ -23,18 +23,10 @@ Web app that lets you easily create flow charts just via typing. Every single li
 
 ---
 
-## [Teuxdeux](https://teuxdeux.com/)
-A beautifully simple but still powerful way to keep track of the little things. The app is as simple as a piece of paper. Automatically synced to the cloud, TeuxDeux to-dos are backed up, secure, and available wherever you are. Some of the features:
+## [Itsycal](https://www.mowglii.com/itsycal/)
+A tiny menu bar calendar: quickly have a month view and see your events with one click.
 
-* markdown
-* recurring to-dos
-* voice-to-text
-* calendar date picker
-* drag to-dos to tomorrow
-* custom colors
-powerful to-do editing
-
-Available on iOS, Android and as a web app.
+?> Alternatives: [Dato](https://sindresorhus.com/dato) and [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina).
 
 ---
 

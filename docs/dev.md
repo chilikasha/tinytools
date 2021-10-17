@@ -3,6 +3,9 @@ A handy scriptable scratchpad to transform plain text using basic operations suc
 
 ?> [DevUtils](https://devutils.app/) is a paid alternative with a bit different set of tools, but native macOS UI.
 
+## [Docsify](https://docsify.js.org/#/)
+A simple and lightweight documentation site generator. After trying [nextra](https://nextra.vercel.app) and [docusarus](https://docusaurus.io), **Tinytools** is eventually made with docsify as well. Setup and maintaining is straightforward: just an `index.html` + `markdown` files. And it's very easy to customize with [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) and add some extra functionality with [plugins](https://docsify.js.org/#/plugins).
+
 ## ipsm.io
 [ipsm.io](https://ipsm.io/) has several APIs to generate dummy placeholder content. Text API is for placeholder texts of different sizes that you can use to test the layout. The next two APIs will generate custom color dummy images and videos that you can use until the real content arrives (download or embed via API).
 
