@@ -1,2 +1,2 @@
-User-agent: Googlebot
+User-agent: *
 Allow: /
