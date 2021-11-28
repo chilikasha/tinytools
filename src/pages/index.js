@@ -5,10 +5,6 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import * as Panelbear from "@panelbear/panelbear-js";
-
-Panelbear.load("REVyF8xAQT");
-Panelbear.trackPageview();
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();

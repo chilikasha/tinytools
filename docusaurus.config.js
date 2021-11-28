@@ -19,6 +19,14 @@ const config = {
   deploymentBranch: 'main',
   trailingSlash: false,
 
+  scripts: [
+    ({
+      "data-no-cookie": true,
+      async: true,
+      src: "https://cdn.splitbee.io/sb.js"
+    })
+  ],
+
   presets: [
     [
       '@docusaurus/preset-classic',
