@@ -30,12 +30,13 @@ const config = {
           // editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
           // routeBasePath: '/'
         },
+        /**
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/main/website/blog/',
-        },
+        }, */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -46,6 +47,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {name: 'twitter:card', content: 'summary'},
+        {name: 'keywords', content: 'apps,tools,collection,simple'},
+        {name: 'description', content: 'Collection of useful, simple, single purpose apps and tools for everyday problems and tasks'},
+        {name: 'ahrefs-site-verification', content: 'e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5'}
+      ],
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
+      /** announcementBar: {
+        id: 'cli',
+        content:
+          'New tool added: <a target="_blank" rel="noopener noreferrer" href="">this survey</a>',
+        backgroundColor: '#fafbfc',
+        textColor: '#000',
+        isCloseable: true,
+      }, */
+      image: 'img/tt.webp',
       hideableSidebar: true,
       navbar: {
         title: 'Tiny tools',

@@ -5,6 +5,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import * as Panelbear from "@panelbear/panelbear-js";
+
+Panelbear.load("REVyF8xAQT");
+Panelbear.trackPageview();
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -34,8 +38,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={siteConfig.title}
-      description="Description will go into a meta tag in <head />">
+      // title={siteConfig.title}
+      description="Collection of useful, simple, single purpose apps and tools for everyday problems and tasks">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
