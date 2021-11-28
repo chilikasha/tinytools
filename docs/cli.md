@@ -1,3 +1,5 @@
+# CLI
+
 ## [The Fuck](https://github.com/nvbn/thefuck)
 Open source app that corrects errors in previous console commands.
 

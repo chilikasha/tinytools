@@ -1,7 +1,9 @@
+# Sharing
+
 ## [Snapdrop](https://snapdrop.net/)
 A free, open source, browser based AirDrop alternative. This handy app lets you share text and files between devices on the same network. Talking about [privacy](https://github.com/RobinLinus/snapdrop/blob/master/docs/faq.md#what-about-privacy-will-files-be-saved-on-third-party-servers) none of your files are ever sent to any server, files are sent only between peers.
 
-?> You can also try [sharedrop.io](https://www.sharedrop.io/) as an alternative.
+> You can also try [sharedrop.io](https://www.sharedrop.io/) as an alternative.
 
 ## [Wormhole](https://wormhole.app/)
 A simple and safe way to send files and folders. All your shared data is end-to-end encrypted and is automatically expired after 24 hours. Upload size is limited to 10GB.

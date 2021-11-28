@@ -1,3 +1,5 @@
+# Browsing
+
 ## [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls)
 A browser add-on based on the new WebExtensions technology that will automatically remove tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
 
