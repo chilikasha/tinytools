@@ -11,18 +11,19 @@ function HomepageHeader() {
   return (
     <header className={clsx(' hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <h3> Collection of fast, minimalist, single-purpose apps</h3>
+        <h1 className={"hero__title", styles.gradient_text}>{siteConfig.title}</h1>
+        <h2 style={{"fontSize": "1.5rem"}}>Collection of fast, minimalist,
+        single purpose apps</h2>
         <ul type="none" style={{"paddingLeft": 0}}>
-          <li>Simple and lightweight</li>
-          <li>Do one specific task perfectly</li>
           <li>For everyday problems and tasks</li>
+          <li>Simple and lightweight</li>
+          <li>Do their job perfectly</li>
         </ul>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/audio">
-            Browse collection
+            Browse collection →
           </Link>
         </div>
       </div>

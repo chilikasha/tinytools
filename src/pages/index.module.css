@@ -10,10 +10,30 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 966px) {
+.gradient_text {
+  font-size: 8rem;
+  /*color: #076acd;*/
+  /*color: #2997ff;*/
+  /*text-transform: uppercase;*/
+  background: linear-gradient(to right, #2997ff 40%, #330867 130%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media screen and (max-width: 766px) {
   .heroBanner {
-    padding: 2rem;
+    /*padding: 2rem;*/
+    margin: 1rem;
   }
+  h1.gradient_text {
+    font-size: 4rem;
+  }
+}
+
+@media (prefers-color-scheme: dark) {}
+
+header {
+  margin-top: 2rem;
 }
 
 .buttons {
@@ -21,3 +41,8 @@
   align-items: center;
   justify-content: center;
 }
+
+ul {
+  font-size: 1.2rem;
+}
+
