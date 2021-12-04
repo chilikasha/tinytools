@@ -55,12 +55,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [
-        {name: 'twitter:card', content: 'summary'},
+        metadatas: [
         {name: 'keywords', content: 'apps,tools,collection,simple'},
-        {name: 'description', content: 'Collection of useful, simple, single purpose apps and tools for everyday problems and tasks'},
         {name: 'ahrefs-site-verification', content: 'e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5'}
-      ],
+      ], 
       colorMode: {
         respectPrefersColorScheme: true,
       },
