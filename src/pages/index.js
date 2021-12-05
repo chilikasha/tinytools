@@ -14,7 +14,7 @@ function HomepageHeader() {
         <h1 className={"hero__title", styles.gradient_text}>{siteConfig.title}</h1>
         <h2 style={{"fontSize": "1.5rem"}}>Collection of fast, minimalist,
         single purpose apps</h2>
-        <ul type="none" style={{"paddingLeft": 0}}>
+        <ul className={styles.main_ul} type="none">
           <li>For everyday problems and tasks</li>
           <li>Simple and lightweight</li>
           <li>Do their job perfectly</li>

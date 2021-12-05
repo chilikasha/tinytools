@@ -12,9 +12,6 @@
 
 .gradient_text {
   font-size: 8rem;
-  /*color: #076acd;*/
-  /*color: #2997ff;*/
-  /*text-transform: uppercase;*/
   background: linear-gradient(to right, #2997ff 40%, #330867 130%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -22,7 +19,6 @@
 
 @media screen and (max-width: 766px) {
   .heroBanner {
-    /*padding: 2rem;*/
     margin: 1rem;
   }
   h1.gradient_text {
@@ -42,7 +38,7 @@ header {
   justify-content: center;
 }
 
-ul {
+.main_ul {
   font-size: 1.2rem;
 }
 

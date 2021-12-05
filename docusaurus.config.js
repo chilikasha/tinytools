@@ -17,7 +17,6 @@ const config = {
   organizationName: 'akapitoha', // Usually your GitHub org/user name.
   projectName: 'tinytools', // Usually your repo name.
   deploymentBranch: 'main',
-  trailingSlash: false,
 
   scripts: [
     ({

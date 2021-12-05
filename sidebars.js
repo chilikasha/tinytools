@@ -26,6 +26,7 @@ const sidebars = {
    'email',
    'files',
    'images',
+   // 'misc',
    'music',
    'productivity',
    'sharing',
