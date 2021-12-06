@@ -1,7 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-// const lightCodeTheme = require('prism-react-renderer/themes/github');
 const lightCodeTheme = require('prism-react-renderer/themes/vsDark');
 const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 
@@ -14,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/circle.svg',
-  organizationName: 'akapitoha', // Usually your GitHub org/user name.
-  projectName: 'tinytools', // Usually your repo name.
+  organizationName: 'akapitoha',
+  projectName: 'tinytools',
   deploymentBranch: 'main',
 
   scripts: [
@@ -75,7 +74,7 @@ const config = {
         title: 'Tiny tools',
         // logo: {
         //   alt: 'My Site Logo',
-        //   src: 'img/logo.svg',
+        //   src: 'img/circle.svg',
         // },
         items: [
           // {
@@ -88,6 +87,11 @@ const config = {
           {
             href: 'https://github.com/akapitoha/tinytools',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
+            label: 'Submit',
             position: 'left',
           },
         ],
@@ -135,7 +139,7 @@ const config = {
       //       ],
       //     },
       //   ],
-      //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      //   copyright: `Copyright © ${new Date().getFullYear()} Tiny tools. Built with Docusaurus.`,
       // },
       prism: {
         theme: lightCodeTheme,

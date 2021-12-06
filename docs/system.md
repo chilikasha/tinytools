@@ -8,7 +8,7 @@ This useful tool brings the power of Windows’s `alt-tab` window switcher to ma
 > [Contexts](https://contexts.co/): a paid alternative window switcher.
 
 ## [AppCleaner](https://freemacsoft.net/appcleaner/)
-A small, free macOS tool which allows you to thoroughly uninstall unwanted apps. Installing an app distributes many files throughout the system. AppCleaner finds all these small files and safely deletes them.
+A small, free macOS tool which allows you to thoroughly uninstall unwanted apps. Installing an app distributes many files throughout the system. AppCleaner finds and deletes all these files.
 
 ## [Maccy](https://maccy.app/)
 A clipboard manager for macOS which does one job - keeping your copy history at hand.
@@ -25,3 +25,6 @@ A system monitoring and inspection tool that shows all open files and sockets in
 ![sloth](/img/sloth.webp "System monitoring with Sloth")
 
 > Alternative: [TaskExplorer](https://objective-see.com/products/taskexplorer.html) by Objective-See.
+
+## [stts](https://github.com/inket/stts)
+A simple macOS app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored.
