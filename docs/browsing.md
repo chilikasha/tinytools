@@ -1,17 +1,5 @@
 # Browsing
 
-## [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls)
-A browser add-on based on the new WebExtensions technology that will automatically remove tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
+- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls): this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
 
-## [Min](https://minbrowser.org/)
-A fast, minimal and open source browser that protects your privacy. It has an interface designed to minimize distractions and features such as:
-
-- information from DuckDuckGo in the search bar
-- full-text search for visited pages
-- ad and tracker blocking
-- automatic reader view
-- tasks (tab groups)
-- password manager integration
-- dark theme
-
-Built with Electron Min is available on major platforms.
+- [Min](https://minbrowser.org/) - a fast, minimal and open source browser that protects your privacy.

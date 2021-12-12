@@ -1,12 +1,12 @@
 # Images
 
-## [ImageMagick](https://imagemagick.org/script/index.php)
-An open source free tool for creating, editing, composing or converting digital images of different formats. It's cross-platform and has lots of features and capabilities. Personally needed to quickly combine several screenshots and did it with just one command:
+- [ImageMagick](https://imagemagick.org/script/index.php) - an open source free tool for creating, editing, composing or converting digital images of different formats. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
+  ```bash
+  # combine several screenshots
+  brew install imagemagick
+  convert +append 1.jpg 2.jpg 3.jpg best.jpg
+  ```
 
-```
-brew install imagemagick
-convert +append 1.jpg 2.jpg 3.jpg best.jpg
-```
+- [ImageOptim](https://imageoptim.com/mac) makes images load faster by applying advanced compression and removing invisible junk. <sub><sup>*[mac/web | free | oss]*</sup></sub>
 
-## [qView](https://interversehq.com/qview/)
-Image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar. A nice piece of cross-platform, free and open source software.
+- [qView](https://interversehq.com/qview/) - image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar. <sub><sup>*[cross-platform | free | oss]*</sup></sub>

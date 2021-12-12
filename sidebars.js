@@ -5,7 +5,6 @@ const sidebars = {
   docs: [
    'intro',
    'audio',
-   'books',
    'browsing',
    'camera',
    'cli',
@@ -15,7 +14,9 @@ const sidebars = {
    'images',
    // 'misc',
    'music',
+   'privacy',
    'productivity',
+   'reading',
    'sharing',
    'system',
    'text',

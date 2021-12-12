@@ -1,13 +1,7 @@
 # Music
 
-## [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/)
-A minimalist music player for macOS with clean interface that supports MP3, FLAC, AAC, AIFF and WAV. Packed with several features:
+- [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - a minimalist music player for macOS with clean interface that supports MP3, FLAC, AAC, AIFF and WAV. <sub><sup>*[free | mac/ios]*</sup></sub>
 
-- playlist view
-- cover art
-- drag & drop
-- M1 support
-
-> Tiny Player also comes on [iPhone and iPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
-
-![tiny player](/img/tp.png "Tiny player playlist view")
+  :::note info
+  Tiny Player also comes on [iPhone and iPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
+  :::

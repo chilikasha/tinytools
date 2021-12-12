@@ -1,27 +1,18 @@
 # Dev
 
-## [Boop](https://boop.okat.best)
-A handy scriptable scratchpad to transform plain text using basic operations such as JSON formatting, unescaping, base 64 encoding, etc. Functionality can be extended with a super simple JavaScript API or [additional](https://github.com/IvanMathy/Boop/tree/main/Scripts) scripts suggested by the community. App is free and open source.
+- [Boop](https://boop.okat.best): handy scriptable scratchpad to transform plain text using basic operations such as JSON formatting, unescaping, base 64 encoding, etc. <sub><sup>*[oss | free | mac]*</sup></sub>
 
-> [DevUtils](https://devutils.app/) is a paid alternative with a bit different set of tools, but native macOS UI.
+  :::note [DevUtils](https://devutils.app/)
+  A paid alternative with a bit different set of tools, but native macOS UI.
+  :::
 
-## [ipsm.io](https://ipsm.io/)
-This web app has several APIs to generate dummy placeholder content. Text API is for placeholder texts of different sizes that you can use to test the layout. The next two APIs will generate custom color dummy images and videos that you can use until the real content arrives (download or embed via API).
+- [ipsm.io](https://ipsm.io/) - APIs to generate dummy placeholder content (text, images, video).
 
-## [Lorem Picsum](https://picsum.photos/)
-The Lorem Ipsum for photos only. The service has a flexible API that helps to generate images of different sizes, greyscale or blurred images, random or [specific](https://picsum.photos/images).
-Below is an example for a square greyscale and blurred image (amount of blur is adjustable):
-> https://picsum.photos/200?grayscale&blur=2
+- [Lorem Picsum](https://picsum.photos/): Lorem Ipsum for photos only.
+  ```
+  https://picsum.photos/200?grayscale&blur=2
+  ```
 
-## [Proxyman](https://proxyman.io/)
-A native macOS debugger tool. It allows developers to capture, inspect and manipulate HTTP(s) requests/responses. Main features:
-- SSL proxying, including mobile devices and emulators
-- mapping content of local files as a response to your requests
-- stopping requests with breakpoint tool
-- throttling network connection
-- WebSocket debugging. For iOS as well using [Atlantis](https://docs.proxyman.io/atlantis/atlantis-for-ios) framework
+- [Proxyman](https://proxyman.io/): native macOS debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
 
-Proxyman for iOS is also available, making it easy to capture all network traffic from your iOS devices without a desktop companion app.  
-Needless to say that Proxyman is built by a very responsive and open to features requests indie developer.
-
-![proxyman](/img/proxyman.webp "Proxyman traffic inspector")
+- [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting. <sub><sup>*[free | web]*</sup></sub>

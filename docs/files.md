@@ -1,27 +1,11 @@
 # Files
 
-## [Everything](https://www.voidtools.com/)
-A free Windows search engine. Type the partial file or folder name into the search edit, and the results will appear instantly. The utility has a clean and simple user interface, uses very little system resources. 'Everything' even allows to search for file's content, though it will be slow because contents is not indexed. In some cases [advanced searching](https://www.voidtools.com/faq/#searching) can be applied as well.
+- [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the Open and Save dialogs in all of your applications.
 
-## [Marta](https://marta.yanex.org)
-A free, native, dual-pane file manager for macOS. It works with archives the way you work with folders, has themes and the ability to create your own one. The app is fast and keyboard-centric and leaves a feeling of well polished software.
-Other [features](https://marta.yanex.org/docs/):  
-- quick search
-- preview
-- built-in terminal
-- plugin API
+- [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
 
-![marta](/img/marta.png "Marta dual pane window")
+- [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser. <sub><sup>*[web | free | oss]*</sup></sub>
 
-## [QuickLook](https://github.com/QL-Win/QuickLook)
-macOS has a nice feature of peeking into a file content in lightning speed by just pressing `Space`. [QuickLook](https://github.com/QL-Win/QuickLook) brings this feature to Windows.
+- [Marta](https://marta.yanex.org) - a free, native, dual-pane file manager for macOS. <sub><sup>*[mac | free]*</sup></sub>
 
-Highlights:
-
-- tons of supported file types
-- touchscreen friendly
-- HiDPI support
-- preview from Open and Save File Dialog
-- preview from 3rd-party file managers
-- easily extended by plugins
-- free and open-source
+- [QuickLook](https://github.com/QL-Win/QuickLook) allows to peek into a file content in lightning speed by just pressing the Space key. <sub><sup>*[win]*</sup></sub>
