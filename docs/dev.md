@@ -1,18 +1,20 @@
 # Dev
 
-- [Boop](https://boop.okat.best): handy scriptable scratchpad to transform plain text using basic operations such as JSON formatting, unescaping, base 64 encoding, etc. <sub><sup>*[oss | free | mac]*</sup></sub>
+- [Boop](https://boop.okat.best): handy scriptable scratchpad to transform plain text using basic operations such as JSON formatting, unescaping, base 64 encoding, etc. <sub><sup>*[mac | free | oss]*</sup></sub>
 
   :::note [DevUtils](https://devutils.app/)
   A paid alternative with a bit different set of tools, but native macOS UI.
   :::
 
-- [ipsm.io](https://ipsm.io/) - APIs to generate dummy placeholder content (text, images, video).
+- [Dash](https://kapeli.com/) - an API documentation browser and code snippet manager. Dash instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets. <sub><sup>*[mac | paid]*</sup></sub>
 
-- [Lorem Picsum](https://picsum.photos/): Lorem Ipsum for photos only.
+- [ipsm.io](https://ipsm.io/) - APIs to generate dummy placeholder content (text, images, video). <sub><sup>*[web | free]*</sup></sub>
+
+- [Lorem Picsum](https://picsum.photos/): Lorem Ipsum for photos only. <sub><sup>*[web | free]*</sup></sub>
   ```
   https://picsum.photos/200?grayscale&blur=2
   ```
 
-- [Proxyman](https://proxyman.io/): native macOS debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
+- [Proxyman](https://proxyman.io/): native macOS debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. <sub><sup>*[mac | free]*</sup></sub>
 
-- [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting. <sub><sup>*[free | web]*</sup></sub>
+- [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting. <sub><sup>*[web | free]*</sup></sub>
