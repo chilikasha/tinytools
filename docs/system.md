@@ -5,6 +5,8 @@
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps. <sub><sup>*[mac | free]*</sup></sub>
 
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/): just hold the `⌘-key` a bit longer to get a list of all active short cuts of the current application. <sub><sup>*[mac | free]*</sup></sub>
+
 - [Maccy](https://maccy.app/) - a lightweight clipboard manager for macOS which does one job - keeping your copy history at hand. <sub><sup>*[mac | free | oss]*</sup></sub>
 
 - [Muzzle](https://muzzleapp.com/) - a simple app to silence embarrassing notifications while screensharing. <sub><sup>*[mac, free]*</sup></sub>

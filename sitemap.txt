@@ -1,6 +1,5 @@
 qhttps://tinytools.club
 https://tinytools.club/docs/audio
-https://tinytools.club/docs/books
 https://tinytools.club/docs/browsing
 https://tinytools.club/docs/camera
 https://tinytools.club/docs/cli
@@ -8,8 +7,11 @@ https://tinytools.club/docs/dev
 https://tinytools.club/docs/email
 https://tinytools.club/docs/files
 https://tinytools.club/docs/images
+https://tinytools.club/docs/misc
 https://tinytools.club/docs/music
+https://tinytools.club/docs/privacy
 https://tinytools.club/docs/productivity
+https://tinytools.club/docs/reading
 https://tinytools.club/docs/sharing
 https://tinytools.club/docs/system
 https://tinytools.club/docs/text

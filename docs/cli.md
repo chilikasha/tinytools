@@ -2,6 +2,15 @@
 
 - [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format, and Go library. <sub><sup>*[free | oss]*</sup></sub>
 
+- [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
+
+- [GitUpdate](https://github.com/nikitavoloboev/gitupdate): commit and push all updated files with one command. <sub><sup>*[free | oss]*</sup></sub>
+
+- [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
+  :::note Alternative
+  [lf](https://github.com/gokcehan/lf) - a CLI file manager written in Go.
+  :::
+
 - [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands. <sub><sup>*[free | oss]*</sup></sub>
   ```bash
   ➜ apt-get install vim

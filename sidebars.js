@@ -12,7 +12,7 @@ const sidebars = {
    'email',
    'files',
    'images',
-   // 'misc',
+   'misc',
    'music',
    'privacy',
    'productivity',

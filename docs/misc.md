@@ -1,6 +1,8 @@
 # Miscellaneous
+Other tools I didn't come up with a category for.
 
-## [Shadowmap](https://app.shadowmap.org)
-for renting
-agriculture
+- [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - a zero configuration app that tracks the network usage. <sub><sup>*[mac | free]*</sup></sub>
 
+- [Shadowmap](https://app.shadowmap.org): visualize solar shadows and the Sun in 3D. Anywhere on Earth, anytime. <sub><sup>*[web | free]*</sup></sub>
+
+- [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - an app that automatically downloads websites from the Internet. <sub><sup>*[mac/ios | paid]*</sup></sub>

@@ -3,6 +3,8 @@
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node. <sub><sup>*[web | free | oss]*</sup></sub>
 ![flowchart](/img/flowchart.png "Flowchart demo")
 
+- [Hungrymark](https://zhengying.github.io/hungrymark/) provides quick access to your collected URLs, local favorite files, folders, apps. <sub><sup>*[mac | paid]*</sup></sub>
+
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click. <sub><sup>*[mac | free]*</sup></sub>
   :::note Alternatives: [Dato](https://sindresorhus.com/dato) and [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina).
   :::

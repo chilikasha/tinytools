@@ -6,7 +6,11 @@
   A paid alternative with a bit different set of tools, but native macOS UI.
   :::
 
+- [cheat.sh](http://cheat.sh/) - unified access to the best community driven cheat sheets repositories of the world. <sub><sup>*[cli/web | free | oss]*</sup></sub>
+
 - [Dash](https://kapeli.com/) - an API documentation browser and code snippet manager. Dash instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets. <sub><sup>*[mac | paid]*</sup></sub>
+
+- [fx](https://github.com/antonmedv/fx) - a command-line JSON processing tool. <sub><sup>*[free | oss]*</sup></sub>
 
 - [ipsm.io](https://ipsm.io/) - APIs to generate dummy placeholder content (text, images, video). <sub><sup>*[web | free]*</sup></sub>
 
