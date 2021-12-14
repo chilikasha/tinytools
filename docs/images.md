@@ -1,5 +1,7 @@
 # Images
 
+- [CleanUp.pictures](https://cleanup.pictures/) - remove any object, people, text or defects from your pictures. <sub><sup>*[web | free | oss]*</sup></sub>
+
 - [ImageMagick](https://imagemagick.org/script/index.php) - an open source free tool for creating, editing, composing or converting digital images of different formats. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
   ```bash
   # combine several screenshots

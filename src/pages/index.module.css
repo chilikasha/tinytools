@@ -8,6 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  margin-top: 2rem;
 }
 
 .gradient_text {
@@ -27,10 +28,6 @@
 }
 
 @media (prefers-color-scheme: dark) {}
-
-header {
-  margin-top: 2rem;
-}
 
 .buttons {
   display: flex;
