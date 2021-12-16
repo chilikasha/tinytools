@@ -2,4 +2,4 @@
 
 If you have any suggestions or problems please open an issue.
 
-Site is built with docusaurus.
+Site is built with docusaurus and vercel.

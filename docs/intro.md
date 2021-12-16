@@ -14,4 +14,4 @@ An app will likely be listed here if it's:
 - live (actively maintained)
 - used (or would be used) by myself
 
-Please use sidebar for site navigation. In case of problems, suggestions or questions please [open an issue](https://github.com/akapitoha/tinytools/issues) or [start a discussion](https://github.com/akapitoha/tinytools/discussions).
+Please use sidebar for site navigation. In case of problems, suggestions or questions please [open an issue](https://github.com/chilikasha/tinytools/issues) or [start a discussion](https://github.com/chilikasha/tinytools/discussions).

@@ -12,7 +12,7 @@ https://tinytools.club/docs/music
 https://tinytools.club/docs/privacy
 https://tinytools.club/docs/productivity
 https://tinytools.club/docs/reading
-https://tinytools.club/docs/sharing
+https://tinytools.club/docs/social
 https://tinytools.club/docs/system
 https://tinytools.club/docs/text
 https://tinytools.club/docs/video

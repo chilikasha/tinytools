@@ -17,7 +17,7 @@ const sidebars = {
    'privacy',
    'productivity',
    'reading',
-   'sharing',
+   'social',
    'system',
    'text',
    'video',

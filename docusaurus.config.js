@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/circle.svg',
-  organizationName: 'akapitoha',
+  organizationName: 'chilikasha',
   projectName: 'tinytools',
   deploymentBranch: 'main',
 
@@ -85,7 +85,7 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/akapitoha/tinytools',
+            href: 'https://github.com/chilikasha/tinytools',
             label: 'GitHub',
             position: 'right',
           },
