@@ -17,7 +17,7 @@
   6pm Sydney in Chicago  
   :::
   :::note Alternatives
-  [Numi](https://numi.app/), a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.
+  [Numi](https://numi.app/), a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.  
   [Numbr](https://numbr.dev/): fewer features but works right in a browser.
   :::
 

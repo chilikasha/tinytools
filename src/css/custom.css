@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+/*@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400&display=swap');*/
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2997ff;
@@ -13,8 +15,15 @@
   --ifm-color-primary-light: rgb(70, 203, 174);
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 85%;
+  --ifm-font-size-base: 17px;
+  /*--ifm-font-family-base: "PT Sans", sans-serif;*/
   /*--ifm-font-color-base: #000;*/
+  /*--ifm-font-size-base: 100%;*/
+}
+
+article header h1 {
+  font-size: 1.5rem !important;
 }
 
 .docusaurus-highlight-code-line {

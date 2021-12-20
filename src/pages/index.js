@@ -23,7 +23,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/audio">
-            Browse collection →
+            Browse collection
           </Link>
         </div>
       </div>
