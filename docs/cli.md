@@ -1,6 +1,6 @@
 # CLI
 
-- [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format, and Go library. <sub><sup>*[free | oss]*</sup></sub>
+- [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format and Go library. <sub><sup>*[free | oss]*</sup></sub>
 
 - [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
 
@@ -10,6 +10,11 @@
   :::note Alternative
   [lf](https://github.com/gokcehan/lf) - a CLI file manager written in Go.
   :::
+
+- [maclaunch](https://github.com/hazcod/maclaunch) - list and control macOS startup items. <sub><sup>*[mac | free | oss]*</sup></sub>
+  ```bash
+  maclaunch disable plex
+  ```
 
 - [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands. <sub><sup>*[free | oss]*</sup></sub>
   ```bash

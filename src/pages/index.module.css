@@ -44,3 +44,7 @@
 [class*="iconExternalLink"] { 
   display: none; 
 }
+
+li p {
+  margin-bottom: 5px;
+}

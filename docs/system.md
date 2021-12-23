@@ -13,6 +13,8 @@
 
 - [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas. <sub><sup>*[mac | free | oss]*</sup></sub>
 
+- [Shifty](https://shifty.natethompson.io/en/) - expand capabilities of Night Shift and Dark mode. Disable for specific apps and sites, follow the schedule, adjust the colour temperature. <sub><sup>*[mac | free | oss]*</sup></sub>
+
 - [Shortcut Bar](https://fiplab.com/apps/shortcut-bar-for-mac) is a handy app that connects you to the files, folders, apps, web bookmarks, text snippets and color swatches that you need lightning fast access to. <sub><sup>*[mac | paid]*</sup></sub>
 
 - [Sloth](https://sveinbjorn.org/sloth) - a system monitoring and inspection tool that shows all open files and sockets in use by all running processes. <sub><sup>*[mac | free | oss]*</sup></sub>
