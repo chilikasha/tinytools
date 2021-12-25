@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className={"hero__title", styles.gradient_text}>{siteConfig.title}</h1>
         <h2 style={{"fontSize": "1.5rem"}}>Collection of fast, minimalist,
-        single purpose apps</h2>
+        single-purpose apps</h2>
         <br/>
         <ul className={styles.main_ul} type="none">
           <li>For everyday problems and tasks</li>
@@ -24,7 +24,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/audio">
+            to="/docs">
             Browse collection
           </Link>
         </div>
@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <Layout
       // title={siteConfig.title}
-      description="Collection of useful, simple, single purpose apps and tools for everyday problems and tasks">
+      description="Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

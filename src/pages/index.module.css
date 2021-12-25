@@ -3,6 +3,13 @@
  * and scoped locally.
  */
 
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-weight: 400;
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -24,6 +31,11 @@
   }
   h1.gradient_text {
     font-size: 4rem;
+  }
+  p.p_pages {
+    text-align: justify;
+    font-size: 1rem;
+    width: 90%;
   }
 }
 
@@ -47,4 +59,28 @@
 
 li p {
   margin-bottom: 5px;
+}
+
+.form_input {
+  box-sizing:border-box;
+  padding:10px;
+  margin:10px 0;
+  width:200px;
+  /*border-radius: 5px;*/
+  border: 2px solid grey;
+  border-radius: 7px;
+}
+
+/*TODO*/
+.p_pages {
+  margin: auto;
+  text-align: justify;
+  font-size: 1.2rem;
+  width: 50%;
+}
+
+@-moz-document url-prefix() {
+    body .with-ff-fix {
+        font-weight: lighter !important;
+    }
 }

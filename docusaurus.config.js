@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Tiny tools',
-  tagline: 'Collection of useful, simple, single purpose apps and tools for everyday problems and tasks',
+  tagline: 'Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks',
   url: 'https://tinytools.club',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -77,20 +77,24 @@ const config = {
         //   src: 'img/circle.svg',
         // },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/chilikasha/tinytools',
             label: 'GitHub',
             position: 'right',
           },
+          // {
+          //   to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
+          //   label: 'Submit',
+          //   position: 'left',
+          // },
           {
-            to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
+            to: '/about',
+            label: 'About',
+            position: 'left',
+          },
+          {
+            to: '/submit',
             label: 'Submit',
             position: 'left',
           },
