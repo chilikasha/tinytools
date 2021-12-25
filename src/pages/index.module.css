@@ -18,7 +18,7 @@ html {
   margin-top: 2rem;
 }
 
-.gradient_text {
+.gradient {
   font-size: 8rem;
   background: linear-gradient(to right, #2997ff 40%, #330867 130%);
   -webkit-background-clip: text;
@@ -29,13 +29,37 @@ html {
   .heroBanner {
     margin: 1rem;
   }
-  h1.gradient_text {
+
+  h1.gradient {
     font-size: 4rem;
   }
-  p.p_pages {
-    text-align: justify;
+
+  p.pAboutPage {
+    width: 90%;
+  }
+
+  header {
+    padding-top: 18px !important;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  h1.gradient {
+    font-size: 3rem;
+  }
+
+  ul.mainUl {
+    font-size: 1rem;
+    /*padding-left: 0;*/
+  }
+
+  p.pAboutPage {
     font-size: 1rem;
     width: 90%;
+  }
+
+  .pSubmitPage {
+    font-size: 1rem;
   }
 }
 
@@ -47,7 +71,7 @@ html {
   justify-content: center;
 }
 
-.main_ul {
+.mainUl {
   font-size: 1.2rem;
   padding-left: 0;
 }
@@ -61,26 +85,34 @@ li p {
   margin-bottom: 5px;
 }
 
-.form_input {
+.input {
   box-sizing:border-box;
   padding:10px;
   margin:10px 0;
   width:200px;
   /*border-radius: 5px;*/
-  border: 2px solid grey;
+  border: 1px solid grey;
   border-radius: 7px;
 }
 
 /*TODO*/
-.p_pages {
+.pAboutPage {
   margin: auto;
   text-align: justify;
   font-size: 1.2rem;
   width: 50%;
 }
 
+.pSubmitPage {
+  font-size: 1.2rem;
+}
+
 @-moz-document url-prefix() {
     body .with-ff-fix {
         font-weight: lighter !important;
     }
+}
+
+a {
+  font-weight: 500;
 }
