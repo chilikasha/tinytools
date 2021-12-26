@@ -10,7 +10,8 @@
 :root {
   /*--ifm-color-primary: #2997ff;*/
   --ifm-color-primary: rgb(9, 105, 218);
-  --ifm-color-primary-dark: rgb(33, 175, 144);
+  /*--ifm-color-primary: rgb(15, 98, 254);*/
+  --ifm-color-primary-dark: #0158fd;
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
   --ifm-color-primary-light: rgb(70, 203, 174);
@@ -19,10 +20,12 @@
   --ifm-code-font-size: 85%;
   --ifm-font-size-base: 17px;
   --ifm-font-color-base: #000;
+  --ifm-menu-color: #000;
   /*--ifm-alert-foreground-color: #000;*/
   /*--ifm-font-family-base: "PT Sans", sans-serif;*/
   /*--ifm-font-size-base: 100%;*/
-  --ifm-menu-color: #000;
+  /*--ifm-button-padding-vertical: 0.3rem;*/
+  /*--ifm-button-padding-horizontal: 1rem;*/
 }
 
 /*.alert {

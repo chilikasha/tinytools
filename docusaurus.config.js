@@ -32,9 +32,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
-          // routeBasePath: '/'
         },
         /**
         blog: {
@@ -77,17 +74,11 @@ const config = {
         //   src: 'img/circle.svg',
         // },
         items: [
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/chilikasha/tinytools',
             label: 'GitHub',
             position: 'right',
           },
-          // {
-          //   to: 'https://airtable.com/shr5X8eog0uy8Ab1K',
-          //   label: 'Submit',
-          //   position: 'left',
-          // },
           {
             to: '/about',
             label: 'About',
@@ -100,51 +91,6 @@ const config = {
           },
         ],
       },
-      // footer: {
-      //   style: 'dark',
-      //   links: [
-      //     {
-      //       title: 'Docs',
-      //       items: [
-      //         {
-      //           label: 'Tutorial',
-      //           to: '/docs/intro',
-      //         },
-      //       ],
-      //     },
-      //     {
-      //       title: 'Community',
-      //       items: [
-      //         {
-      //           label: 'Stack Overflow',
-      //           href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-      //         },
-      //         {
-      //           label: 'Discord',
-      //           href: 'https://discordapp.com/invite/docusaurus',
-      //         },
-      //         {
-      //           label: 'Twitter',
-      //           href: 'https://twitter.com/docusaurus',
-      //         },
-      //       ],
-      //     },
-      //     {
-      //       title: 'More',
-      //       items: [
-      //         {
-      //           label: 'Blog',
-      //           to: '/blog',
-      //         },
-      //         {
-      //           label: 'GitHub',
-      //           href: 'https://github.com/facebook/docusaurus',
-      //         },
-      //       ],
-      //     },
-      //   ],
-      //   copyright: `Copyright © ${new Date().getFullYear()} Tiny tools. Built with Docusaurus.`,
-      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

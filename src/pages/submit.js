@@ -16,7 +16,7 @@ function Submit() {
               <input className={styles.input} type="text" placeholder="App name" name="app_name" required/><br/>
               <input className={styles.input} type="text" placeholder="Description (optional)" name="message"/>
               <div className={styles.buttons}>
-                <button style={{"width": "200px"}} className="button button--secondary button--lg" type="submit">Submit</button>
+                <button style={{"width": "200px", "margin-top": "10px"}} className="button button--secondary button--lg" type="submit">Submit</button>
               </div>
             </form>
           </div>

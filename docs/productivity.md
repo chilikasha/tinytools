@@ -23,4 +23,6 @@
 
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power. <sub><sup>*[mac | paid]*</sup></sub>
 
+- [WorkFlowy](https://workflowy.com/b/) - a simple but so powerful way to stay organized with infinite nesting structure. My favourite tool. <sub><sup>*[cross-platform | free]*</sup></sub>
+
 - [Wox](http://www.wox.one/) is a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet. <sub><sup>*[win | free | oss]*</sup></sub>
