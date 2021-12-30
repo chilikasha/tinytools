@@ -36,11 +36,17 @@ html {
 
   p.pAboutPage {
     width: 90%;
+    font-size: 16px;
+  }
+
+  p.pSubmitPage {
+    font-size: 16px;
   }
 
   header {
     padding-top: 18px !important;
   }
+
 }
 
 @media screen and (max-width: 374px) {
@@ -50,16 +56,11 @@ html {
 
   ul.mainUl {
     font-size: 1rem;
-    /*padding-left: 0;*/
   }
 
   p.pAboutPage {
     font-size: 1rem;
     width: 90%;
-  }
-
-  .pSubmitPage {
-    font-size: 1rem;
   }
 }
 
@@ -90,7 +91,6 @@ li p {
   padding:10px;
   margin:10px 0;
   width:200px;
-  /*border-radius: 5px;*/
   border: 1px solid grey;
   border-radius: 7px;
 }

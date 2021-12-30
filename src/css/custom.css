@@ -8,9 +8,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  /*--ifm-color-primary: #2997ff;*/
   --ifm-color-primary: rgb(9, 105, 218);
-  /*--ifm-color-primary: rgb(15, 98, 254);*/
   --ifm-color-primary-dark: #0158fd;
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
@@ -18,12 +16,11 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 85%;
-  --ifm-font-size-base: 17px;
+  /*--ifm-font-size-base: 17px;*/
+  --ifm-font-weight-base: 400;
   --ifm-font-color-base: #000;
   --ifm-menu-color: #000;
-  /*--ifm-alert-foreground-color: #000;*/
   /*--ifm-font-family-base: "PT Sans", sans-serif;*/
-  /*--ifm-font-size-base: 100%;*/
   /*--ifm-button-padding-vertical: 0.3rem;*/
   /*--ifm-button-padding-horizontal: 1rem;*/
 }

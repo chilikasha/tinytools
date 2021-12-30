@@ -8,7 +8,7 @@
 
 - [Hazel](https://www.noodlesoft.com/) - create rules to automatically organize files in many ways: open, move, rename, archive and tag files based on their name, date, type and much more. <sub><sup>*[mac | paid]*</sup></sub>
 
-- [Marta](https://marta.yanex.org) - a free, native, dual-pane file manager for macOS. <sub><sup>*[mac | free]*</sup></sub>
+- [Marta](https://marta.sh/) - a free, native, dual-pane file manager for macOS. <sub><sup>*[mac | free]*</sup></sub>
 
 - [QuickLook](https://pooi.moe/QuickLook/) allows to peek into a file content in lightning speed by just pressing the Space key.<br/><sub><sup>*[win | free | oss]*</sup></sub>
 

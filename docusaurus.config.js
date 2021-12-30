@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
         metadata: [
-        {name: 'keywords', content: 'apps,tools,collection,simple'},
+        {name: 'keywords', content: 'useful apps, simple apps, tools, collection of apps, macos apps, useful web apps, useful macos apps'},
         {name: 'ahrefs-site-verification', content: 'e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5'}
       ], 
       colorMode: {
