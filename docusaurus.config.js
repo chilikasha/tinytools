@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/ultramin');
+// const lightCodeTheme = require('prism-react-renderer/themes/nightOwlLight');
+const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -31,15 +32,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        /**
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
-        }, */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -75,18 +70,13 @@ const config = {
         // },
         items: [
           {
-            href: 'https://github.com/chilikasha/tinytools',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            to: '/about',
-            label: 'About',
+            to: '/submit',
+            label: 'Submit',
             position: 'left',
           },
           {
-            to: '/submit',
-            label: 'Submit',
+            href: 'https://github.com/chilikasha/tinytools',
+            label: 'GitHub',
             position: 'left',
           },
         ],

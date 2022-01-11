@@ -4,60 +4,54 @@
     <loc>https://tinytools.club/</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/about</loc>
-  </url>
-  <url>
     <loc>https://tinytools.club/submit</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/productivity</loc>
+    <loc>https://tinytools.club/productivity</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/files</loc>
+    <loc>https://tinytools.club/files</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/social</loc>
+    <loc>https://tinytools.club/social</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/</loc>
+    <loc>https://tinytools.club/images</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/images</loc>
+    <loc>https://tinytools.club/text</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/text</loc>
+    <loc>https://tinytools.club/video</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/video</loc>
+    <loc>https://tinytools.club/dev</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/dev</loc>
+    <loc>https://tinytools.club/system</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/system</loc>
+    <loc>https://tinytools.club/music</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/music</loc>
+    <loc>https://tinytools.club/reading</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/reading</loc>
+    <loc>https://tinytools.club/privacy</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/privacy</loc>
+    <loc>https://tinytools.club/cli</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/cli</loc>
+    <loc>https://tinytools.club/browsing</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/browsing</loc>
+    <loc>https://tinytools.club/email</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/email</loc>
+    <loc>https://tinytools.club/camera</loc>
   </url>
   <url>
-    <loc>https://tinytools.club/docs/camera</loc>
-  </url>
-  <url>
-    <loc>https://tinytools.club/docs/misc</loc>
+    <loc>https://tinytools.club/misc</loc>
   </url>
 </urlset>

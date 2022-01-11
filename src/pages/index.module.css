@@ -4,10 +4,10 @@
  */
 
 html {
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-  font-weight: 400;
+  /*-moz-osx-font-smoothing: grayscale;*/
+  /*-webkit-font-smoothing: antialiased;*/
+  /*font-smoothing: antialiased;*/
+  /*font-weight: 400;*/
 }
 
 .heroBanner {
@@ -91,8 +91,10 @@ li p {
   padding:10px;
   margin:10px 0;
   width:200px;
-  border: 1px solid grey;
-  border-radius: 7px;
+  border: 0px solid;
+  border-radius: 6px;
+  background-color: #f1f1f1;
+  font-size: 14px;
 }
 
 /*TODO*/
@@ -104,7 +106,8 @@ li p {
 }
 
 .pSubmitPage {
-  font-size: 1.2rem;
+  /*font-size: 1.2rem;*/
+  font-size: 16px;
 }
 
 @-moz-document url-prefix() {

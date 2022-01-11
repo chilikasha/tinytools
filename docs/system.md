@@ -1,7 +1,10 @@
 # System
 
 - [AltTab](https://alt-tab-macos.netlify.app/) brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need. <sub><sup>*[mac | free | oss]*</sup></sub>
-> Also consider [Contexts](https://contexts.co/): a paid alternative window switcher.
+  :::note Alternatives
+  [Contexts](https://contexts.co/) - a paid window switcher.  
+  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.
+  :::
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps. <sub><sup>*[mac | free]*</sup></sub>
 

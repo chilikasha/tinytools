@@ -1,7 +1,3 @@
----
-slug: /
----
-
 # Audio
 
 - [Krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice. <sub><sup>*[mac | free]*</sup></sub>

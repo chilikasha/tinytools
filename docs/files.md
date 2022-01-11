@@ -1,5 +1,7 @@
 # Files
 
+- [Czkawka](https://github.com/qarmin/czkawka) - a simple and fast app which finds duplicates, empty folders, similar images etc. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
+
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the Open and Save dialogs in all of your applications. <sub><sup>*[mac | paid]*</sup></sub>
 
 - [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly. <sub><sup>*[win | free]*</sup></sub>
@@ -19,6 +21,6 @@
 
 - [Yoink](https://eternalstorms.at/yoink/mac/) - improves drag & drop by providing a "shelf" for your files until you need them again. Yoink is also available as an [iOS app](https://apps.apple.com/app/yoink-improved-drag-and-drop/id1260915283?mt=8&at=1001l8pT) which stores anything you can drag, copy, share or download and syncs it across your devices. <sub><sup>*[mac/ios | paid]*</sup></sub>
   :::note Free alternatives  
-  [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) on macOS.
-  [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) on iOS.
+  [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) for macOS.
+  [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) for iOS.
   :::

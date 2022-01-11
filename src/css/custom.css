@@ -9,25 +9,26 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: rgb(9, 105, 218);
-  --ifm-color-primary-dark: #0158fd;
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
   --ifm-color-primary-light: rgb(70, 203, 174);
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 85%;
-  /*--ifm-font-size-base: 17px;*/
-  --ifm-font-weight-base: 400;
-  --ifm-font-color-base: #000;
-  --ifm-menu-color: #000;
-  /*--ifm-font-family-base: "PT Sans", sans-serif;*/
-  /*--ifm-button-padding-vertical: 0.3rem;*/
-  /*--ifm-button-padding-horizontal: 1rem;*/
+  --ifm-font-size-base: 100%;
+  --ifm-font-weight-normal: 400;
+  /*--ifm-menu-color: #000;*/
 }
 
-/*.alert {
-  --ifm-alert-foreground-color: #000;
-}*/
+.alert {
+  --ifm-alert-background-color: #fffaf0;
+  --ifm-alert-border-left-width: 0;
+  --ifm-color-secondary-contrast-background: #282a36;
+}
+
+.alert a {
+  text-decoration-color: #474748;
+}
 
 article header h1 {
   font-size: 1.5rem !important;
@@ -41,11 +42,22 @@ article header h1 {
 }
 
 html[data-theme='dark'] {
+  --ifm-background-color: #111111;
   --ifm-color-primary: #2997ff;
-  --ifm-font-color-base: rgb(245, 246, 247);
+  /*--ifm-font-color-base: rgb(245, 246, 247);*/
   --ifm-menu-color: rgb(245, 246, 247);
 }
 
+html[data-theme='dark'] .alert {
+  --ifm-alert-background-color: #1e1e1e;
+  --ifm-alert-foreground-color: rgb(251, 211, 141);
+}
+
+html[data-theme='dark'] .alert a {
+  text-decoration-color: #fbd38d;
+}
+
 html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
+  /*background-color: rgba(0, 0, 0, 0.3);*/
+  background-color: #2d3748;
 }
