@@ -1,5 +1,7 @@
 # Productivity
 
+- [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link. <sub><sup>*[mac | paid]*</sup></sub>
+
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node. <sub><sup>*[web | free | oss]*</sup></sub>
 ![flowchart](/img/flowchart.png "Flowchart demo")
 
@@ -9,6 +11,8 @@
   :::note Alternatives
   [Dato](https://sindresorhus.com/dato) and [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina).
   :::
+
+- [Paletro](https://appmakes.io/paletro) - **command palette** to access any functionality of a currently opened application. <sub><sup>*[mac | paid]*</sup></sub>
 
 - [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets. <sub><sup>*[mac | paid]*</sup></sub>
   ```bash 

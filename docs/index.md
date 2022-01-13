@@ -3,9 +3,9 @@ slug: /
 title: Intro
 ---
 
-# Tiny tools
+# Welcome to Tiny tools
 
-Welcome to <code>Tiny tools</code>, a collection of fast, minimalist, single-purpose apps and tools which are designed to be lightweight, simple but still incredibly useful to solve everyday problems and tasks. An app will likely be listed here if it's:
+A collection of fast, minimalist, single-purpose apps and tools which are designed to be lightweight, simple but still incredibly useful to solve everyday problems and tasks. An app will likely be listed here if it's:
 - native, fast and lightweight
 - single-purpose
 - open source
