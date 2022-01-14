@@ -16,7 +16,7 @@ function Submit() {
               <input className={styles.input} type="text" placeholder="App name" name="app_name" required/><br/>
               <input className={styles.input} type="text" placeholder="Any comment (optional)" name="message"/>
               <div className={styles.buttons}>
-                <button style={{"width": "200px", "margin-top": "10px"}} className="button button--primary button--lg" type="submit">Submit</button>
+                <button style={{"width": "200px", "marginTop": "10px"}} className="button button--primary button--lg" type="submit">Submit</button>
               </div>
             </form>
           </div>
@@ -24,6 +24,11 @@ function Submit() {
       </header>
     </Layout>
   );
+}
+
+function getACount() {
+    var a = document.getElementsByTagName('a').length
+    return a
 }
 
 export default Submit;

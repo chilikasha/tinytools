@@ -4,8 +4,6 @@
  * work well for content-centric websites.
  */
 
-/*@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400&display=swap');*/
-
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: rgb(9, 105, 218);
@@ -17,7 +15,6 @@
   --ifm-code-font-size: 85%;
   --ifm-font-size-base: 100%;
   --ifm-font-weight-normal: 400;
-  /*--ifm-menu-color: #000;*/
 }
 
 .alert {
@@ -58,6 +55,5 @@ html[data-theme='dark'] .alert a {
 }
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
-  /*background-color: rgba(0, 0, 0, 0.3);*/
   background-color: #2d3748;
 }

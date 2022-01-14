@@ -1,4 +1,4 @@
-# Dev
+# Development
 
 - [Boop](https://boop.okat.best): handy scriptable scratchpad to transform plain text using basic operations such as JSON formatting, unescaping, base 64 encoding, etc. <sub><sup>*[mac | free | oss]*</sup></sub>
 

@@ -18,25 +18,9 @@ html {
   margin-top: 2rem;
 }
 
-.gradient {
-  font-size: 8rem;
-  background: linear-gradient(to right, #2997ff 40%, #330867 130%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 @media screen and (max-width: 766px) {
   .heroBanner {
     margin: 1rem;
-  }
-
-  h1.gradient {
-    font-size: 4rem;
-  }
-
-  p.pAboutPage {
-    width: 90%;
-    font-size: 16px;
   }
 
   p.pSubmitPage {
@@ -49,20 +33,7 @@ html {
 
 }
 
-@media screen and (max-width: 374px) {
-  h1.gradient {
-    font-size: 3rem;
-  }
-
-  ul.mainUl {
-    font-size: 1rem;
-  }
-
-  p.pAboutPage {
-    font-size: 1rem;
-    width: 90%;
-  }
-}
+@media screen and (max-width: 374px) {}
 
 @media (prefers-color-scheme: dark) {}
 
@@ -70,11 +41,6 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.mainUl {
-  font-size: 1.2rem;
-  padding-left: 0;
 }
 
 /*remove external link icon*/
@@ -97,16 +63,7 @@ li p {
   font-size: 14px;
 }
 
-/*TODO*/
-.pAboutPage {
-  margin: auto;
-  text-align: justify;
-  font-size: 1.2rem;
-  width: 50%;
-}
-
 .pSubmitPage {
-  /*font-size: 1.2rem;*/
   font-size: 16px;
 }
 
