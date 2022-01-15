@@ -41,13 +41,17 @@ article header h1 {
 html[data-theme='dark'] {
   --ifm-background-color: #111111;
   --ifm-color-primary: #2997ff;
-  /*--ifm-font-color-base: rgb(245, 246, 247);*/
-  --ifm-menu-color: rgb(245, 246, 247);
+  --ifm-font-color-base: #b5bdc4;
+  --ifm-menu-color: #b5bdc4;
 }
 
 html[data-theme='dark'] .alert {
   --ifm-alert-background-color: #1e1e1e;
   --ifm-alert-foreground-color: rgb(251, 211, 141);
+}
+
+html[data-theme='dark'] .pagination-nav__sublabel {
+  --ifm-color-content-secondary: #b5bdc4;
 }
 
 html[data-theme='dark'] .alert a {

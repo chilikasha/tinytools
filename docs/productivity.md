@@ -1,6 +1,9 @@
 # Productivity
 
 - [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link. <sub><sup>*[mac | paid]*</sup></sub>
+  :::note Alternatives
+  [Browser Tamer](https://www.aloneguid.uk/projects/bt/) for Windows and [Finicky](https://github.com/johnste/finicky) for macOS.
+  :::
 
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node. <sub><sup>*[web | free | oss]*</sup></sub>
 ![flowchart](/img/flowchart.png "Flowchart demo")

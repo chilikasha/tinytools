@@ -13,8 +13,8 @@ function Submit() {
           </p>
           <div>
             <form action="https://getform.io/f/2954a616-d43c-4d08-8481-8f2fc20c50df" method="POST">
-              <input className={styles.input} type="text" placeholder="App name" name="app_name" required/><br/>
-              <input className={styles.input} type="text" placeholder="Any comment (optional)" name="message"/>
+              <input className={styles.input} type="text" placeholder="App name or link" name="app_name" required/><br/>
+              <input className={styles.input} type="text" placeholder="Comments (optional)" name="message"/>
               <div className={styles.buttons}>
                 <button style={{"width": "200px", "marginTop": "10px"}} className="button button--primary button--lg" type="submit">Submit</button>
               </div>

@@ -53,13 +53,13 @@ li p {
 }
 
 .input {
-  box-sizing:border-box;
-  padding:10px;
-  margin:10px 0;
-  width:200px;
-  border: 0px solid;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px 0;
+  width: 200px;
+  border: 1px solid rgba(65, 62, 101, 0.114);
   border-radius: 6px;
-  background-color: #f1f1f1;
+  /*background-color: #f1f1f1;*/
   font-size: 14px;
 }
 
