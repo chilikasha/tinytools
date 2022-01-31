@@ -18,7 +18,7 @@ const sidebars = {
    'reading',
    'security',
    'social',
-   'system',
+   'utilities',
    'text',
    'video',
   ]

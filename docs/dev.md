@@ -12,8 +12,6 @@
 
 - [fx](https://github.com/antonmedv/fx) - a command-line JSON processing tool. <sub><sup>*[free | oss]*</sup></sub>
 
-- [ipsm.io](https://ipsm.io/) - APIs to generate dummy placeholder content (text, images, video). <sub><sup>*[web | free]*</sup></sub>
-
 - [Lorem Picsum](https://picsum.photos/): Lorem Ipsum for photos only. <sub><sup>*[web | free]*</sup></sub>
   ```
   https://picsum.photos/200?grayscale&blur=2

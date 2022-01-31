@@ -64,10 +64,10 @@ const config = {
       hideableSidebar: true,
       navbar: {
         title: 'Tiny tools',
-        // logo: {
-        //   alt: 'My Site Logo',
-        //   src: 'img/circle.svg',
-        // },
+        logo: {
+          alt: 'Tiny tools',
+          src: 'img/logo.svg',
+        },
         items: [
           {
             to: '/submit',
