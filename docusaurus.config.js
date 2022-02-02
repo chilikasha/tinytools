@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/circle.svg',
+  favicon: 'img/favicon.svg',
   organizationName: 'chilikasha',
   projectName: 'tinytools',
   deploymentBranch: 'main',

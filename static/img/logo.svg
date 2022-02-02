@@ -14,7 +14,7 @@
 <style>
   @media (prefers-color-scheme: dark) {
     polyline {
-      stroke: #b5bdc4;
+      stroke: rgb(53, 120, 229);
       fill: none;
     }
   }

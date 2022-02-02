@@ -10,6 +10,8 @@
 
 - [Dash](https://kapeli.com/dash) - an API documentation browser and code snippet manager. Dash instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets. <sub><sup>*[mac | paid]*</sup></sub>
 
+- [Fig](https://fig.io/) - adds autocomplete to an existing terminal so you can move faster. <sub><sup>*[mac | free | oss]*</sup></sub>
+
 - [fx](https://github.com/antonmedv/fx) - a command-line JSON processing tool. <sub><sup>*[free | oss]*</sup></sub>
 
 - [Lorem Picsum](https://picsum.photos/): Lorem Ipsum for photos only. <sub><sup>*[web | free]*</sup></sub>

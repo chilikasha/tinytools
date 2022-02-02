@@ -10,11 +10,18 @@
 
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/): just hold the `⌘-key` a bit longer to get a list of all active short cuts of the current application. <sub><sup>*[mac | free]*</sup></sub>
 
+- [Hidden Bar](https://apps.apple.com/app/hidden-bar/id1452453066) - hide menu bar items. <sub><sup>*[mac | free | oss]*</sup></sub>
+
+- [HottestCorners](https://bits.ee/hottestcorners/) - this app extends macOS built-in `Hot Corners` feature and allows to run any of your apps by moving mouse pointer to any of screen corners. <sub><sup>*[mac | free]*</sup></sub>
+
 - [Maccy](https://maccy.app/) - a lightweight clipboard manager for macOS which does one job - keeping your copy history at hand. <sub><sup>*[mac | free | oss]*</sup></sub>
+
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - control external display brightness and volume right from your Mac. <sub><sup>*[mac | free | oss]*</sup></sub>
 
 - [Muzzle](https://muzzleapp.com/) - a simple app to silence embarrassing notifications while screensharing. <sub><sup>*[mac, free]*</sup></sub>
 
 - [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas. <sub><sup>*[mac | free | oss]*</sup></sub>
+> Another free alternative: [Tiles](https://www.sempliva.com/tiles/).
 
 - [Shifty](https://shifty.natethompson.io/en/) - expand capabilities of Night Shift and Dark mode. Disable for specific apps and sites, follow the schedule, adjust the colour temperature. <sub><sup>*[mac | free | oss]*</sup></sub>
 

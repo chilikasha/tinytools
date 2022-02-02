@@ -18,8 +18,9 @@ const sidebars = {
    'reading',
    'security',
    'social',
-   'utilities',
    'text',
+   'travel',
+   'utilities',
    'video',
   ]
 };

@@ -3,7 +3,7 @@ slug: /
 title: Intro
 ---
 
-# Welcome to 'Tiny tools'
+# Welcome to <span style={{"color": "rgb(53, 120, 229)"}}>Tiny&nbsp;tools</span>.
 
 A collection of fast, minimalist, single-purpose apps and tools which are designed to be lightweight, simple but still incredibly useful to solve everyday problems and tasks. An app will likely be listed here if it's:
 - native, fast and lightweight
