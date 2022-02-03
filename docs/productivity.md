@@ -12,8 +12,6 @@
 
 - [Paletro](https://appmakes.io/paletro) - **command palette** to access any functionality of a currently opened application. <sub><sup>*[mac | paid]*</sup></sub>
 
-- [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure. <sub><sup>*[ios | free]*</sup></sub>
-
 - [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets. <sub><sup>*[mac | paid]*</sup></sub>
   ```bash 
   #Examples
@@ -28,6 +26,8 @@
   :::
 
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power. <sub><sup>*[mac | paid]*</sup></sub>
+
+- [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure. <sub><sup>*[ios | free| oss]*</sup></sub>
 
 - [WorkFlowy](https://workflowy.com/b/) - a simple but so powerful way to stay organized with infinite nesting structure. My favourite tool. <sub><sup>*[cross-platform | free]*</sup></sub>
 
