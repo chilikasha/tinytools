@@ -2,13 +2,15 @@
 
 - [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format and Go library. <sub><sup>*[free | oss]*</sup></sub>
 
+- [Broot](https://github.com/Canop/broot) - an alternative to the standard `tree` command, which allows you to view and navigate directories, perform fuzzy searches, run commands on the selected files or directories and etc. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
+
 - [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
 
 - [GitUpdate](https://github.com/nikitavoloboev/gitupdate): commit and push all updated files with one command. <sub><sup>*[free | oss]*</sup></sub>
 
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
-  :::note Alternative
-  [lf](https://github.com/gokcehan/lf) - a CLI file manager written in Go.
+  :::note Alternatives
+  [lf](https://github.com/gokcehan/lf) and [llama](https://github.com/antonmedv/llama) - CLI file managers written in Go.
   :::
 
 - [maclaunch](https://github.com/hazcod/maclaunch) - list and control macOS startup items. <sub><sup>*[mac | free | oss]*</sup></sub>

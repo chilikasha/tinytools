@@ -19,6 +19,8 @@
   https://picsum.photos/200?grayscale&blur=2
   ```
 
+- [Pika](https://superhighfives.com/pika) - a compact native colour picker app for macOS. <sub><sup>*[mac | free | oss]*</sup></sub>
+
 - [Proxyman](https://proxyman.io/): native macOS debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. <sub><sup>*[mac | free]*</sup></sub>
 
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting. <sub><sup>*[web | free]*</sup></sub>

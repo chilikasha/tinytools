@@ -1,10 +1,5 @@
 # Productivity
 
-- [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link. <sub><sup>*[mac | paid]*</sup></sub>
-  :::note Alternatives
-  [Browser Tamer](https://www.aloneguid.uk/projects/bt/) for Windows and [Finicky](https://github.com/johnste/finicky) for macOS.
-  :::
-
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node. <sub><sup>*[web | free | oss]*</sup></sub>
 ![flowchart](/img/flowchart.png "Flowchart demo")
 
@@ -16,6 +11,8 @@
   :::
 
 - [Paletro](https://appmakes.io/paletro) - **command palette** to access any functionality of a currently opened application. <sub><sup>*[mac | paid]*</sup></sub>
+
+- [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure. <sub><sup>*[ios | free]*</sup></sub>
 
 - [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets. <sub><sup>*[mac | paid]*</sup></sub>
   ```bash 

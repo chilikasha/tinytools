@@ -18,6 +18,8 @@
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - control external display brightness and volume right from your Mac. <sub><sup>*[mac | free | oss]*</sup></sub>
 
+- [Mos](https://mos.caldis.me/) - a lightweight tool used to smooth scrolling which also separates the touchpad and the mouse scrolls independently. <sub><sup>*[mac | free | oss]*</sup></sub>
+
 - [Muzzle](https://muzzleapp.com/) - a simple app to silence embarrassing notifications while screensharing. <sub><sup>*[mac, free]*</sup></sub>
 
 - [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas. <sub><sup>*[mac | free | oss]*</sup></sub>
