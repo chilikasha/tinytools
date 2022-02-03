@@ -6,8 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  /*--ifm-color-primary: rgb(9, 105, 218);*/
-  --ifm-color-primary: rgb(53, 120, 229);
+  --ifm-color-primary: rgb(9, 105, 218);
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
   --ifm-color-primary-light: rgb(70, 203, 174);
@@ -45,10 +44,9 @@ h1 {
 
 html[data-theme='dark'] {
   --ifm-background-color: #111111;
-  /*--ifm-color-primary: #2997ff;*/
-  --ifm-color-primary: rgb(53, 120, 229);
-  --ifm-font-color-base: #b5bdc4;
-  --ifm-menu-color: #b5bdc4;
+  --ifm-color-primary: rgb(88, 166, 255);
+  --ifm-font-color-base: rgb(201, 209, 217);
+  --ifm-menu-color: gba(255, 255, 255, 0.87);
 }
 
 html[data-theme='dark'] .alert {

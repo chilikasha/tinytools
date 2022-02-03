@@ -64,14 +64,19 @@ const config = {
       hideableSidebar: true,
       navbar: {
         title: 'Tiny tools',
-        logo: {
-          alt: 'Tiny tools',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'Tiny tools',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
             to: '/submit',
             label: 'Submit',
+            position: 'left',
+          },
+          {
+            to: 'https://twitter.com/tinytoolsclub',
+            label: 'Twitter',
             position: 'left',
           },
           {
