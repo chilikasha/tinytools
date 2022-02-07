@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Security
 
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read. <sub><sup>*[web | free | oss]*</sup></sub>

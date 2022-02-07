@@ -1,9 +1,10 @@
 ---
 slug: /
 title: Intro
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
 ---
 
-# Welcome to <span style={{"color": "rgb(9, 105, 218)"}}>Tiny&nbsp;tools</span>.
+# Welcome to Tiny tools.
 
 A collection of fast, minimalist, single-purpose apps and tools which are designed to be lightweight, simple but still incredibly useful to solve everyday problems and tasks. An app will likely be listed here if it's:
 - native, fast and lightweight

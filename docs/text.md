@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for working with text to solve your everyday problems and tasks
+---
+
 # Text
 
 - [CopyChar](https://copychar.cc/) - find and copy special characters to your clipboard. <sub><sup>*[web | free]*</sup></sub>

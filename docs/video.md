@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Video
 
 - [Blurweb](https://blurweb.app) - a paid browser extension that hides sensitive information while screen sharing or video recording. Just click any element or select an area of a web page to blur it. <sub><sup>*[addon | paid]*</sup></sub>

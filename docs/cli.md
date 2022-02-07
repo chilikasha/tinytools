@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose command line apps for everyday problems and tasks
+---
+
 # CLI
 
 - [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format and Go library. <sub><sup>*[free | oss]*</sup></sub>

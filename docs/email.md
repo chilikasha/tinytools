@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Email
 
 - [EmailThis](https://www.emailthis.me): this simple bookmarklet sends ad-free articles & web pages to your email inbox. <sub><sup>*[addon | free]*</sup></sub>

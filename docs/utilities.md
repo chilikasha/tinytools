@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Utilities
 
 - [AltTab](https://alt-tab-macos.netlify.app/) brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need. <sub><sup>*[mac | free | oss]*</sup></sub>

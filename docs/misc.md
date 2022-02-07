@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Miscellaneous
 Other tools I didn't come up with a category for.
 

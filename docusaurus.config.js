@@ -46,7 +46,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
         metadata: [
-        {name: 'keywords', content: 'useful apps, simple apps, tools, collection of apps, macos apps, useful web apps, useful macos apps'},
+        {name: 'keywords', content: 'useful, apps, simple, tiny, single-purpose, tools, services, list, collection, macos, web apps'},
+        {name: 'og:type', content: 'website'},
+        {name: 'og:url', content: 'https://tinytools.club/'},
+        {name: 'twitter:description', content: 'Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks'},
         {name: 'ahrefs-site-verification', content: 'e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5'}
       ], 
       colorMode: {
@@ -64,10 +67,6 @@ const config = {
       hideableSidebar: true,
       navbar: {
         title: 'Tiny tools',
-        // logo: {
-        //   alt: 'Tiny tools',
-        //   src: 'img/logo.svg',
-        // },
         items: [
           {
             to: '/submit',

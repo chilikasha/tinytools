@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Reading
 
 - [Alfread](https://alfreadapp.com/) - a read-it-later app that helps you to actually read articles by setting goals and reminders. <sub><sup>*[ios | free]*</sup></sub>

@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Files
 
 - [Czkawka](https://github.com/qarmin/czkawka) - a simple and fast app which finds duplicates, empty folders, similar images etc. <sub><sup>*[cross-platform | free | oss]*</sup></sub>

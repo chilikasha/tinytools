@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Travel
 
 - [Organic Maps](https://organicmaps.app/) - wonderful detailed offline maps for travelers, hikers, and cyclists. <sub><sup>*[mobile | free | oss]*</sup></sub>

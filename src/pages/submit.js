@@ -2,10 +2,14 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './index.module.css';
 import Layout from '@theme/Layout';
+import Head from '@docusaurus/Head';
 
 function Submit() {
   return (
     <Layout title="Submit">
+      <Head>
+        <meta name="description" content="Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks" />
+      </Head>
       <header className={clsx(' hero--primary', styles.heroBanner)}>
         <div className="container">
           <p className={styles.pSubmitPage}>Know of a good app which matches <code>Tiny&nbsp;tools</code> ?<br/>

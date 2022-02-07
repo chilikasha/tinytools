@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Browsing
 
 - [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link. <sub><sup>*[mac | paid]*</sup></sub>

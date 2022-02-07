@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+---
+
 # Social
 
 - [Cusdis](https://github.com/djyde/cusdis) - a lightweight, privacy-friendly, minimalist, embeddable comment system. <sub><sup>*[web | free | oss]*</sup></sub>

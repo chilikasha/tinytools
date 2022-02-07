@@ -1,3 +1,7 @@
+---
+description: Collection of useful, simple, single-purpose productivity apps and tools for everyday problems and tasks
+---
+
 # Productivity
 
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node. <sub><sup>*[web | free | oss]*</sup></sub>
