@@ -13,4 +13,4 @@ description: Collection of useful, simple, single-purpose apps and tools for wor
   [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
   :::
 
-- [Simple keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod&hl=en&gl=US) - an open source minimalist Android keyboard focused on just typing some text. No emojis, GIFs, spell checking and word prediction. <sub><sup>*[android | free | oss]*</sup></sub>
+- [Simple keyboard](https://github.com/rkkr/simple-keyboard) - an open source minimalist Android keyboard focused on just typing some text. No emojis, GIFs, spell checking and word prediction. <sub><sup>*[android | free | oss]*</sup></sub>
