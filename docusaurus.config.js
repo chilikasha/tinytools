@@ -46,7 +46,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
         metadata: [
-        {name: 'keywords', content: 'useful, apps, simple, tiny, single-purpose, tools, services, list, collection, macos, web apps'},
+        {name: 'keywords', content: 'useful, apps, simple, tiny, single-purpose, tools, list, collection, macos, web apps'},
         {name: 'og:type', content: 'website'},
         {name: 'og:url', content: 'https://tinytools.club/'},
         {name: 'twitter:description', content: 'Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks'},

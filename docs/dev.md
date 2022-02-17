@@ -27,4 +27,10 @@ description: Collection of useful, simple, single-purpose apps and tools for sof
 
 - [Proxyman](https://proxyman.io/): native macOS debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. <sub><sup>*[mac | free]*</sup></sub>
 
+- [QuickLens](https://quicklens.app/) - a powerful app to inspect the UI. <sub><sup>*[mac | paid]*</sup></sub>
+
+  :::note [PixelSnap](https://getpixelsnap.com/)
+  An alternative tool for measuring anything on your screen.
+  :::
+
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting. <sub><sup>*[web | free]*</sup></sub>
