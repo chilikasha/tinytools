@@ -33,6 +33,7 @@ const config = {
         docs: {
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
+          breadcrumbs: false,
         },
         blog: false,
         theme: {
@@ -80,7 +81,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://twitter.com/tinytoolsclub',
+            to: 'https://twitter.com/chilikasha',
             label: 'Twitter',
             position: 'left',
           },
