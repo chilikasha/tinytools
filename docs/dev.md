@@ -34,3 +34,5 @@ description: Collection of useful, simple, single-purpose apps and tools for sof
   :::
 
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting. <sub><sup>*[web | free]*</sup></sub>
+
+- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof3/) allows you to profile applications to aid in debugging and optimization. <sub><sup>*[linux | free]*</sup></sub>

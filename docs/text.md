@@ -6,6 +6,8 @@ description: Collection of useful, simple, single-purpose apps and tools for wor
 
 - [CopyChar](https://copychar.cc/) - find and copy special characters to your clipboard. <sub><sup>*[web | free]*</sup></sub>
 
+- [Copy Text Easily](https://devapt.com/copy-text-easily) - a simple and hassle free way to copy paragraphs, sentences and custom selections in one click. <sub><sup>*[addon | free]*</sup></sub>
+
 - [Espanso](https://espanso.org/) - a cross-platform text expander that detects a specific keyword and replaces it with something else. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
 
 - [OwlOCR](https://owlocr.com/) - a handy text recognition app living in menubar. Just select an area and then paste text wherever you want. <sub><sup>*[mac | free]*</sup></sub>

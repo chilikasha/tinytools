@@ -4,6 +4,8 @@ description: Collection of useful, simple, single-purpose apps and tools for eve
 
 # Files
 
+- [Collision](https://apps.gnome.org/app/dev.geopjr.Collision/) compares and verifies MD5, SHA-256, SHA-512 and SHA-1 hashes. <sub><sup>*[linux | free]*</sup></sub>
+
 - [Czkawka](https://github.com/qarmin/czkawka) - a simple and fast app which finds duplicates, empty folders, similar images etc. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
 
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the Open and Save dialogs in all of your applications. <sub><sup>*[mac | paid]*</sup></sub>

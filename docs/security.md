@@ -1,8 +1,9 @@
 ---
-description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks
+description: Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks]
+title: Security
 ---
 
-# Security
+# Security & privacy
 
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read. <sub><sup>*[web | free | oss]*</sup></sub>
 
@@ -14,3 +15,5 @@ description: Collection of useful, simple, single-purpose apps and tools for eve
   :::note Windows alternative
   [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte tool for configuring network activity.
   :::
+
+- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) allows to view metadata in your files and to get rid of sensitive information you may not want to disclose. <sub><sup>*[linux | free | oss]*</sup></sub>

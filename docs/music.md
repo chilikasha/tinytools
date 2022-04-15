@@ -4,6 +4,8 @@ description: Collection of useful, simple, single-purpose apps and tools for eve
 
 # Music
 
+- [Amberol](https://gitlab.gnome.org/ebassi/amberol) - a small and simple sound and music player that is well integrated with GNOME. <sub><sup>*[linux | free | oss]*</sup></sub>
+
 - [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - a minimalist music player for macOS with clean interface that supports MP3, FLAC, AAC, AIFF and WAV. <sub><sup>*[mac/ios | free]*</sup></sub>
 
   :::note info
