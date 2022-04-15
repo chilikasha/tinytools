@@ -81,11 +81,6 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://twitter.com/chilikasha',
-            label: 'Twitter',
-            position: 'left',
-          },
-          {
             href: 'https://github.com/chilikasha/tinytools',
             label: 'GitHub',
             position: 'left',
