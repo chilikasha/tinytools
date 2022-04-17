@@ -1,4 +1,5 @@
 User-agent: *
-Allow: /
+Allow: /$
+Disallow: /
 
 Sitemap: https://tinytools.club/sitemap.xml

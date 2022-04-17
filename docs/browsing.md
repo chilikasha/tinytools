@@ -4,6 +4,8 @@ description: Collection of useful, simple, single-purpose apps and tools for eve
 
 # Browsing
 
+- [Anybox](https://anybox.cc/) - a modern native bookmark manager for mac and iOS. <sub><sup>*[mac/ios | paid]*</sup></sub>
+
 - [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link. <sub><sup>*[mac | paid]*</sup></sub>
   :::note Alternatives
   [Browser Tamer](https://www.aloneguid.uk/projects/bt/) for Windows and [Finicky](https://github.com/johnste/finicky) for macOS.

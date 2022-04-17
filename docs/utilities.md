@@ -29,6 +29,8 @@ description: Collection of useful, simple, single-purpose apps and tools for eve
 - [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas. <sub><sup>*[mac | free | oss]*</sup></sub>
 > Another free alternative: [Tiles](https://www.sempliva.com/tiles/).
 
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - reverses the direction of macOS scrolling, with independent settings for trackpads and mice. <sub><sup>*[mac | free | oss]*</sup></sub>
+
 - [Shifty](https://shifty.natethompson.io/en/) - expand capabilities of Night Shift and Dark mode. Disable for specific apps and sites, follow the schedule, adjust the colour temperature. <sub><sup>*[mac | free | oss]*</sup></sub>
 
 - [Shortcut Bar](https://fiplab.com/apps/shortcut-bar-for-mac) is a handy app that connects you to the files, folders, apps, web bookmarks, text snippets and color swatches that you need lightning fast access to. <sub><sup>*[mac | paid]*</sup></sub>
@@ -37,3 +39,5 @@ description: Collection of useful, simple, single-purpose apps and tools for eve
 > Alternative: [TaskExplorer](https://objective-see.com/products/taskexplorer.html) by Objective-See.
 
 - [stts](https://github.com/inket/stts) - a simple macOS app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored. <sub><sup>*[mac | free | oss]*</sup></sub>
+
+- [WiFi Signal](https://www.intuitibits.com/products/wifisignal/) - lets you monitor your Wi-Fi network’s status and signal quality, notifying you about changes in your Wi-Fi connection. <sub><sup>*[mac | paid]*</sup></sub>
