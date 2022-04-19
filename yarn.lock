@@ -110,6 +110,18 @@
   resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.1.5.tgz#02f377e4d41eaaacf265e34bab9bacd8efc4a351"
   integrity sha512-/SoXW1Ntpmpw3AXAzfDRaQidnd8kbZ2oSni8u5z0yw6t4RwJvmdZy1eOaAADRThWKV+2oU90++LSnXJIwBRWYQ==
 
+"@panelbear/panelbear-js@^1.3.3":
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/@panelbear/panelbear-js/-/panelbear-js-1.3.3.tgz#f27e2abeefc751b83e23d107e4ba160f63f65eff"
+  integrity sha512-LsAxdlvdvyoQy04no/VsSMQd1i1qGFNMy328VG/BI5N5hQXIa8CZjCWNXuOjIMbJcltt7QjESMr6BgHuEeo5AA==
+
+"@panelbear/panelbear-nextjs@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@panelbear/panelbear-nextjs/-/panelbear-nextjs-1.0.3.tgz#35f97e55ffe4dcb057eee14edea25c855294eebb"
+  integrity sha512-UAwcBXiJYhJLywrY/3ZRDtcTDU+4k+Bs1dTC2EXUN8/+I07dssIiCdaw5S/SbF4WQgb4y9mxRJBBfvnU/tK+Tg==
+  dependencies:
+    "@panelbear/panelbear-js" "^1.3.3"
+
 "@reach/skip-nav@^0.11.2":
   version "0.11.2"
   resolved "https://registry.yarnpkg.com/@reach/skip-nav/-/skip-nav-0.11.2.tgz#015498b2125ad8ef1e48cb8ab33dca93925fcbc8"

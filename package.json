@@ -1,6 +1,7 @@
 {
   "name": "tinytools",
   "dependencies": {
+    "@panelbear/panelbear-nextjs": "^1.0.3",
     "next": "^12.1.5",
     "nextra": "^1.1.0",
     "nextra-theme-docs": "^1.2.6",

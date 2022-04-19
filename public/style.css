@@ -11,3 +11,31 @@ blockquote:not(:first-child) {
 pre {
   margin-top: 1rem;
 }
+
+@media (prefers-color-scheme: dark) {
+  .input {
+    color: black;
+  }
+}
+
+.input {
+  box-sizing: border-box;
+  padding: 5px;
+  margin: 10px 0;
+  width: 200px;
+  border: 1px solid rgba(65, 62, 101, 0.114);
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  margin-top: 10px;
+  background-color: #0070f4;
+  padding: 5px;
+  color: white;
+  border-radius: 6px;
+}
