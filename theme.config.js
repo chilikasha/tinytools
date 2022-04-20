@@ -27,6 +27,7 @@ export default {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://tinytools.club/tt.webp" />
       <meta name="twitter:url" content="https://tinytools.club" />
+      <meta name="twitter:site:domain" content="https://tinytools.club" />
       <meta name="twitter:description" content="Tiny tools: collection of useful, simple, single-purpose apps and tools for everyday problems and tasks" />
       <meta name="ahrefs-site-verification" content="e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5" />
       <link

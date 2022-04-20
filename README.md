@@ -3,4 +3,4 @@ A collection of useful, simple, single purpose apps and tools for everyday probl
 
 If you have any suggestions or problems please open an issue.
 
-Site is built with **docusaurus** and **vercel**.
+Site is built with **<a href="https://nextra.vercel.app/">nextra</a>** and **vercel**.
