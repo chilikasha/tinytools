@@ -12,30 +12,46 @@ pre {
   margin-top: 1rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  .input {
-    color: black;
+@media (prefers-color-scheme: dark) {}
+
+@media screen and (max-width: 814px) {
+  input.formInput {
+    width: 100%;
+  }
+
+  button.formButton {
+    width: 100%;
   }
 }
 
-.input {
+.formInput {
   box-sizing: border-box;
   padding: 5px;
   margin: 10px 0;
-  width: 200px;
+  width: 280px;
   border: 1px solid rgba(65, 62, 101, 0.114);
   border-radius: 6px;
   font-size: 14px;
+  color: black;
 }
 
-.buttons {
+.formButton {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 200px;
+  width: 280px;
   margin-top: 10px;
-  background-color: #0070f4;
+  background-color: #edf2f7;
   padding: 5px;
-  color: white;
+  color: black;
   border-radius: 6px;
+}
+
+input.formInput::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #718096;
+  opacity: 1; /* Firefox */
+}
+
+details {
+  cursor: pointer;
 }

@@ -1,4 +1,5 @@
 export default {
+  github: 'https://github.com/chilikasha/tinytools',
   projectLink: 'https://github.com/chilikasha/tinytools', // GitHub link in the navbar
   titleSuffix: ' – Tiny tools',
   nextLinks: true,
