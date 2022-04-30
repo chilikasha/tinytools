@@ -11,7 +11,11 @@ export default {
   footerText: `MIT ${new Date().getFullYear()} © Chili Kasha.`,
   logo: (
     <>
-    <span className="mr-2 font-extrabold hidden md:inline">Tiny tools</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Tiny tools</span>
+      {/* <span className="text-gray-600 font-normal hidden md:inline">
+        Collection of useful apps
+      </span>
+      */}
     </>
   ),
   head: (
@@ -20,10 +24,9 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="description" content="Tiny tools: collection of useful, simple, single-purpose apps and tools for everyday problems and tasks" />
       <meta name="og:title" content="Tiny tools" />
-      <meta name="keywords" content="small useful apps, useful apps for macos, interesting apps, list of useful apps, minimalist software, simple macos tools, list of useful apps for macos, most useful apps, tiny macos apps, small but useful apps" />
       <meta name="og:type" content="website" />
       <meta name="og:image" content="https://tinytools.club/tt.webp" />
-      <meta name="og:description" content="Tiny tools: collection of useful, simple, single-purpose apps and tools for everyday problems and tasks" />
+      <meta name="og:description" content="Collection of useful, simple, single-purpose apps and tools for everyday problems and tasks" />
       <meta name="og:url" content="https://tinytools.club/" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://tinytools.club/tt.webp" />
