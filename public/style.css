@@ -14,6 +14,14 @@ pre {
 
 @media (prefers-color-scheme: dark) {}
 
+/* .dark body {
+  background-color: #343434;
+} */
+
+/* .dark .dark\:bg-dark {
+  background-color: #343434;
+} */
+
 @media screen and (max-width: 814px) {
   input.formInput {
     width: 100%;
