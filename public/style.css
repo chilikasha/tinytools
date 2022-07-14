@@ -1,6 +1,14 @@
+/*.dark .invert-on-dark {
+  filter: invert(1) brightness(1.8);
+}*/
+
 .bg-orange-100 {
   margin-top: 0.5rem;
   margin-bottom: 1rem;
+}
+
+.text-orange-800 {
+  color: #232323;
 }
 
 blockquote:not(:first-child) {
@@ -55,6 +63,16 @@ pre {
   border-radius: 6px;
 }
 
+ a {
+  /*color: #0077ff;*/
+  /*color: #0969da;*/
+  text-decoration: none;
+} 
+
+/* footer a:hover {
+  color: #0077ff;
+}*/
+
 input.formInput::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #718096;
   opacity: 1; /* Firefox */
@@ -62,4 +80,8 @@ input.formInput::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 
 details {
   cursor: pointer;
+}
+
+.bg-orange-100 {
+  /*background-color: #f0f7ff;*/
 }
