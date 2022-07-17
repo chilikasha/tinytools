@@ -6,6 +6,12 @@ title: CLI
 
 - [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format and Go library. <sub><sup>*[free | oss]*</sup></sub>
 
+- [Atuin](https://atuin.sh/) - a shell history with additional commands context and optional fully encrypted synchronisation between your machines. <sub><sup>*[free | oss]*</sup></sub>
+  ```bash
+  # search for all successful `make` commands, recorded after 3pm yesterday
+  atuin search --exit 0 --after "yesterday 3pm" make
+  ```
+
 - [Broot](https://github.com/Canop/broot) - an alternative to the standard `tree` command, which allows you to view and navigate directories, perform fuzzy searches, run commands on the selected files or directories and etc. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
 
 - [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem. <sub><sup>*[cross-platform | free | oss]*</sup></sub>
@@ -37,13 +43,9 @@ title: CLI
 
 - [Transfer.sh](https://transfer.sh) - a free service for sharing files right from the command line. <sub><sup>*[free | oss]*</sup></sub>
   ```bash
-  # Upload with curl
-  $ curl --upload-file ./hello.txt https://transfer.sh/hello.txt  
-  # And get a link in response
-
-  # Other options
+  # upload
   $ curl -H "Max-Downloads: 1" -H "Max-Days: 5" --upload-file ./hello.txt https://transfer.sh/hello.txt
 
-  # Download the file 
+  # download 
   $ curl https://transfer.sh/66nb8/hello.txt -o hello.txt
   ```
