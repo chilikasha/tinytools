@@ -6,8 +6,11 @@ export default {
   prevLinks: true,
   search: false,
   customSearch: null, // customizable, you can use algolia for example
-  darkMode: true,
+  // darkMode: true,
+  floatTOC: true,
+  footerEditLink: false,
   footer: false,
+  // breadcrumb: false,
   footerText: `MIT ${new Date().getFullYear()} © Chili Kasha.`,
   logo: (
     <>
@@ -33,6 +36,7 @@ export default {
       <meta name="twitter:url" content="https://tinytools.club" />
       <meta name="twitter:site:domain" content="https://tinytools.club" />
       <meta name="twitter:description" content="Tiny tools: list of useful, simple, single-purpose apps and tools for everyday problems and tasks" />
+      <meta name="apple-mobile-web-app-title" content="Tiny tools" />
       <meta name="ahrefs-site-verification" content="e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5" />
       <link
         rel="icon"
