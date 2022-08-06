@@ -4,13 +4,13 @@ export default {
   titleSuffix: ' – Tiny tools',
   nextLinks: true,
   prevLinks: true,
-  search: false,
-  customSearch: null, // customizable, you can use algolia for example
-  // darkMode: true,
+  search: true,
+  unstable_flexsearch: true,
+  searchPlaceholder: 'Search tools',
+  darkMode: true,
   floatTOC: true,
   footerEditLink: false,
   footer: false,
-  // breadcrumb: false,
   footerText: `MIT ${new Date().getFullYear()} © Chili Kasha.`,
   logo: (
     <>

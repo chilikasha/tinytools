@@ -1317,10 +1317,10 @@ next@^12.1.6:
     "@next/swc-win32-ia32-msvc" "12.1.6"
     "@next/swc-win32-x64-msvc" "12.1.6"
 
-nextra-theme-docs@^2.0.0-beta.12:
-  version "2.0.0-beta.12"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.0.0-beta.12.tgz#5f6cf069e597789f22a0b767c7e895d418c1a1f3"
-  integrity sha512-hTftqKjgeco/wj6PlLfpE4nRk1SpuUrH+BqfnJxkdH7ypeGpbBkUK37QH/kVVuEsUSnnZ4MmL8rvbovULK7Xjg==
+nextra-theme-docs@2.0.0-beta.14:
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.0.0-beta.14.tgz#77f8ce8080c9a41adf9787f64a7acc489f7f8e09"
+  integrity sha512-bmRC6T6VM8g+4m8tJiHzshxToRL9trI+mZDwE0hQsuVfSFBGeoqTKg4Yq71YrSeEbilU4kXWyuYG292UGZxQ0g==
   dependencies:
     "@headlessui/react" "^1.6.5"
     "@mdx-js/react" "^2.1.2"
@@ -1336,10 +1336,10 @@ nextra-theme-docs@^2.0.0-beta.12:
     scroll-into-view-if-needed "^2.2.29"
     title "^3.4.2"
 
-nextra@^2.0.0-beta.12:
-  version "2.0.0-beta.12"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.0.0-beta.12.tgz#ce4b750bd266a3a19c1d396be8295650bad64690"
-  integrity sha512-p0zYmdnHHaR81yTXGZHAUfNNeQqrgbPa4UlOT3/72lUeGrafVKahdmmo+LJOcIxZ7whtvIpMFVI8Hh7sn4q7OQ==
+nextra@2.0.0-beta.14:
+  version "2.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.0.0-beta.14.tgz#d2d8654aaac3e6d6206de382c15c2fc3129f2c5d"
+  integrity sha512-htsK4CkHV2TxNXj7UxPfYosi7+QoYSwIpc96KKPMB2P5T+PGUtvS8pfM93GjQmBQDRw4qt8HFJEwQBrcKMnE1A==
   dependencies:
     "@mdx-js/mdx" "^2.1.2"
     "@napi-rs/simple-git" "^0.1.8"
