@@ -1,16 +1,19 @@
 export default {
   github: 'https://github.com/chilikasha/tinytools',
-  projectLink: 'https://github.com/chilikasha/tinytools', // GitHub link in the navbar
+  projectLink: 'https://github.com/chilikasha/tinytools',
   titleSuffix: ' – Tiny tools',
   nextLinks: true,
   prevLinks: true,
   search: true,
-  unstable_flexsearch: true,
+  unstable_flexsearch: {
+     codeblocks: true
+  },
   searchPlaceholder: 'Search tools',
   darkMode: true,
   floatTOC: true,
   footerEditLink: false,
   footer: false,
+  gitTimestamp: '',
   footerText: `MIT ${new Date().getFullYear()} © Chili Kasha.`,
   logo: (
     <>
