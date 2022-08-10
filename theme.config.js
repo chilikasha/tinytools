@@ -5,9 +5,7 @@ export default {
   nextLinks: true,
   prevLinks: true,
   search: true,
-  unstable_flexsearch: {
-     codeblocks: true
-  },
+  unstable_flexsearch: true,
   searchPlaceholder: 'Search tools',
   darkMode: true,
   floatTOC: true,
