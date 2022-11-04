@@ -2,9 +2,10 @@
   "name": "tinytools",
   "dependencies": {
     "@panelbear/panelbear-nextjs": "^1.0.4",
+    "@vercel/analytics": "^0.1.3",
     "next": "^12.2.4",
-    "nextra": "2.0.0-beta.16",
-    "nextra-theme-docs": "2.0.0-beta.16",
+    "nextra": "2.0.0-beta.41",
+    "nextra-theme-docs": "2.0.0-beta.41",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }

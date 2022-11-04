@@ -1,37 +1,3 @@
-body {
-  /*font-family: ;*/
-}
-
-p:not(:first-child) {
-  margin-top: 0rem; 
-}
-
-/*calloutt margins*/
-.bg-orange-50 {
-  margin-top: 0.5rem;
-  margin-bottom: 1rem;
-}
-
-/*nav bar background*/
-.nextra-nav-container-blur {
-  /*background-color: #fff8ec;*/
-}
-
-/*callout text color*/
-.text-orange-800 {
-  color: #232323;
-  /*color: #ffdb6d;*/
-}
-
-div.nextra-callout {
-  background-color: #fcecb8;
-}
-
-/*blockquote {
-  font-style: none;
-  font-size: 0.9rem;
-}*/
-
 blockquote:not(:first-child) {
   margin-top: 0.3rem;
   margin-bottom: 1rem;
@@ -44,34 +10,9 @@ article pre {
   margin-top: 0.5rem;
 }
 
-article {
-  /*line-height: 1.5rem;*/
-}
-
-.tag {
-  background-color: #f5f5f5;
-  font-size: .6rem;
-  color: #4a4a4a;
-  line-height: 1;
-  align-items: center;
-  border-radius: 4px;
-  display: inline-flex;
-  height: 2em;
-  /*margin: .25em .25em;*/
-  margin-right: .25rem;
-  margin-bottom: 0.75em;
-  padding-left: .75em;
-  padding-right: .75em;
-  white-space: nowrap;
+.v-align {
   vertical-align: middle;
-  font-weight: 500;
-}
-
-@media (prefers-color-scheme: dark) {
-  .tag {
-    background-color: #2b2b2b;
-    color: #bbb9bb;
-  }
+  /*-webkit-align-self: center;*/
 }
 
 @media screen and (max-width: 814px) {
@@ -92,7 +33,6 @@ article {
   border: 1px solid rgba(65, 62, 101, 0.114);
   border-radius: 6px;
   font-size: 14px;
-  color: black;
 }
 
 .formButton {
@@ -101,18 +41,18 @@ article {
   justify-content: center;
   width: 280px;
   margin-top: 10px;
-  background-color: #edf2f7;
+  background-color: #3f3f3f;
   padding: 5px;
-  color: black;
+  color: white;
   border-radius: 6px;
 }
 
-a {
-  text-decoration: none;
-} 
+[data-rehype-pretty-code-fragment] {
+  margin-top: 0.5rem;
+}
 
 input.formInput::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #718096;
+  /*color: #718096;*/
   opacity: 1; /* Firefox */
 }
 

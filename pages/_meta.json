@@ -1,10 +1,20 @@
 {
   "index": {
     "title": "About",
-    "hidden": true,
+    "display": "hidden",
     "theme": {
       "breadcrumb": false,
       "pagination": false
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "sidebar": false,
+      "pagination": false,
+      "breadcrumb": true
     }
   },
   "audio": {
