@@ -12,7 +12,6 @@ article pre {
 
 .v-align {
   vertical-align: middle;
-  /*-webkit-align-self: center;*/
 }
 
 @media screen and (max-width: 814px) {

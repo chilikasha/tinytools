@@ -1,7 +1,4 @@
 import { useRouter } from 'next/router'
-// import { inject } from '@vercel/analytics'
-
-// inject()
 
 export default {
   darkMode: true,
