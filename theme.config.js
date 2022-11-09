@@ -36,7 +36,6 @@ export default {
     return (
       <>
         {/* Favicons, meta */}
-        <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="theme-color" content="#ffffff" />
         <meta name="description" content="Tiny tools: list of useful, simple, single-purpose apps and tools for everyday problems and tasks" />
