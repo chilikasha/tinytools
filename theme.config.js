@@ -56,12 +56,6 @@ export default {
     link: 'https://github.com/chilikasha/tinytools'
   },
   search: {
-    unstable_flexsearch: true,
-    emptyResult: (
-      <span className="block select-none p-8 text-center text-sm text-gray-400">
-        No results found.
-      </span>
-    ),
     placeholder() {
       return 'Search tools'
     }
