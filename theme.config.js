@@ -16,8 +16,7 @@ export default {
         { name: 'og:type', content: 'website' },
         { name: 'og:image', content: 'https://tinytools.club/tt.webp' },
         { name: 'og:url', content: 'https://tinytools.club' },
-        { name: 'apple-mobile-web-app-title', content: 'Tiny tools' },
-        { name: 'ahrefs-site-verification', content: 'e84720fd3dd7d0e2d439a09168118c870f2382eb512d13636e43d3af505252f5' }
+        { name: 'apple-mobile-web-app-title', content: 'Tiny tools' }
       ],
       description: frontMatter.description || 'Tiny tools: list of useful, simple, single-purpose apps and tools for everyday problems and tasks',
       openGraph: {
