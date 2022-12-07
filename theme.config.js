@@ -3,6 +3,10 @@ import { useConfig } from 'nextra-theme-docs'
 export default {
   darkMode: true,
   editLink: false,
+  feedback: {
+    content: undefined,
+    // labels: "feedback",
+  },
   footer: {
     component: null,
     // text: `MIT ${new Date().getFullYear()} © Chili Kasha.`
@@ -55,8 +59,6 @@ export default {
     link: 'https://github.com/chilikasha/tinytools'
   },
   search: {
-    placeholder() {
-      return 'Search tools'
-    }
+      placeholder: 'Search tools'
   }
 }
