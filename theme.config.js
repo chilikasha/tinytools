@@ -2,16 +2,18 @@ import { useConfig } from 'nextra-theme-docs'
 
 export default {
   darkMode: true,
-  editLink: false,
+  editLink: {
+    text: ''
+  },
   feedback: {
-    content: undefined,
-    // labels: "feedback",
+    content: '',
+    labels: '',
   },
   footer: {
-    component: null,
-    // text: `MIT ${new Date().getFullYear()} © Chili Kasha.`
+    component: '',
+    text: ''
   },
-  getNextSeoProps() {
+  useNextSeoProps() {
     const { frontMatter } = useConfig()
     return {
       additionalMetaTags: [
@@ -60,5 +62,9 @@ export default {
   },
   search: {
       placeholder: 'Search tools'
+  },
+  toc: {
+    extraContent: '',
+    float: true
   }
 }
