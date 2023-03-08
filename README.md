@@ -1,16 +1,18 @@
-# Tiny tools  
+# Tiny tools
+
 A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
 
 If you have any suggestions or problems please open an issue.
 
 ## Table of contents
+
 - [Audio](#audio)
 - [Browsing](#browsing)
 - [Camera](#camera)
 - [Developer tools](#developer-tools)
 - [Email](#email)
 - [Files](#files)
-	- [Sharing](#sharing)
+  - [Sharing](#sharing)
 - [Images](#images)
 - [Miscellaneous](#miscellaneous)
 - [Music](#music)
@@ -21,15 +23,17 @@ If you have any suggestions or problems please open an issue.
 - [Text](#text)
 - [Travel](#travel)
 - [Utilities](#utilities)
-	- [Display](#display)
-	- [Network](#network)
-	- [Shell](#shell)
+  - [Display](#display)
+  - [Network](#network)
+  - [Shell](#shell)
 - [Video](#video)
 
 ## Audio
 
 - [Krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
   > Alternative: [Utterly](https://www.utterly.app/)
+
+- [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - quickly and easily transcribe audio files into text with OpenAI's transcription technology Whisper.
 
 - [Micdrop](https://getmicdrop.com) mutes your mic in any app with a global keyboard shortcut or a menu bar control.
 
@@ -44,11 +48,13 @@ If you have any suggestions or problems please open an issue.
 
 - [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link.
   > **Free** alternatives:  
-    [Browser Tamer](https://www.aloneguid.uk/projects/bt/) for Windows and [Velja](https://sindresorhus.com/velja) for macOS.
+  >  [Browser Tamer](https://www.aloneguid.uk/projects/bt/) for Windows and [Velja](https://sindresorhus.com/velja) for macOS.
 
-- [MenubarX](https://menubarx.app/) - a browser in your menu bar. <nobr className="v-align"><i className="ri-apple-line"></i></nobr>
+- [MenubarX](https://menubarx.app/) - a browser in your menu bar.
 
 - [Min](https://minbrowser.org/) - a fast, minimal and open source browser.
+
+- [Noir](https://getnoir.app/) - a Safari extension for iOS that automatically adds a dark mode to every website you visit.
 
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - a keyboard-driven, **vim**-like browser based on `Python` and `Qt`.
 
@@ -78,7 +84,7 @@ If you have any suggestions or problems please open an issue.
 
 - [Fig](https://fig.io/) - adds autocomplete to an existing terminal so you can move faster.
 
-- [fx](https://github.com/antonmedv/fx) - a command-line JSON processing tool.
+- [fx](https://github.com/antonmedv/fx) - a Terminal JSON viewer.
 
 - [Gitleaks](https://gitleaks.io/index.html) - a fast and light-weight scanner for git repositories, files and directories for detecting and preventing hardcoded secrets like passwords, api keys and tokens.
 
@@ -100,7 +106,7 @@ If you have any suggestions or problems please open an issue.
 
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting.
 
-- [Sysprof](https://wiki.gnome.org/Apps/Sysprof) allows you to profile applications to aid in debugging and optimization.\
+- [Sysprof](https://wiki.gnome.org/Apps/Sysprof) allows you to profile applications to aid in debugging and optimization.
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -109,7 +115,7 @@ If you have any suggestions or problems please open an issue.
 - [EmailThis](https://www.emailthis.me): this simple bookmarklet sends ad-free articles & web pages to your email inbox.
 
 - [followupthen](https://www.followupthen.com/) - a simple but flexible way to
-schedule an email reminder.
+  schedule an email reminder.
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -126,7 +132,8 @@ schedule an email reminder.
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the `Open` and `Save` dialogs in all of your applications.
 
 - [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
-  > Also check [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.
+  > Also check [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.  
+  Linux alternative: [FSearch](https://github.com/cboxdoerfer/fsearch).
 
 - [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser.
 
@@ -145,26 +152,26 @@ schedule an email reminder.
 
 - [Dropover](https://dropoverapp.com/) - improves drag & drop by providing a "shelf" where you can stash, gather or move any draggable content.
   > Alternatives:  
-  Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).  
-  iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
+  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).  
+  > iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
 
 #### Sharing
 
 - [AirDash](https://airdash-project.web.app/) - secure WebRTC app for sharing files between devices on different platforms.
 
 - [Snapdrop](https://snapdrop.net/) - a browser based AirDrop alternative. This handy app lets you share text and files between devices on the same network.
-	> You can also try [sharedrop.io](https://www.sharedrop.io/) which works the same way.
+  > You can also try [sharedrop.io](https://www.sharedrop.io/) which works the same way.
 
 - [Transfer.sh](https://transfer.sh) - a free service for sharing files right from the command line.
   ```bash
   # upload
   $ curl -H "Max-Downloads: 1" -H "Max-Days: 5" --upload-file ./hello.txt https://transfer.sh/hello.txt
 
-  # download 
+  # download
   $ curl https://transfer.sh/66nb8/hello.txt -o hello.txt
   ```
 
-- [Wormhole](https://wormhole.app/) - a simple and safe way to send files and folders. All your shared data is end-to-end encrypted and is automatically expired after 24 hours. Upload size is limited to 10GB.  
+- [Wormhole](https://wormhole.app/) - a simple and safe way to send files and folders. All your shared data is end-to-end encrypted and is automatically expired after 24 hours. Upload size is limited to 10GB.
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -195,22 +202,23 @@ schedule an email reminder.
 
 ## Miscellaneous
 
-- [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
+- [Drive and Listen](https://driveandlisten.app/) - "drive" around cities while listening to their local radios.
 
-- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls): this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
+- [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
 
-- [Hush](https://oblador.github.io/hush/) blocks nags to accept cookies and privacy invasive tracking in Safari.
+    Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
 
-- [LessPass](https://www.lesspass.com/#/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
+- [Mactracker](http://mactracker.ca/) provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
 
-- [Little Snitch](https://obdev.at/products/littlesnitch/index.html) will show every single connection attempt of your computer so you can control your data.
-  > There are also alternatives for other platforms:  
-  [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.  
-  And [OpenSnitch](https://github.com/evilsocket/opensnitch) is a `GNU/Linux` port of Little Snitch.
+- [RunCat](https://kyome.io/runcat/index.html) - the more CPU load is, the faster the cat runs.
 
-- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
+- [Shadowmap](https://app.shadowmap.org/) - visualize solar shadows and the Sun in 3D. Anywhere on Earth, anytime.
 
-- [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages, examine their contents and see what they actually do.
+- [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - an app that can download an entire website including images, PDFs, style sheets, and other files.
+
+- [what3words](https://what3words.com/) - this app divides the world into 3 metre squares and gives each square a unique combination of three words which you can use to easily find and share exact locations.
+
+- [WindowSnap](https://www.window-swap.com/Window) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -245,14 +253,15 @@ schedule an email reminder.
 - [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets.
   ```bash
   # Examples
-  $300 in Euro  
-  25% of 900  
-  June 9 + weeks  
-  6pm Sydney in Chicago  
+  $300 in Euro
+  25% of 900
+  June 9 + weeks
+  6pm Sydney in Chicago
   ```
-  >  Alternatives:  
-    [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.  
-    [Numbr](https://numbr.dev/): fewer features but works right in a browser.
+
+  > Alternatives:  
+  >  [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.  
+  >  [Numbr](https://numbr.dev/): fewer features but works right in a browser.
 
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power.
 
@@ -290,8 +299,8 @@ schedule an email reminder.
 
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) will show every single connection attempt of your computer so you can control your data.
   > There are also alternatives for other platforms:  
-  [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.  
-  And [OpenSnitch](https://github.com/evilsocket/opensnitch) is a `GNU/Linux` port of Little Snitch.
+  > [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.  
+  > And [OpenSnitch](https://github.com/evilsocket/opensnitch) is a `GNU/Linux` port of Little Snitch.
 
 - [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
 
@@ -319,7 +328,7 @@ schedule an email reminder.
 
 - [OwlOCR](https://owlocr.com/) - a handy text recognition app living in menubar. Just select an area and then paste text wherever you want.
   > Alternative:  
-  [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
+  > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
 
 - [PopClip](https://pilotmoon.com/popclip/) appears when you select text, giving access to a customizable row of +200 helpful actions.
 
@@ -346,9 +355,9 @@ schedule an email reminder.
 
 - [AltTab](https://alt-tab-macos.netlify.app/) brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
   > Alternatives and similar apps:  
-    [Contexts](https://contexts.co/) - a paid window switcher.  
-    [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.  
-    [Witch](https://manytricks.com/witch/): switch apps, windows and tabs.
+  >  [Contexts](https://contexts.co/) - a paid window switcher.  
+  >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.  
+  >  [Witch](https://manytricks.com/witch/): switch apps, windows and tabs.
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
 
@@ -374,7 +383,7 @@ schedule an email reminder.
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - a macOS menu bar app which provides a series of customizable toggle switches to simplify your routine work.
 
 - [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas.
-  > Another free alternative: [Tiles](https://www.sempliva.com/tiles/). 
+  > Another free alternative: [Tiles](https://www.sempliva.com/tiles/).
 
 - [RustDesk](https://rustdesk.com/) - secure, fast and simple remote desktop software. Doesn't require configuration and works on any platform.
 
@@ -407,9 +416,16 @@ schedule an email reminder.
   atuin search --exit 0 --after "yesterday 3pm" make
   ```
 
+- [Dust](https://github.com/bootandy/dust) - a more intuitive `du` alternative written in Rust.
+
+- [eq](https://github.com/srsudar/eg) - provides examples of common uses of command line tools.
+
 - [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem.
 
 - [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
+
+- [LSD](https://github.com/Peltoche/lsd) - a rewrite of `ls` command with features like colors, icons, tree-view, more formatting options etc.
+  > Or have a look at [exa](https://github.com/ogham/exa) as another option.
 
 - [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands.
   ```bash
@@ -437,6 +453,3 @@ schedule an email reminder.
 - [Recut](https://getrecut.com/) automatically finds and cuts pauses and silence in videos.
 
 [⬆️ Go to Top](#table-of-contents)
-
-
-
