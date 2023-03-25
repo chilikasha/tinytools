@@ -2,7 +2,7 @@
 
 A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
 
-If you have any suggestions or problems please open an issue.
+If you have any questions or suggestions please open an issue or [send me an email](mailto:tinytools@icloud.com).
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ If you have any suggestions or problems please open an issue.
 - [Music](#music)
 - [Productivity](#productivity)
 - [Reading](#reading)
-- [Security & privacy](#security-privacy)
+- [Security and privacy](#security-and-privacy)
 - [Social](#social)
 - [Text](#text)
 - [Travel](#travel)
@@ -287,7 +287,7 @@ If you have any suggestions or problems please open an issue.
 
 [⬆️ Go to Top](#table-of-contents)
 
-## Security & privacy
+## Security and privacy
 
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
@@ -303,6 +303,8 @@ If you have any suggestions or problems please open an issue.
   > And [OpenSnitch](https://github.com/evilsocket/opensnitch) is a `GNU/Linux` port of Little Snitch.
 
 - [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
+
+- [NextDNS](https://nextdns.io/) - lightweight and easy customizable tool to block ads and trackers on websites and in apps.
 
 - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages, examine their contents and see what they actually do.
 
@@ -405,6 +407,8 @@ If you have any suggestions or problems please open an issue.
 #### Network
 
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - a zero configuration app that tracks the network usage.
+
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) - a network analyser (packet sniffer) developed with the aim to let people have a glance into their network in a simple and clear way. Features: filtering, overall traffic statistics, real-time charts, custom notifications and more.
 
 - [WiFi Signal](https://www.intuitibits.com/products/wifisignal/) - lets you monitor your Wi-Fi network’s status and signal quality, notifying you about changes in your Wi-Fi connection.
 
