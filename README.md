@@ -202,11 +202,13 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 ## Miscellaneous
 
+- [Animated Drawings](https://github.com/facebookresearch/AnimatedDrawings) - use this tool to create animations based on your own drawn characters.
+
 - [Drive and Listen](https://driveandlisten.app/) - "drive" around cities while listening to their local radios.
 
 - [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
 
-    Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
+  > Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
 
 - [Mactracker](http://mactracker.ca/) provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
 
@@ -215,6 +217,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Shadowmap](https://app.shadowmap.org/) - visualize solar shadows and the Sun in 3D. Anywhere on Earth, anytime.
 
 - [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - an app that can download an entire website including images, PDFs, style sheets, and other files.
+  > [SingleFile](https://github.com/gildas-lormeau/SingleFile) is an open source browser extension which saves an entire web page into a single HTML file.
 
 - [what3words](https://what3words.com/) - this app divides the world into 3 metre squares and gives each square a unique combination of three words which you can use to easily find and share exact locations.
 
@@ -267,8 +270,6 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure.
 
-- [WorkFlowy](https://workflowy.com/b/) - a simple but very powerful way to stay organized with infinite nesting structure. My favourite tool.
-
 - [Wox](http://www.wox.one/) is a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet.
 
 [⬆️ Go to Top](#table-of-contents)
@@ -319,6 +320,9 @@ If you have any questions or suggestions please open an issue or [send me an ema
 [⬆️ Go to Top](#table-of-contents)
 
 ## Text
+
+- [Bike](https://hogbaysoftware.netlify.app/bike/) - a fast and fluid outliner for macOS. Simple but powerful tool for organizing thoughts, making lists, taking notes and saving ideas.
+  > A cross-platform alternative: [WorkFlowy](https://workflowy.com/)
 
 - [Bob](https://bobtranslate.com/) - a macOS translation app for text and pictures, and manual input. The [PopClip](https://pilotmoon.com/popclip/) plugin is also available.
 
@@ -397,6 +401,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
   > Alternative: [TaskExplorer](https://objective-see.org/products/taskexplorer.html) by Objective-See.
 
 - [stts](https://github.com/inket/stts) - a simple macOS app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored.
+
+- [Swish](https://highlyopinionated.co/swish/) - control windows and apps right from your trackpad with intuitive `swipe`, `pinch`, `tap` and `hold` gestures. Features easy-to-use titlebar, dock and menubar gestures and supports Magic Mouse and keyboard as well.
 
 #### Display
 
