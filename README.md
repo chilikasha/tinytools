@@ -315,6 +315,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Cusdis](https://github.com/djyde/cusdis) - a lightweight, privacy-friendly, minimalist, embeddable comment system.
 
+- [Minus](https://minus.social/) - a finite social network where you get 100 posts - for life. No likes, follows and noisy notifications.
+
 - [Pony](https://www.ponymessenger.com/) - a messenger that picks up and deliveres once a day.
 
 [⬆️ Go to Top](#table-of-contents)
@@ -345,6 +347,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Table Tool](https://github.com/jakob/TableTool) - a simple CSV editor for macOS.
   > Version (fork) for Apple Silicon can be found [here](https://github.com/rafi16jan/TableTool).
 
+- [TextPal](https://www.textpal.app/) - super-fast emoji picker for macOS. Works in any app.
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## Travel
@@ -371,9 +375,14 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Hidden Bar](https://apps.apple.com/app/hidden-bar/id1452453066) - hides menu bar items.
 
+- [HiDock](https://hidock.app/) - set custom `Dock` settings for different display configurations.
+
 - [HottestCorners](https://bits.ee/hottestcorners/) - this app extends macOS built-in `Hot Corners` feature and allows to run any of your apps by moving mouse pointer to any of screen corners.
 
-- [Keyviz](https://mularahul.github.io/keyviz/) - a free Windows app for visualizing your keystrokes in realtime. Handy for screencasts and presentations.
+- [KeyCastr](https://github.com/keycastr/keycastr) - an open source macOS app for visualizing your keystrokes in realtime. Handy for screencasts and presentations.
+  > [Keyviz](https://mularahul.github.io/keyviz/) - a free Windows alternative.
+
+- [Klack](https://tryklack.com/) - this app adds mechanical keyboard sounds to every keystroke.
 
 - [Maccy](https://maccy.app/) - a lightweight clipboard manager for macOS which does one job - keeping your copy history at hand.
 
