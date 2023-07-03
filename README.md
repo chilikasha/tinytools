@@ -40,7 +40,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Recordia](https://sindresorhus.com/recordia) lets you record audio directly from the menu bar or with a global keyboard shortcut.
   > Alternatives: macOS [voice memos](https://support.apple.com/guide/voice-memos/record-vmaa4b813415/mac) or [Piezo](https://rogueamoeba.com/piezo/) app.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Browsing
 
@@ -62,7 +62,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [TWP](https://addons.mozilla.org/pt-BR/firefox/addon/traduzir-paginas-web/) - translate current web page in real time using Google or Yandex.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Camera
 
@@ -70,7 +70,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Webcam Plus](https://webcamplus.app/) - use any camera on your iPhone as a **webcam** for your Mac.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Developer tools
 
@@ -108,7 +108,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Sysprof](https://wiki.gnome.org/Apps/Sysprof) allows you to profile applications to aid in debugging and optimization.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Email
 
@@ -117,7 +117,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [followupthen](https://www.followupthen.com/) - a simple but flexible way to
   schedule an email reminder.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Files
 
@@ -173,7 +173,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Wormhole](https://wormhole.app/) - a simple and safe way to send files and folders. All your shared data is end-to-end encrypted and is automatically expired after 24 hours. Upload size is limited to 10GB.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Images
 
@@ -198,7 +198,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [qView](https://interversehq.com/qview/) - image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Miscellaneous
 
@@ -223,7 +223,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [WindowSnap](https://www.window-swap.com/Window) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Music
 
@@ -234,7 +234,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - a minimalist music player for macOS with clean interface that supports MP3, FLAC, AAC, AIFF and WAV.
   > Tiny Player also comes on [iPhone and iPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Productivity
 
@@ -272,7 +272,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Wox](http://www.wox.one/) is a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Reading
 
@@ -286,7 +286,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [NetNewsWire](https://netnewswire.com/) - a small and stable feed reader.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Security and privacy
 
@@ -309,7 +309,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages, examine their contents and see what they actually do.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Social
 
@@ -319,9 +319,11 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Pony](https://www.ponymessenger.com/) - a messenger that picks up and deliveres once a day.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Text
+
+- [Bean](https://bean-osx.com/Bean.html) - a small and easy-to-use word processor.
 
 - [Bike](https://hogbaysoftware.netlify.app/bike/) - a fast and fluid outliner for macOS. Simple but powerful tool for organizing thoughts, making lists, taking notes and saving ideas.
   > A cross-platform alternative: [WorkFlowy](https://workflowy.com/)
@@ -334,6 +336,10 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Espanso](https://espanso.org/) - a cross-platform text expander that detects a specific keyword and replaces it with something else.
 
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - a lightweight Markdown editor.
+
+- [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
+
 - [OwlOCR](https://owlocr.com/) - a handy text recognition app living in menubar. Just select an area and then paste text wherever you want.
   > Alternative:  
   > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
@@ -344,12 +350,16 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Simple keyboard](https://github.com/rkkr/simple-keyboard) - an open source minimalist Android keyboard focused on just typing some text. No emojis, GIFs, spell checking and word prediction.
 
+- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) - a small and fast PDF and ebook reader.
+
 - [Table Tool](https://github.com/jakob/TableTool) - a simple CSV editor for macOS.
   > Version (fork) for Apple Silicon can be found [here](https://github.com/rafi16jan/TableTool).
 
 - [TextPal](https://www.textpal.app/) - super-fast emoji picker for macOS. Works in any app.
 
-[⬆️ Go to Top](#table-of-contents)
+- [Tofu](https://amarsagoo.info/tofu/) - an alternative documents reader which displays text in a horizontal array of columns what makes lines shorter and faster to read.
+
+[⬆️ Table of contents](#table-of-contents)
 
 ## Travel
 
@@ -357,7 +367,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [TripMode](https://tripmode.ch/) - control your Mac's data usage on slow, expensive networks or mobile data. Monitor internet access, block unwanted apps.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Utilities
 
@@ -459,7 +469,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
   ...
   ```
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
 
 ## Video
 
@@ -471,4 +481,4 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Recut](https://getrecut.com/) automatically finds and cuts pauses and silence in videos.
 
-[⬆️ Go to Top](#table-of-contents)
+[⬆️ Table of contents](#table-of-contents)
