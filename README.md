@@ -40,6 +40,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Recordia](https://sindresorhus.com/recordia) lets you record audio directly from the menu bar or with a global keyboard shortcut.
   > Alternatives: macOS [voice memos](https://support.apple.com/guide/voice-memos/record-vmaa4b813415/mac) or [Piezo](https://rogueamoeba.com/piezo/) app.
 
+- [Wavacity](https://wavacity.com/) - well known Audacity audio editor but for the web.
+
 [⬆️ Table of contents](#table-of-contents)
 
 ## Browsing
@@ -138,6 +140,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser.
 
 - [Hazel](https://www.noodlesoft.com/) - create rules to automatically organize files in many ways: open, move, rename, archive and tag files based on their name, date, type and much more.
+
+- [Invisor](https://www.invisorapp.com/) - display and compare technical information of your media files.
 
 - [Marta](https://marta.sh/) - native, dual-pane file manager for macOS.
 
@@ -406,6 +410,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Muzzle](https://muzzleapp.com/) - a simple app to silence embarrassing notifications while screensharing.
 
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - a macOS menu bar app which provides a series of customizable toggle switches to simplify your routine work.
+
+- [Quick Cursor](https://github.com/micku7zu/QuickCursor) - control large Android devices with just one finger.
 
 - [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas.
   > Another free alternative: [Tiles](https://www.sempliva.com/tiles/).
