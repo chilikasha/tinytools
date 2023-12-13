@@ -2,7 +2,7 @@
 
 A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
 
-If you have any questions or suggestions please open an issue or [send me an email](mailto:tinytools@icloud.com).
+If you have any questions or suggestions please open an issue or [send me an email](mailto:tropinqa@gmail.com).
 
 ## Table of contents
 
@@ -208,6 +208,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Animated Drawings](https://github.com/facebookresearch/AnimatedDrawings) - use this tool to create animations based on your own drawn characters.
 
+- [Carsized](https://www.carsized.com/en/) - compare car dimensions and design from a street perspective side by side.
+
 - [Drive and Listen](https://driveandlisten.app/) - "drive" around cities while listening to their local radios.
 
 - [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
@@ -273,6 +275,10 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power.
 
 - [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure.
+
+- [Workspaces](https://www.apptorium.com/workspaces) - store links to all the resources for a given project. Launch entire project with one click or individual items. Those can be files, folders, websites, apps etc.
+  > Alternative:
+  > [Hookmark](https://hookproductivity.com/) - link information across different apps.
 
 - [Wox](http://www.wox.one/) is a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet.
 
@@ -387,6 +393,10 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/): just hold the `⌘-key` a bit longer to get a list of all active short cuts of the current application.
 
+- [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
+
+- [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
+
 - [Hidden Bar](https://apps.apple.com/app/hidden-bar/id1452453066) - hides menu bar items.
 
 - [HiDock](https://hidock.app/) - set custom `Dock` settings for different display configurations.
@@ -426,6 +436,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
   > Alternative: [TaskExplorer](https://objective-see.org/products/taskexplorer.html) by Objective-See.
 
 - [stts](https://github.com/inket/stts) - a simple macOS app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored.
+
+- [Suspicious Package](https://mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages: scripts they run, files inside, who signed them and etc.
 
 - [Swish](https://highlyopinionated.co/swish/) - control windows and apps right from your trackpad with intuitive `swipe`, `pinch`, `tap` and `hold` gestures. Features easy-to-use titlebar, dock and menubar gestures and supports Magic Mouse and keyboard as well.
 
