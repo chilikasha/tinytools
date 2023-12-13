@@ -327,8 +327,6 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Minus](https://minus.social/) - a finite social network where you get 100 posts - for life. No likes, follows and noisy notifications.
 
-- [Pony](https://www.ponymessenger.com/) - a messenger that picks up and deliveres once a day.
-
 [⬆️ Table of contents](#table-of-contents)
 
 ## Text
