@@ -62,7 +62,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Svadilfari](https://www.svadilfari.app/) - an extension that lets you control mobile Safari with gestures.
 
-- [TWP](https://addons.mozilla.org/pt-BR/firefox/addon/traduzir-paginas-web/) - translate current web page in real time using Google or Yandex.
+- [TWP](https://github.com/FilipePS/Traduzir-paginas-web) - translate current web page in real time using Google or Yandex.
 
 [⬆️ Table of contents](#table-of-contents)
 
@@ -101,7 +101,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Pika](https://superhighfives.com/pika) - a compact native colour picker app for macOS.
 
-- [Proxyman](https://proxyman.io/): native macOS debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
+- [Proxyman](https://proxyman.io/): cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
 
 - [QuickLens](https://quicklens.app/) - a powerful app to inspect the UI.
   > [PixelSnap](https://getpixelsnap.com/) - an alternative tool for measuring anything on your screen.
@@ -116,8 +116,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [EmailThis](https://www.emailthis.me): this simple bookmarklet sends ad-free articles & web pages to your email inbox.
 
-- [followupthen](https://www.followupthen.com/) - a simple but flexible way to
-  schedule an email reminder.
+- [followupthen](https://www.followupthen.com/) - a simple but flexible way to schedule an email reminder.
 
 [⬆️ Table of contents](#table-of-contents)
 
@@ -148,7 +147,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager.
   > Alternatives: [lf](https://github.com/gokcehan/lf) and [llama](https://github.com/antonmedv/llama) - CLI file managers written in Go.
 
-- [QuickLook](https://pooi.moe/QuickLook/) allows to peek into a file content in lightning speed by just pressing the Space key.
+- [QuickLook](https://github.com/QL-Win/QuickLook) allows to peek into a file content in lightning speed by just pressing the Space key.
 
 - [uPic](https://github.com/gee1k/uPic) - a simple pictures and files upload tool with support of different hosting services.
 
@@ -161,12 +160,13 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 #### Sharing
 
-- [AirDash](https://airdash-project.web.app/) - secure WebRTC app for sharing files between devices on different platforms.
+- [LocalSend](https://localsend.org/#/) - cross-platform app for sharing files and messages with nearby devices.
+  > Alternative: [AirDash](https://airdash-project.web.app/).
 
 - [Snapdrop](https://snapdrop.net/) - a browser based AirDrop alternative. This handy app lets you share text and files between devices on the same network.
   > You can also try [sharedrop.io](https://www.sharedrop.io/) which works the same way.
 
-- [Transfer.sh](https://transfer.sh) - a free service for sharing files right from the command line.
+- [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - a free service for sharing files right from the command line.
   ```bash
   # upload
   $ curl -H "Max-Downloads: 1" -H "Max-Days: 5" --upload-file ./hello.txt https://transfer.sh/hello.txt
@@ -210,10 +210,9 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Carsized](https://www.carsized.com/en/) - compare car dimensions and design from a street perspective side by side.
 
-- [Drive and Listen](https://driveandlisten.app/) - "drive" around cities while listening to their local radios.
+- [Drive and Listen](https://driveandlisten.herokuapp.com/) - "drive" around cities while listening to their local radios.
 
-- [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
-
+- [KeyPad](https://bluetooth-keyboard.com/keypad/) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
   > Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
 
 - [Mactracker](http://mactracker.ca/) provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
@@ -248,9 +247,9 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Folder Peek](https://sindresorhus.com/folder-peek) - quickly access documents, files, folders, and apps from the menu bar.
 
-- [Hyperkey](https://hyperkey.app/) - convert the `caps lock` key or any modifier keys to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. The hyper key acts as an additional modifier key that you can use in any app with keyboard shortcuts.
+- [HazeOver](https://hazeover.com/) - fade all open apps' windows out except the front one.
 
-- [Hungrymark](https://zhengying.github.io/hungrymark/) provides quick access to your collected URLs, local favorite files, folders, apps.
+- [Hyperkey](https://hyperkey.app/) - convert the `caps lock` key or any modifier keys to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. The hyper key acts as an additional modifier key that you can use in any app with keyboard shortcuts.
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click.
   > Alternatives: [Dato](https://sindresorhus.com/dato) and [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina).
@@ -276,17 +275,18 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure.
 
+- [Wooshy](https://wooshy.app/) - serach and navigate the whole macOS UI with just a keyboard.
+  > Alternative: [Homerow](https://www.homerow.app/).
+
 - [Workspaces](https://www.apptorium.com/workspaces) - store links to all the resources for a given project. Launch entire project with one click or individual items. Those can be files, folders, websites, apps etc.
   > Alternative:
   > [Hookmark](https://hookproductivity.com/) - link information across different apps.
 
-- [Wox](http://www.wox.one/) is a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet.
+- [Wox](http://www.wox.one/) - a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet.
 
 [⬆️ Table of contents](#table-of-contents)
 
 ## Reading
-
-- [Alfread](https://alfreadapp.com/) - a read-it-later app that helps you to actually read articles by setting goals and reminders.
 
 - [Braille Scanner](https://apps.apple.com/us/app/braille-scanner/id1517369095) - take a photo of a piece of paper with Braille on it and convert to text.
 
@@ -311,7 +311,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) will show every single connection attempt of your computer so you can control your data.
   > There are also alternatives for other platforms:  
   > [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.  
-  > And [OpenSnitch](https://github.com/evilsocket/opensnitch) is a `GNU/Linux` port of Little Snitch.
+  > And [OpenSnitch](https://github.com/evilsocket/opensnitch) - a `GNU/Linux` port of Little Snitch.
 
 - [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
 
@@ -389,8 +389,6 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
 
-- [CheatSheet](https://www.mediaatelier.com/CheatSheet/): just hold the `⌘-key` a bit longer to get a list of all active short cuts of the current application.
-
 - [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
 
 - [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
@@ -426,7 +424,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [RustDesk](https://rustdesk.com/) - secure, fast and simple remote desktop software. Doesn't require configuration and works on any platform.
 
-- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - reverses the direction of macOS scrolling, with independent settings for trackpads and mice.
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - reverses the direction of scrolling in macOS, with independent settings for trackpads and mice.
 
 - [Shortcut Bar](https://fiplab.com/apps/shortcut-bar-for-mac) is a handy app that connects you to the files, folders, apps, web bookmarks, text snippets and color swatches that you need lightning fast access to.
 
@@ -434,8 +432,6 @@ If you have any questions or suggestions please open an issue or [send me an ema
   > Alternative: [TaskExplorer](https://objective-see.org/products/taskexplorer.html) by Objective-See.
 
 - [stts](https://github.com/inket/stts) - a simple macOS app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored.
-
-- [Suspicious Package](https://mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages: scripts they run, files inside, who signed them and etc.
 
 - [Swish](https://highlyopinionated.co/swish/) - control windows and apps right from your trackpad with intuitive `swipe`, `pinch`, `tap` and `hold` gestures. Features easy-to-use titlebar, dock and menubar gestures and supports Magic Mouse and keyboard as well.
 
