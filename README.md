@@ -1,11 +1,3 @@
-<style>
-  .bi {
-    font-size: 14px;
-  }
-</style>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
-
 # Tiny tools
 
 A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
@@ -94,7 +86,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Fig](https://fig.io/) - adds autocomplete to an existing terminal so you can move faster. <i class="bi bi-terminal"></i> <i class="bi bi-github"></i>
 
-- [fx](https://github.com/antonmedv/fx) - a Terminal JSON viewer. <i class="bi bi-terminal"></i> <i class="bi bi-github"></i>
+- [fx](https://github.com/antonmedv/fx) - a Terminal JSON viewer. ![](icons/terminal.svg)
 
 - [Gitleaks](https://gitleaks.io/index.html) - a fast and light-weight scanner for git repositories, files and directories for detecting and preventing hardcoded secrets like passwords, api keys and tokens. <i class="bi bi-terminal"></i> <i class="bi bi-github"></i>
 
