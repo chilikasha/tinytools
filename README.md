@@ -108,6 +108,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting.
 
+- [Secretive](https://github.com/maxgoedjen/secretive) - an app for storing and managing SSH keys in the Secure Enclave. > `macos` `oss`
+
 - [Sysprof](https://wiki.gnome.org/Apps/Sysprof) allows you to profile applications to aid in debugging and optimization.
 
 [⬆️ Table of contents](#table-of-contents)
@@ -296,6 +298,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [NetNewsWire](https://netnewswire.com/) - a small and stable feed reader.
 
+- [RSSBud](https://github.com/Cay-Zhang/RSSBud) - helps quickly discover and subscribe to RSS feeds from websites or apps. `macos` `ios` `oss`
+
 [⬆️ Table of contents](#table-of-contents)
 
 ## Security and privacy
@@ -389,6 +393,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
 
+- [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features. `macos` `oss`
+
 - [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
 
 - [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
@@ -402,6 +408,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [KeyCastr](https://github.com/keycastr/keycastr) - an open source macOS app for visualizing your keystrokes in realtime. Handy for screencasts and presentations.
   > [Keyviz](https://mularahul.github.io/keyviz/) - a free Windows alternative.
 
+- [KeyClu](https://github.com/Anze/KeyCluCask) - press `⌘` twice and hold to see the list of any app's shortcuts. `macos`
+
 - [Klack](https://tryklack.com/) - this app adds mechanical keyboard sounds to every keystroke.
 
 - [Maccy](https://maccy.app/) - a lightweight clipboard manager for macOS which does one job - keeping your copy history at hand.
@@ -410,6 +418,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
   ```bash
   maclaunch disable plex
   ```
+
+- [MediaMate](https://wouter01.github.io/MediaMate/) - alternative visuals for Volume, Brightness and Now Playing. `macos` `$`
 
 - [Mos](https://mos.caldis.me/) - a lightweight tool used to smooth scrolling which also separates the touchpad and the mouse scrolls independently.
 
@@ -488,6 +498,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Blurweb](https://blurweb.app) - a paid browser extension that hides sensitive information while screen sharing or video recording. Just click any element or select an area of a web page to blur it.
 
 - [CaptionMe](https://apps.apple.com/app/captionme-automatic-subtitles/id1590848394#?platform=iphone) - a simple way to add captions to your videos.
+
+- [Clickbait Remover for Youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - browser extension which replaces thumbnails with a frame from the video, effectively removing any clickbait.
 
 - [LICEcap](https://www.cockos.com/licecap/) - a lightweight free tool that can capture an area of your desktop and save to a `.GIF` file. You can move the screen capture frame while recording and also make a pause any time and then resume.
 
