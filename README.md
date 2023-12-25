@@ -94,6 +94,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Hopper](https://www.hopper-disassembler.app/) - reverse engineering tool that lets you disassemble, decompile and debug your applications.
 
+- [Lite XL](https://github.com/lite-xl/lite-xl) - cross-platform lightweight text editor written in Lua.
+
 - [Lorem Picsum](https://picsum.photos/): Lorem Ipsum for photos only.
   ```txt
   https://picsum.photos/200?grayscale&blur=2
@@ -101,14 +103,14 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Pika](https://superhighfives.com/pika) - a compact native colour picker app for macOS.
 
-- [Proxyman](https://proxyman.io/): cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
+- [Proxyman](https://proxyman.io/) - cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
 
 - [QuickLens](https://quicklens.app/) - a powerful app to inspect the UI.
   > [PixelSnap](https://getpixelsnap.com/) - an alternative tool for measuring anything on your screen.
 
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting.
 
-- [Secretive](https://github.com/maxgoedjen/secretive) - an app for storing and managing SSH keys in the Secure Enclave. > `macos` `oss`
+- [Secretive](https://github.com/maxgoedjen/secretive) - an app for storing and managing SSH keys in the Secure Enclave. `macos` `oss`
 
 - [Sysprof](https://wiki.gnome.org/Apps/Sysprof) allows you to profile applications to aid in debugging and optimization.
 
@@ -185,6 +187,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [CleanUp.pictures](https://cleanup.pictures/) - remove any object, people, text or defects from your pictures.
 
+- [Clop](https://lowtechguys.com/clop/) - copy an image and paste it optimised to the smallest possible size. `mac`
+
 - [edit.photo](https://edit.photo/) - a free online photo editor. No ads/cookies/registration.
 
 - [ImageMagick](https://imagemagick.org/script/index.php) - an open source free tool for creating, editing, composing or converting digital images of different formats.
@@ -200,9 +204,10 @@ If you have any questions or suggestions please open an issue or [send me an ema
   convert input.pdf[2] output.jpg
   ```
 
-- [ImageOptim](https://imageoptim.com/mac) makes images load faster by applying advanced compression and removing invisible junk.
+- [ImageOptim](https://imageoptim.com/mac) - makes images load faster by applying advanced compression and removing invisible junk.
 
-- [qView](https://interversehq.com/qview/) - image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar.
+- [qView](https://interversehq.com/qview/) - cross-platform image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar.
+  > macOS alternative: [Picview](https://enpicview.chitaner.com/).
 
 [⬆️ Table of contents](#table-of-contents)
 
@@ -237,6 +242,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Amberol](https://gitlab.gnome.org/World/amberol) - a small and simple sound and music player that is well integrated with GNOME.
 
 - [Meta](https://www.nightbirdsevolve.com/meta/) - a professional music tag editor helping you manage your digital music collection.
+
+- [Music Decoy](https://lowtechguys.com/musicdecoy/) - stop launching the macOS Music app whenever you press `Play` key.
 
 - [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - a minimalist music player for macOS with clean interface that supports MP3, FLAC, AAC, AIFF and WAV.
   > Tiny Player also comes on [iPhone and iPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
@@ -376,6 +383,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 ## Travel
 
 - [Organic Maps](https://organicmaps.app/) - wonderful detailed offline maps for travelers, hikers, and cyclists.
+  > Alternative: [Guru Maps](https://gurumaps.app/).
 
 - [TripMode](https://tripmode.ch/) - control your Mac's data usage on slow, expensive networks or mobile data. Monitor internet access, block unwanted apps.
 
@@ -389,7 +397,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
   > Alternatives and similar apps:  
   >  [Contexts](https://contexts.co/) - a paid window switcher.  
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.  
-  >  [Witch](https://manytricks.com/witch/): switch apps, windows and tabs.
+  >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
 
