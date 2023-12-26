@@ -42,11 +42,11 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Wavacity](https://wavacity.com/) - well known Audacity audio editor but for the web.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Browsing
 
-- [Anybox](https://anybox.cc/) - a modern native bookmarks manager for mac and iOS.
+- [Anybox](https://anybox.app/) - a modern native bookmarks manager for mac and iOS.
 
 - [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link.
   > **Free** alternatives:  
@@ -64,7 +64,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [TWP](https://github.com/FilipePS/Traduzir-paginas-web) - translate current web page in real time using Google or Yandex.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Camera
 
@@ -72,7 +72,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Webcam Plus](https://webcamplus.app/) - use any camera on your iPhone as a **webcam** for your Mac.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Developer tools
 
@@ -114,7 +114,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Sysprof](https://wiki.gnome.org/Apps/Sysprof) allows you to profile applications to aid in debugging and optimization.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Email
 
@@ -122,7 +122,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [followupthen](https://www.followupthen.com/) - a simple but flexible way to schedule an email reminder.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Files
 
@@ -137,7 +137,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the `Open` and `Save` dialogs in all of your applications.
 
 - [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
-  > Also check [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.  
+  > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.  
   Linux alternative: [FSearch](https://github.com/cboxdoerfer/fsearch).
 
 - [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser.
@@ -149,7 +149,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Marta](https://marta.sh/) - native, dual-pane file manager for macOS.
 
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager.
-  > Alternatives: [lf](https://github.com/gokcehan/lf) and [llama](https://github.com/antonmedv/llama) - CLI file managers written in Go.
+  > Alternatives: [lf](https://github.com/gokcehan/lf) and [walk]https://github.com/antonmedv/walk) - CLI file managers written in Go.
 
 - [QuickLook](https://github.com/QL-Win/QuickLook) allows to peek into a file content in lightning speed by just pressing the Space key.
 
@@ -181,7 +181,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Wormhole](https://wormhole.app/) - a simple and safe way to send files and folders. All your shared data is end-to-end encrypted and is automatically expired after 24 hours. Upload size is limited to 10GB.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Images
 
@@ -209,7 +209,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [qView](https://interversehq.com/qview/) - cross-platform image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar.
   > macOS alternative: [Picview](https://enpicview.chitaner.com/).
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Miscellaneous
 
@@ -235,7 +235,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [WindowSnap](https://www.window-swap.com/Window) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Music
 
@@ -248,7 +248,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - a minimalist music player for macOS with clean interface that supports MP3, FLAC, AAC, AIFF and WAV.
   > Tiny Player also comes on [iPhone and iPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Productivity
 
@@ -261,7 +261,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Hyperkey](https://hyperkey.app/) - convert the `caps lock` key or any modifier keys to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. The hyper key acts as an additional modifier key that you can use in any app with keyboard shortcuts.
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click.
-  > Alternatives: [Dato](https://sindresorhus.com/dato) and [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina).
+  > Alternatives: [Dato](https://sindresorhus.com/dato) and _Day-O_.
 
 - [Menuwhere](https://manytricks.com/menuwhere/) - pop up the frontmost app's menus at the current mouse location.
 
@@ -293,7 +293,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Wox](http://www.wox.one/) - a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Reading
 
@@ -307,13 +307,13 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [RSSBud](https://github.com/Cay-Zhang/RSSBud) - helps quickly discover and subscribe to RSS feeds from websites or apps. `macos` `ios` `oss`
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Security and privacy
 
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
-- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls): this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
+- [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls): this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
 
 - [Hush](https://oblador.github.io/hush/) blocks nags to accept cookies and privacy invasive tracking in Safari.
 
@@ -330,7 +330,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages, examine their contents and see what they actually do.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Social
 
@@ -338,7 +338,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Minus](https://minus.social/) - a finite social network where you get 100 posts - for life. No likes, follows and noisy notifications.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Text
 
@@ -347,7 +347,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Bike](https://hogbaysoftware.netlify.app/bike/) - a fast and fluid outliner for macOS. Simple but powerful tool for organizing thoughts, making lists, taking notes and saving ideas.
   > A cross-platform alternative: [WorkFlowy](https://workflowy.com/)
 
-- [Bob](https://bobtranslate.com/) - a macOS translation app for text and pictures, and manual input. The [PopClip](https://pilotmoon.com/popclip/) plugin is also available.
+- [Bob](https://bobtranslate.com/) - a macOS translation app for text and pictures, and manual input. The [PopClip](https://www.popclip.app/) plugin is also available.
 
 - [CopyChar](https://copychar.cc/) - find and copy special characters to your clipboard.
 
@@ -378,7 +378,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Tofu](https://amarsagoo.info/tofu/) - an alternative documents reader which displays text in a horizontal array of columns what makes lines shorter and faster to read.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Travel
 
@@ -387,7 +387,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [TripMode](https://tripmode.ch/) - control your Mac's data usage on slow, expensive networks or mobile data. Monitor internet access, block unwanted apps.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Utilities
 
@@ -499,13 +499,13 @@ If you have any questions or suggestions please open an issue or [send me an ema
   ...
   ```
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
 
 ## Video
 
 - [Blurweb](https://blurweb.app) - a paid browser extension that hides sensitive information while screen sharing or video recording. Just click any element or select an area of a web page to blur it.
 
-- [CaptionMe](https://apps.apple.com/app/captionme-automatic-subtitles/id1590848394#?platform=iphone) - a simple way to add captions to your videos.
+- [CaptionMe](https://apps.apple.com/us/app/captionme-automatic-subtitles/id1590848394) - a simple way to add captions to your videos.
 
 - [Clickbait Remover for Youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - browser extension which replaces thumbnails with a frame from the video, effectively removing any clickbait.
 
@@ -513,4 +513,4 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Recut](https://getrecut.com/) automatically finds and cuts pauses and silence in videos.
 
-[⬆️ Table of contents](#table-of-contents)
+[`Table of contents`](#table-of-contents)
