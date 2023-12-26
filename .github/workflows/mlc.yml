@@ -1,7 +1,7 @@
 name: Links checker
 on: [push]
 jobs:
-  run check:
+  run_check:
     runs-on: ubuntu-latest
     steps:
       - name: check out
