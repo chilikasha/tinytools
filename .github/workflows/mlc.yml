@@ -1,8 +1,10 @@
 name: Links checker
 on: [push]
 jobs:
-  run:
+  run check:
     runs-on: ubuntu-latest
     steps:
+      - name: check out
+        uses: actions/checkout@v4  
       - name: check links with mlc
         uses: becheran/mlc@v0.16.3
