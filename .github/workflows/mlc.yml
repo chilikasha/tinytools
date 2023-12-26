@@ -1,3 +1,8 @@
 name: Links checker
 on: [push]
-uses: becheran/mlc@v0.16.3
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check links with mlc
+        uses: becheran/mlc@v0.16.3
