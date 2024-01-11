@@ -149,7 +149,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Marta](https://marta.sh/) - native, dual-pane file manager for macOS.
 
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager.
-  > Alternatives: [lf](https://github.com/gokcehan/lf) and [walk]https://github.com/antonmedv/walk) - CLI file managers written in Go.
+  > Alternatives: [lf](https://github.com/gokcehan/lf) and [walk](https://github.com/antonmedv/walk) - CLI file managers written in Go.
 
 - [QuickLook](https://github.com/QL-Win/QuickLook) allows to peek into a file content in lightning speed by just pressing the Space key.
 
@@ -194,7 +194,6 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [ImageMagick](https://imagemagick.org/script/index.php) - an open source free tool for creating, editing, composing or converting digital images of different formats.
   ```bash
   # merge images
-  brew install imagemagick
   convert +append 1.jpg 2.jpg 3.jpg best.jpg
 
   # resizing
@@ -355,6 +354,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Espanso](https://espanso.org/) - a cross-platform text expander that detects a specific keyword and replaces it with something else.
 
+- [Exporter](http://falcon.star-lord.me/exporter/) - export notes from Apple Notes to Markdown/HTML with attachments.
+
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - a lightweight Markdown editor.
 
 - [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
@@ -363,13 +364,17 @@ If you have any questions or suggestions please open an issue or [send me an ema
   > Alternative:  
   > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
 
-- [PopClip](https://pilotmoon.com/popclip/) appears when you select text, giving access to a customizable row of +200 helpful actions.
+- [PopClip](https://www.popclip.app/) appears when you select text, giving access to a customizable row of +200 helpful actions.
 
 - [Runestone](https://runestone.app/) - a lightweight and fast plain text editor with syntax highlighting, line numbers, theming and more.
 
 - [Simple keyboard](https://github.com/rkkr/simple-keyboard) - an open source minimalist Android keyboard focused on just typing some text. No emojis, GIFs, spell checking and word prediction.
 
+- [Strflow](https://strflow.app/) - a chat-style note-taking app.
+
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) - a small and fast PDF and ebook reader.
+
+- [TableFlip](https://tableflipapp.com/) - a fast Markdown tables editing app.
 
 - [Table Tool](https://github.com/jakob/TableTool) - a simple CSV editor for macOS.
   > Version (fork) for Apple Silicon can be found [here](https://github.com/rafi16jan/TableTool).
@@ -407,7 +412,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
 
-- [Hidden Bar](https://apps.apple.com/app/hidden-bar/id1452453066) - hides menu bar items.
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - hides menu bar items.
 
 - [HiDock](https://hidock.app/) - set custom `Dock` settings for different display configurations.
 
@@ -483,7 +488,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
 
-- [LSD](https://github.com/Peltoche/lsd) - a rewrite of `ls` command with features like colors, icons, tree-view, more formatting options etc.
+- [LSD](https://github.com/lsd-rs/lsd) - a rewrite of `ls` command with features like colors, icons, tree-view, more formatting options etc.
   > Or have a look at [exa](https://github.com/ogham/exa) as another option.
 
 - [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands.
@@ -503,7 +508,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 ## Video
 
-- [Blurweb](https://blurweb.app) - a paid browser extension that hides sensitive information while screen sharing or video recording. Just click any element or select an area of a web page to blur it.
+- [Blurweb](https://www.blurweb.app/) - a paid browser extension that hides sensitive information while screen sharing or video recording. Just click any element or select an area of a web page to blur it.
 
 - [CaptionMe](https://apps.apple.com/us/app/captionme-automatic-subtitles/id1590848394) - a simple way to add captions to your videos.
 
