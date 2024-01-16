@@ -3,30 +3,56 @@
 A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
 
 If you have any questions or suggestions please open an issue or [send me an email](mailto:tropinqa@gmail.com).
+Periodic URLs scans are made using [Markup Link Checker](https://github.com/becheran/mlc) to avoid broken links and dead projects.
 
 ## Table of contents
 
+- [Apps management](#apps-management)
 - [Audio](#audio)
 - [Browsing](#browsing)
 - [Camera](#camera)
 - [Developer tools](#developer-tools)
+- [Display](#display)
 - [Email](#email)
 - [Files](#files)
   - [Sharing](#sharing)
 - [Images](#images)
 - [Miscellaneous](#miscellaneous)
 - [Music](#music)
+- [Network](#network)
 - [Productivity](#productivity)
 - [Reading](#reading)
 - [Security and privacy](#security-and-privacy)
+- [Shell](#shell)
 - [Social](#social)
 - [Text](#text)
 - [Travel](#travel)
 - [Utilities](#utilities)
-  - [Display](#display)
-  - [Network](#network)
-  - [Shell](#shell)
 - [Video](#video)
+
+## Apps management
+
+- [AltTab](https://alt-tab-macos.netlify.app/) brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
+  > Alternatives and similar apps:
+  >  [Contexts](https://contexts.co/) - a paid window switcher.
+  >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.
+  >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
+
+- [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
+
+- [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features.
+
+- [Latest](https://max.codes/latest/) - checks if all your macOS apps are up to date.
+
+- [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas.
+  > Alternative: [Tiles](https://www.sempliva.com/tiles/).
+
+- [Swift Shift](https://www.swiftshift.app/) - create shortcuts to move and resize windows from anywhere. `mac`
+  > Alternative: [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize)
+
+- [Swish](https://highlyopinionated.co/swish/) - control windows and apps right from your trackpad with intuitive `swipe`, `pinch`, `tap` and `hold` gestures. Features easy-to-use titlebar, dock and menubar gestures and supports Magic Mouse and keyboard as well.
+
+[`Table of contents`](#table-of-contents)
 
 ## Audio
 
@@ -49,8 +75,10 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Anybox](https://anybox.app/) - a modern native bookmarks manager for mac and iOS.
 
 - [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link.
-  > **Free** alternatives:  
+  > **Free** alternatives:
   >  [Browser Tamer](https://www.aloneguid.uk/projects/bt/) for Windows and [Velja](https://sindresorhus.com/velja) for macOS.
+
+- [Link Gopher](https://github.com/az0/linkgopher/) - a Firefox/Chrome add-on which can extract all links from a web page, sort them and remove duplicates.
 
 - [MenubarX](https://menubarx.app/) - a browser in your menu bar.
 
@@ -58,7 +86,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Noir](https://getnoir.app/) - a Safari extension for iOS that automatically adds a dark mode to every website you visit.
 
-- [qutebrowser](https://github.com/qutebrowser/qutebrowser) - a keyboard-driven, **vim**-like browser based on `Python` and `Qt`.
+- [Prevent Duplicate Tabs](https://github.com/brcontainer/prevent-duplicate-tabs/#install) - prevent creating of repeating tabs.
 
 - [Svadilfari](https://www.svadilfari.app/) - an extension that lets you control mobile Safari with gestures.
 
@@ -116,6 +144,14 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 [`Table of contents`](#table-of-contents)
 
+## Display
+
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - control external display brightness and volume right from your Mac.
+
+- [Shifty](https://shifty.natethompson.io/en/) - expand capabilities of Night Shift and Dark mode. Disable for specific apps and sites, follow the schedule, adjust the colour temperature.
+
+[`Table of contents`](#table-of-contents)
+
 ## Email
 
 - [EmailThis](https://www.emailthis.me): this simple bookmarklet sends ad-free articles & web pages to your email inbox.
@@ -137,7 +173,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the `Open` and `Save` dialogs in all of your applications.
 
 - [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
-  > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.  
+  > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.
   Linux alternative: [FSearch](https://github.com/cboxdoerfer/fsearch).
 
 - [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser.
@@ -158,8 +194,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [VanillaTreeViewer](https://abhchand.me/vanilla-tree-viewer/) - a minimalist file browser for compactly displaying several files at once.
 
 - [Dropover](https://dropoverapp.com/) - improves drag & drop by providing a "shelf" where you can stash, gather or move any draggable content.
-  > Alternatives:  
-  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).  
+  > Alternatives:
+  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).
   > iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
 
 #### Sharing
@@ -249,6 +285,18 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 [`Table of contents`](#table-of-contents)
 
+## Network
+
+- [Airplane for Mac](https://airplanemac.carrd.co/) - turn off the wireless features on your Mac just like on iPhone.
+
+- [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - a zero configuration app that tracks the network usage.
+
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) - a network analyser (packet sniffer) developed with the aim to let people have a glance into their network in a simple and clear way. Features: filtering, overall traffic statistics, real-time charts, custom notifications and more.
+
+- [WiFi Signal](https://www.intuitibits.com/products/wifisignal/) - lets you monitor your Wi-Fi network’s status and signal quality, notifying you about changes in your Wi-Fi connection.
+
+[`Table of contents`](#table-of-contents)
+
 ## Productivity
 
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node.
@@ -275,8 +323,8 @@ If you have any questions or suggestions please open an issue or [send me an ema
   6pm Sydney in Chicago
   ```
 
-  > Alternatives:  
-  >  [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.  
+  > Alternatives:
+  >  [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.
   >  [Numbr](https://numbr.dev/): fewer features but works right in a browser.
 
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power.
@@ -319,19 +367,58 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [LessPass](https://www.lesspass.com/#/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
 
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) will show every single connection attempt of your computer so you can control your data.
-  > There are also alternatives for other platforms:  
-  > [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.  
+  > There are also alternatives for other platforms:
+  > [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.
   > And [OpenSnitch](https://github.com/evilsocket/opensnitch) - a `GNU/Linux` port of Little Snitch.
 
 - [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
 
 - [NextDNS](https://nextdns.io/) - lightweight and easy customizable tool to block ads and trackers on websites and in apps.
 
+- [Sloth](https://sveinbjorn.org/sloth) - a system monitoring and inspection tool that shows all open files and sockets in use by all running processes.
+  > Alternative: [TaskExplorer](https://objective-see.org/products/taskexplorer.html) by Objective-See.
+
 - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages, examine their contents and see what they actually do.
 
 [`Table of contents`](#table-of-contents)
 
+## Shell
+
+- [Atuin](https://atuin.sh/) - a shell history with additional commands context and optional fully encrypted synchronisation between your machines.
+  ```bash
+  # search for all successful `make` commands, recorded after 3pm yesterday
+  atuin search --exit 0 --after "yesterday 3pm" make
+  ```
+
+- [Dust](https://github.com/bootandy/dust) - a more intuitive `du` alternative written in Rust.
+
+- [eq](https://github.com/srsudar/eg) - provides examples of common uses of command line tools.
+
+- [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem.
+
+- [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
+
+- [LSD](https://github.com/lsd-rs/lsd) - a rewrite of `ls` command with features like colors, icons, tree-view, more formatting options etc.
+  > Or have a look at [exa](https://github.com/ogham/exa) as another option.
+
+- [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands.
+  ```bash
+  ➜ apt-get install vim
+  E: Could not open lock file /var/lib/dpkg/lock - open (13: Permission denied)
+  E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
+
+  ➜ fuck
+  sudo apt-get install vim [enter/↑/↓/ctrl+c]
+  [sudo] password for nvbn:
+  Reading package lists... Done
+  ...
+  ```
+
+[`Table of contents`](#table-of-contents)
+
 ## Social
+
+- [Chitchatter](https://chitchatter.im/) - a simple, private communication tool working in a browser.
 
 - [Cusdis](https://github.com/djyde/cusdis) - a lightweight, privacy-friendly, minimalist, embeddable comment system.
 
@@ -361,7 +448,7 @@ If you have any questions or suggestions please open an issue or [send me an ema
 - [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
 
 - [OwlOCR](https://owlocr.com/) - a handy text recognition app living in menubar. Just select an area and then paste text wherever you want.
-  > Alternative:  
+  > Alternative:
   > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
 
 - [PopClip](https://www.popclip.app/) appears when you select text, giving access to a customizable row of +200 helpful actions.
@@ -395,18 +482,6 @@ If you have any questions or suggestions please open an issue or [send me an ema
 [`Table of contents`](#table-of-contents)
 
 ## Utilities
-
-- [Airplane for Mac](https://airplanemac.carrd.co/) - turn off the wireless features on your Mac just like on iPhone.
-
-- [AltTab](https://alt-tab-macos.netlify.app/) brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
-  > Alternatives and similar apps:  
-  >  [Contexts](https://contexts.co/) - a paid window switcher.  
-  >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.  
-  >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
-
-- [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
-
-- [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features. `macos` `oss`
 
 - [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
 
@@ -442,67 +517,13 @@ If you have any questions or suggestions please open an issue or [send me an ema
 
 - [Quick Cursor](https://github.com/micku7zu/QuickCursor) - control large Android devices with just one finger.
 
-- [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas.
-  > Another free alternative: [Tiles](https://www.sempliva.com/tiles/).
-
 - [RustDesk](https://rustdesk.com/) - secure, fast and simple remote desktop software. Doesn't require configuration and works on any platform.
 
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - reverses the direction of scrolling in macOS, with independent settings for trackpads and mice.
 
-- [Shortcut Bar](https://fiplab.com/apps/shortcut-bar-for-mac) is a handy app that connects you to the files, folders, apps, web bookmarks, text snippets and color swatches that you need lightning fast access to.
-
-- [Sloth](https://sveinbjorn.org/sloth) - a system monitoring and inspection tool that shows all open files and sockets in use by all running processes.
-  > Alternative: [TaskExplorer](https://objective-see.org/products/taskexplorer.html) by Objective-See.
+- [Shortcut Bar](https://fiplab.com/apps/shortcut-bar-for-mac) - a handy app that connects you to the files, folders, apps, web bookmarks, text snippets and color swatches that you need lightning fast access to.
 
 - [stts](https://github.com/inket/stts) - a simple macOS app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored.
-
-- [Swish](https://highlyopinionated.co/swish/) - control windows and apps right from your trackpad with intuitive `swipe`, `pinch`, `tap` and `hold` gestures. Features easy-to-use titlebar, dock and menubar gestures and supports Magic Mouse and keyboard as well.
-
-#### Display
-
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - control external display brightness and volume right from your Mac.
-
-- [Shifty](https://shifty.natethompson.io/en/) - expand capabilities of Night Shift and Dark mode. Disable for specific apps and sites, follow the schedule, adjust the colour temperature.
-
-#### Network
-
-- [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - a zero configuration app that tracks the network usage.
-
-- [Sniffnet](https://github.com/GyulyVGC/sniffnet) - a network analyser (packet sniffer) developed with the aim to let people have a glance into their network in a simple and clear way. Features: filtering, overall traffic statistics, real-time charts, custom notifications and more.
-
-- [WiFi Signal](https://www.intuitibits.com/products/wifisignal/) - lets you monitor your Wi-Fi network’s status and signal quality, notifying you about changes in your Wi-Fi connection.
-
-#### Shell
-
-- [Atuin](https://atuin.sh/) - a shell history with additional commands context and optional fully encrypted synchronisation between your machines.
-  ```bash
-  # search for all successful `make` commands, recorded after 3pm yesterday
-  atuin search --exit 0 --after "yesterday 3pm" make
-  ```
-
-- [Dust](https://github.com/bootandy/dust) - a more intuitive `du` alternative written in Rust.
-
-- [eq](https://github.com/srsudar/eg) - provides examples of common uses of command line tools.
-
-- [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem.
-
-- [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
-
-- [LSD](https://github.com/lsd-rs/lsd) - a rewrite of `ls` command with features like colors, icons, tree-view, more formatting options etc.
-  > Or have a look at [exa](https://github.com/ogham/exa) as another option.
-
-- [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands.
-  ```bash
-  ➜ apt-get install vim
-  E: Could not open lock file /var/lib/dpkg/lock - open (13: Permission denied)
-  E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
-
-  ➜ fuck
-  sudo apt-get install vim [enter/↑/↓/ctrl+c]
-  [sudo] password for nvbn:
-  Reading package lists... Done
-  ...
-  ```
 
 [`Table of contents`](#table-of-contents)
 
