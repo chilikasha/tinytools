@@ -2,7 +2,7 @@
 
 A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
 
-If you have any questions or suggestions please open an issue or [send me an email](mailto:tropinqa@gmail.com).
+If you have any questions or suggestions please open an issue or [send me an email](mailto:tropinqa@gmail.com).\
 Periodic URLs scans are made using [Markup Link Checker](https://github.com/becheran/mlc) to avoid broken links and dead projects.
 
 ## Table of contents
@@ -32,10 +32,10 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 ## Apps management
 
-- [AltTab](https://alt-tab-macos.netlify.app/) brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
-  > Alternatives and similar apps:
-  >  [Contexts](https://contexts.co/) - a paid window switcher.
-  >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.
+- [AltTab](https://alt-tab-macos.netlify.app/) - brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
+  > Alternatives and similar apps:\
+  >  [Contexts](https://contexts.co/) - a paid window switcher.\
+  >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.\
   >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
@@ -173,7 +173,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the `Open` and `Save` dialogs in all of your applications.
 
 - [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
-  > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.
+  > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.\
   Linux alternative: [FSearch](https://github.com/cboxdoerfer/fsearch).
 
 - [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser.
@@ -194,8 +194,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [VanillaTreeViewer](https://abhchand.me/vanilla-tree-viewer/) - a minimalist file browser for compactly displaying several files at once.
 
 - [Dropover](https://dropoverapp.com/) - improves drag & drop by providing a "shelf" where you can stash, gather or move any draggable content.
-  > Alternatives:
-  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).
+  > Alternatives:\
+  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).\
   > iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
 
 #### Sharing
@@ -323,8 +323,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   6pm Sydney in Chicago
   ```
 
-  > Alternatives:
-  >  [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.
+  > Alternatives:\
+  >  [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.\
   >  [Numbr](https://numbr.dev/): fewer features but works right in a browser.
 
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power.
@@ -482,6 +482,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 [`Table of contents`](#table-of-contents)
 
 ## Utilities
+
+- [Bunch](https://bunchapp.co/) - a macOS automation tool working with plain text.
 
 - [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
 
