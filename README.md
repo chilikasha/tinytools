@@ -42,7 +42,13 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features.
 
+- [HazeOver](https://hazeover.com/) - fade all open apps' windows out except the front one.
+
 - [Latest](https://max.codes/latest/) - checks if all your macOS apps are up to date.
+
+- [Menuwhere](https://manytricks.com/menuwhere/) - pop up the frontmost app's menus at the current mouse location.
+
+- [Paletro](https://appmakes.io/paletro) - command palette to access any functionality of a currently opened application.
 
 - [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas.
   > Alternative: [Tiles](https://www.sempliva.com/tiles/).
@@ -176,6 +182,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.\
   Linux alternative: [FSearch](https://github.com/cboxdoerfer/fsearch).
 
+- [Folder Peek](https://sindresorhus.com/folder-peek) - quickly access documents, files, folders, and apps from the menu bar.
+
 - [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser.
 
 - [Hazel](https://www.noodlesoft.com/) - create rules to automatically organize files in many ways: open, move, rename, archive and tag files based on their name, date, type and much more.
@@ -244,6 +252,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [qView](https://interversehq.com/qview/) - cross-platform image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar.
   > macOS alternative: [Picview](https://enpicview.chitaner.com/).
 
+- [Shottr](https://shottr.cc/) - a tiny and fast macOS screenshot tool.
+
 [`Table of contents`](#table-of-contents)
 
 ## Miscellaneous
@@ -268,7 +278,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [what3words](https://what3words.com/) - this app divides the world into 3 metre squares and gives each square a unique combination of three words which you can use to easily find and share exact locations.
 
-- [WindowSnap](https://www.window-swap.com/Window) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
+- [WindowSwap](https://www.window-swap.com/) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
 
 [`Table of contents`](#table-of-contents)
 
@@ -301,18 +311,10 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node.
 
-- [Folder Peek](https://sindresorhus.com/folder-peek) - quickly access documents, files, folders, and apps from the menu bar.
-
-- [HazeOver](https://hazeover.com/) - fade all open apps' windows out except the front one.
-
 - [Hyperkey](https://hyperkey.app/) - convert the `caps lock` key or any modifier keys to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. The hyper key acts as an additional modifier key that you can use in any app with keyboard shortcuts.
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click.
   > Alternatives: [Dato](https://sindresorhus.com/dato) and _Day-O_.
-
-- [Menuwhere](https://manytricks.com/menuwhere/) - pop up the frontmost app's menus at the current mouse location.
-
-- [Paletro](https://appmakes.io/paletro) - command palette to access any functionality of a currently opened application.
 
 - [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets.
   ```bash
@@ -331,7 +333,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure.
 
-- [Wooshy](https://wooshy.app/) - serach and navigate the whole macOS UI with just a keyboard.
+- [Wooshy](https://wooshy.app/) - search and navigate the whole macOS UI with just a keyboard.
   > Alternative: [Homerow](https://www.homerow.app/).
 
 - [Workspaces](https://www.apptorium.com/workspaces) - store links to all the resources for a given project. Launch entire project with one click or individual items. Those can be files, folders, websites, apps etc.
