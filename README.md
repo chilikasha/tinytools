@@ -329,7 +329,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
   > Alternatives:\
   >  [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.\
-  >  [Numbr](https://numbr.dev/) - fewer features but works right in a browser.
+  >  [Numbr](https://numbr.dev/) - fewer features but works right in a browser.\
   >  [Caldy](https://alventir.com/caldy/) - a dynamic calculator for iOS. You can link values, add labels, drag the results and keep calculations in separate documents.
 
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power.
