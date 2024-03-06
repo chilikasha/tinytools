@@ -98,6 +98,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [TWP](https://github.com/FilipePS/Traduzir-paginas-web) - translate current web page in real time using Google or Yandex.
 
+- [uBlacklist](https://github.com/iorate/ublacklist) - blocks specific sites from appearing in Google search results.
+
 [`Table of contents`](#table-of-contents)
 
 ## Camera
@@ -327,7 +329,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
   > Alternatives:\
   >  [Numi](https://numi.app/) - a free calculator for Mac which works completely the same way: just type a string of what you need and get the result.\
-  >  [Numbr](https://numbr.dev/): fewer features but works right in a browser.
+  >  [Numbr](https://numbr.dev/) - fewer features but works right in a browser.
+  >  [Caldy](https://alventir.com/caldy/) - a dynamic calculator for iOS. You can link values, add labels, drag the results and keep calculations in separate documents.
 
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power.
 
@@ -364,7 +367,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls): this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
 
-- [Hush](https://oblador.github.io/hush/) blocks nags to accept cookies and privacy invasive tracking in Safari.
+- [Consent-O-Matic](https://consentomatic.au.dk/) - a browser extension which handles cookies pop-ups based on your preferences.
+  > [Hush](https://oblador.github.io/hush/) - a Safari only alternative.
 
 - [LessPass](https://www.lesspass.com/#/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
 
@@ -381,6 +385,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   > Alternative: [TaskExplorer](https://objective-see.org/products/taskexplorer.html) by Objective-See.
 
 - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - inspect macOS installer packages, examine their contents and see what they actually do.
+
+- [Yopass](https://github.com/jhaals/yopass) - secure sharing of secrets, passwords and files.
 
 [`Table of contents`](#table-of-contents)
 
