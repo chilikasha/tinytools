@@ -74,6 +74,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Wavacity](https://wavacity.com/) - well known Audacity audio editor but for the web.
 
+- [XLD](https://tmkk.undo.jp/xld/index_e.html) - a tool to decode/convert/play various 'lossless' audio files.
+
 [`Table of contents`](#table-of-contents)
 
 ## Browsing
@@ -197,7 +199,11 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager.
   > Alternatives: [lf](https://github.com/gokcehan/lf) and [walk](https://github.com/antonmedv/walk) - CLI file managers written in Go.
 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar app to open folders and files in Terminal emulators and other apps.
+
 - [QuickLook](https://github.com/QL-Win/QuickLook) allows to peek into a file content in lightning speed by just pressing the Space key.
+
+- [Transnomino](https://www.transnomino.com/) - a batch rename utility.
 
 - [uPic](https://github.com/gee1k/uPic) - a simple pictures and files upload tool with support of different hosting services.
 
@@ -287,6 +293,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 ## Music
 
 - [Amberol](https://gitlab.gnome.org/World/amberol) - a small and simple sound and music player that is well integrated with GNOME.
+
+- [Auxio](https://github.com/OxygenCobalt/Auxio) - a fast, open source, local music player for Android.
 
 - [Meta](https://www.nightbirdsevolve.com/meta/) - a professional music tag editor helping you manage your digital music collection.
 
@@ -496,6 +504,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
 
 - [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
+
+- [GrandPerspective](https://grandperspectiv.sourceforge.net/) - this small utility graphically shows the disk usage within a file system.
 
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - hides menu bar items.
 
