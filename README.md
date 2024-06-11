@@ -26,7 +26,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Shell](#shell)
 - [Social](#social)
 - [Text](#text)
-- [Travel](#travel)
+- [Travel and maps](#travel)
 - [Utilities](#utilities)
 - [Video](#video)
 
@@ -50,11 +50,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Paletro](https://appmakes.io/paletro) - command palette to access any functionality of a currently opened application.
 
-- [Rectangle](https://rectangleapp.com/): move and resize windows in macOS using keyboard shortcuts or snap areas.
-  > Alternative: [Tiles](https://www.sempliva.com/tiles/).
-
-- [Swift Shift](https://www.swiftshift.app/) - create shortcuts to move and resize windows from anywhere. `mac`
-  > Alternative: [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize)
+- [Swift Shift](https://www.swiftshift.app/) - create shortcuts to move and resize windows from anywhere.
+  > Alternative: [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize), [Rectangle](https://rectangleapp.com/), [Tiles](https://www.sempliva.com/tiles/)
 
 - [Swish](https://highlyopinionated.co/swish/) - control windows and apps right from your trackpad with intuitive `swipe`, `pinch`, `tap` and `hold` gestures. Features easy-to-use titlebar, dock and menubar gestures and supports Magic Mouse and keyboard as well.
 
@@ -67,9 +64,9 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - quickly and easily transcribe audio files into text with OpenAI's transcription technology Whisper.
 
-- [Micdrop](https://getmicdrop.com) mutes your mic in any app with a global keyboard shortcut or a menu bar control.
+- [Micdrop](https://getmicdrop.com) - mutes your mic in any app with a global keyboard shortcut or a menu bar control.
 
-- [Recordia](https://sindresorhus.com/recordia) lets you record audio directly from the menu bar or with a global keyboard shortcut.
+- [Recordia](https://sindresorhus.com/recordia) - lets you record audio directly from the menu bar or with a global keyboard shortcut.
   > Alternatives: macOS [voice memos](https://support.apple.com/guide/voice-memos/record-vmaa4b813415/mac) or [Piezo](https://rogueamoeba.com/piezo/) app.
 
 - [Wavacity](https://wavacity.com/) - well known Audacity audio editor but for the web.
@@ -82,9 +79,10 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Anybox](https://anybox.app/) - a modern native bookmarks manager for mac and iOS.
 
-- [Bumpr](https://www.getbumpr.com/) - select which app to open when clicking a web or mail link.
-  > **Free** alternatives:
-  >  [Browser Tamer](https://www.aloneguid.uk/projects/bt/) for Windows and [Velja](https://sindresorhus.com/velja) for macOS.
+- [Velja](https://sindresorhus.com/velja) - open links in a specific browser or a matching native app.
+  > **Open source** alternatives:\
+  > [Browsers](https://browsers.software/) - cross platform.
+  > [Hurl](https://github.com/U-C-S/Hurl) - Windows only.
 
 - [Link Gopher](https://github.com/az0/linkgopher/) - a Firefox/Chrome add-on which can extract all links from a web page, sort them and remove duplicates.
 
@@ -93,6 +91,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Min](https://minbrowser.org/) - a fast, minimal and open source browser.
 
 - [Noir](https://getnoir.app/) - a Safari extension for iOS that automatically adds a dark mode to every website you visit.
+
+- [Opener](https://www.opener.link/) - open links from the web in apps instead.
 
 - [Prevent Duplicate Tabs](https://github.com/brcontainer/prevent-duplicate-tabs/#install) - prevent creating of repeating tabs.
 
@@ -134,7 +134,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Lite XL](https://github.com/lite-xl/lite-xl) - cross-platform lightweight text editor written in Lua.
 
-- [Lorem Picsum](https://picsum.photos/): Lorem Ipsum for photos only.
+- [Lorem Picsum](https://picsum.photos/) - Lorem Ipsum for photos only.
   ```txt
   https://picsum.photos/200?grayscale&blur=2
   ```
@@ -144,13 +144,14 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Proxyman](https://proxyman.io/) - cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
 
 - [QuickLens](https://quicklens.app/) - a powerful app to inspect the UI.
-  > [PixelSnap](https://getpixelsnap.com/) - an alternative tool for measuring anything on your screen.
+  > [PixelSnap](https://getpixelsnap.com/) - an alternative tool for measuring anything on your screen.\
+  > [Free Ruler](https://www.pascal.com/freeruler) - an open source, free ruler app for macOS.
 
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting.
 
-- [Secretive](https://github.com/maxgoedjen/secretive) - an app for storing and managing SSH keys in the Secure Enclave. `macos` `oss`
+- [Secretive](https://github.com/maxgoedjen/secretive) - an app for storing and managing SSH keys in the Secure Enclave.
 
-- [Sysprof](https://wiki.gnome.org/Apps/Sysprof) allows you to profile applications to aid in debugging and optimization.
+- [Sysprof](https://wiki.gnome.org/Apps/Sysprof) - allows you to profile applications to aid in debugging and optimization.
 
 [`Table of contents`](#table-of-contents)
 
@@ -164,8 +165,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 ## Email
 
-- [EmailThis](https://www.emailthis.me): this simple bookmarklet sends ad-free articles & web pages to your email inbox.
-
 - [followupthen](https://www.followupthen.com/) - a simple but flexible way to schedule an email reminder.
 
 [`Table of contents`](#table-of-contents)
@@ -176,11 +175,16 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Broot](https://github.com/Canop/broot) - an alternative to the standard `tree` command, which allows you to view and navigate directories, perform fuzzy searches, run commands on the selected files or directories and etc.
 
-- [Collision](https://apps.gnome.org/app/dev.geopjr.Collision/) compares and verifies MD5, SHA-256, SHA-512 and SHA-1 hashes.
+- [Collision](https://apps.gnome.org/app/dev.geopjr.Collision/) - compares and verifies MD5, SHA-256, SHA-512 and SHA-1 hashes.
 
 - [Czkawka](https://github.com/qarmin/czkawka) - a simple and fast app which finds duplicates, empty folders, similar images etc.
 
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the `Open` and `Save` dialogs in all of your applications.
+
+- [Dropover](https://dropoverapp.com/) - improves drag & drop by providing a "shelf" where you can stash, gather or move any draggable content.
+  > Alternatives:\
+  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).\
+  > iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
 
 - [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
   > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.\
@@ -188,7 +192,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Folder Peek](https://sindresorhus.com/folder-peek) - quickly access documents, files, folders, and apps from the menu bar.
 
-- [Hat.sh](https://hat.sh/) is a web app that provides secure local file encryption in the browser.
+- [Hat.sh](https://hat.sh/) - a web app that provides secure local file encryption in the browser.
 
 - [Hazel](https://www.noodlesoft.com/) - create rules to automatically organize files in many ways: open, move, rename, archive and tag files based on their name, date, type and much more.
 
@@ -201,18 +205,13 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar app to open folders and files in Terminal emulators and other apps.
 
-- [QuickLook](https://github.com/QL-Win/QuickLook) allows to peek into a file content in lightning speed by just pressing the Space key.
+- [QuickLook](https://github.com/QL-Win/QuickLook) - allows to peek into a file content in lightning speed by just pressing the Space key.
 
 - [Transnomino](https://www.transnomino.com/) - a batch rename utility.
 
 - [uPic](https://github.com/gee1k/uPic) - a simple pictures and files upload tool with support of different hosting services.
 
 - [VanillaTreeViewer](https://abhchand.me/vanilla-tree-viewer/) - a minimalist file browser for compactly displaying several files at once.
-
-- [Dropover](https://dropoverapp.com/) - improves drag & drop by providing a "shelf" where you can stash, gather or move any draggable content.
-  > Alternatives:\
-  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).\
-  > iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
 
 #### Sharing
 
@@ -239,7 +238,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [CleanUp.pictures](https://cleanup.pictures/) - remove any object, people, text or defects from your pictures.
 
-- [Clop](https://lowtechguys.com/clop/) - copy an image and paste it optimised to the smallest possible size. `mac`
+- [Clop](https://lowtechguys.com/clop/) - copy an image and paste it optimised to the smallest possible size.
 
 - [edit.photo](https://edit.photo/) - a free online photo editor. No ads/cookies/registration.
 
@@ -275,7 +274,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [KeyPad](https://bluetooth-keyboard.com/keypad/) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
   > Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
 
-- [Mactracker](http://mactracker.ca/) provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
+- [Mactracker](http://mactracker.ca/) - provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
 
 - [RunCat](https://kyome.io/runcat/index.html) - the more CPU load is, the faster the cat runs.
 
@@ -283,8 +282,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - an app that can download an entire website including images, PDFs, style sheets, and other files.
   > [SingleFile](https://github.com/gildas-lormeau/SingleFile) is an open source browser extension which saves an entire web page into a single HTML file.
-
-- [what3words](https://what3words.com/) - this app divides the world into 3 metre squares and gives each square a unique combination of three words which you can use to easily find and share exact locations.
 
 - [WindowSwap](https://www.window-swap.com/) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
 
@@ -365,7 +362,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [NetNewsWire](https://netnewswire.com/) - a small and stable feed reader.
 
-- [RSSBud](https://github.com/Cay-Zhang/RSSBud) - helps quickly discover and subscribe to RSS feeds from websites or apps. `macos` `ios` `oss`
+- [RSSBud](https://github.com/Cay-Zhang/RSSBud) - helps quickly discover and subscribe to RSS feeds from websites or apps.
 
 [`Table of contents`](#table-of-contents)
 
@@ -373,19 +370,19 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
-- [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls): this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
+- [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) - this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
 
 - [Consent-O-Matic](https://consentomatic.au.dk/) - a browser extension which handles cookies pop-ups based on your preferences.
   > [Hush](https://oblador.github.io/hush/) - a Safari only alternative.
 
 - [LessPass](https://www.lesspass.com/#/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
 
-- [Little Snitch](https://obdev.at/products/littlesnitch/index.html) will show every single connection attempt of your computer so you can control your data.
+- [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - will show every single connection attempt of your computer so you can control your data.
   > There are also alternatives for other platforms:
   > [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.
   > And [OpenSnitch](https://github.com/evilsocket/opensnitch) - a `GNU/Linux` port of Little Snitch.
 
-- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
+- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
 
 - [NextDNS](https://nextdns.io/) - lightweight and easy customizable tool to block ads and trackers on websites and in apps.
 
@@ -410,7 +407,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [eq](https://github.com/srsudar/eg) - provides examples of common uses of command line tools.
 
-- [fd](https://github.com/sharkdp/fd) is a fast and user-friendly program to find entries in your filesystem.
+- [fd](https://github.com/sharkdp/fd) - a fast and user-friendly program to find entries in your filesystem.
 
 - [fzf](https://github.com/junegunn/fzf) - a command-line fuzzy finder.
 
@@ -467,7 +464,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   > Alternative:
   > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
 
-- [PopClip](https://www.popclip.app/) appears when you select text, giving access to a customizable row of +200 helpful actions.
+- [PopClip](https://www.popclip.app/) - appears when you select text, giving access to a customizable row of +200 helpful actions.
 
 - [Runestone](https://runestone.app/) - a lightweight and fast plain text editor with syntax highlighting, line numbers, theming and more.
 
@@ -495,6 +492,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [TripMode](https://tripmode.ch/) - control your Mac's data usage on slow, expensive networks or mobile data. Monitor internet access, block unwanted apps.
 
+- [what3words](https://what3words.com/) - this app divides the world into 3 metre squares and gives each square a unique combination of three words which you can use to easily find and share exact locations.
+
 [`Table of contents`](#table-of-contents)
 
 ## Utilities
@@ -516,7 +515,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [KeyCastr](https://github.com/keycastr/keycastr) - an open source macOS app for visualizing your keystrokes in realtime. Handy for screencasts and presentations.
   > [Keyviz](https://mularahul.github.io/keyviz/) - a free Windows alternative.
 
-- [KeyClu](https://github.com/Anze/KeyCluCask) - press `⌘` twice and hold to see the list of any app's shortcuts. `macos`
+- [KeyClu](https://github.com/Anze/KeyCluCask) - press `⌘` twice and hold to see the list of any app's shortcuts.
 
 - [Klack](https://tryklack.com/) - this app adds mechanical keyboard sounds to every keystroke.
 
@@ -527,7 +526,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   maclaunch disable plex
   ```
 
-- [MediaMate](https://wouter01.github.io/MediaMate/) - alternative visuals for Volume, Brightness and Now Playing. `macos` `$`
+- [MediaMate](https://wouter01.github.io/MediaMate/) - alternative visuals for Volume, Brightness and Now Playing.
 
 - [Mos](https://mos.caldis.me/) - a lightweight tool used to smooth scrolling which also separates the touchpad and the mouse scrolls independently.
 
@@ -557,6 +556,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [LICEcap](https://www.cockos.com/licecap/) - a lightweight free tool that can capture an area of your desktop and save to a `.GIF` file. You can move the screen capture frame while recording and also make a pause any time and then resume.
 
-- [Recut](https://getrecut.com/) automatically finds and cuts pauses and silence in videos.
+- [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/) - lightweight macOS app to record screens/windows/apps. With sound.
+
+- [Recut](https://getrecut.com/) - automatically finds and cuts pauses and silence in videos.
 
 [`Table of contents`](#table-of-contents)
