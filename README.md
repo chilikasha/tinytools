@@ -50,6 +50,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Paletro](https://appmakes.io/paletro) - command palette to access any functionality of a currently opened application.
 
+- [Rapidmg](https://rapidmg.branchseer.com/) - fast app extraction from a `.dmg` file with optional cleanup.
+
 - [Swift Shift](https://www.swiftshift.app/) - create shortcuts to move and resize windows from anywhere.
   > Alternative: [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize), [Rectangle](https://rectangleapp.com/), [Tiles](https://www.sempliva.com/tiles/)
 
@@ -240,6 +242,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Clop](https://lowtechguys.com/clop/) - copy an image and paste it optimised to the smallest possible size.
 
+- [Downlink](https://apps.apple.com/us/app/downlink/id1454269192) - get fresh background images of Earth.
+
 - [edit.photo](https://edit.photo/) - a free online photo editor. No ads/cookies/registration.
 
 - [ImageMagick](https://imagemagick.org/script/index.php) - an open source free tool for creating, editing, composing or converting digital images of different formats.
@@ -361,6 +365,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Kill the Newsletter!](https://kill-the-newsletter.com/) - subscribe to a newsletter with a special email address and add a provided Atom feed. Each new email will become a new item in your RSS feed.
 
 - [NetNewsWire](https://netnewswire.com/) - a small and stable feed reader.
+  > [yarr](https://github.com/nkanaev/yarr) - a cross-platform alternative.
 
 - [RSSBud](https://github.com/Cay-Zhang/RSSBud) - helps quickly discover and subscribe to RSS feeds from websites or apps.
 
@@ -537,6 +542,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Quick Cursor](https://github.com/micku7zu/QuickCursor) - control large Android devices with just one finger.
 
 - [RustDesk](https://rustdesk.com/) - secure, fast and simple remote desktop software. Doesn't require configuration and works on any platform.
+
+- [SaneSideButtons](https://github.com/thealpa/SaneSideButtons) - simulate 3-finger swipes to navigate between pages using side buttons on third-party mice.
 
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - reverses the direction of scrolling in macOS, with independent settings for trackpads and mice.
 
