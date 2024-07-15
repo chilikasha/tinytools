@@ -38,8 +38,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.\
   >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
 
-- [AppCleaner](https://freemacsoft.net/appcleaner/) - a small tool which allows you to thoroughly uninstall unwanted apps.
-
 - [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features.
 
 - [HazeOver](https://hazeover.com/) - fade all open apps' windows out except the front one.
@@ -49,6 +47,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Menuwhere](https://manytricks.com/menuwhere/) - pop up the frontmost app's menus at the current mouse location.
 
 - [Paletro](https://appmakes.io/paletro) - command palette to access any functionality of a currently opened application.
+
+- [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - apps uninstaller tool with leftover files search.
 
 - [Rapidmg](https://rapidmg.branchseer.com/) - fast app extraction from a `.dmg` file with optional cleanup.
 
@@ -312,6 +312,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - a zero configuration app that tracks the network usage.
 
+- [Network Utility](https://www.devontechnologies.com/blog/20240711-network-utility-10) - a clean user interface of various shell commands for retrieving information about your network adapter.
+
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) - a network analyser (packet sniffer) developed with the aim to let people have a glance into their network in a simple and clear way. Features: filtering, overall traffic statistics, real-time charts, custom notifications and more.
 
 - [WiFi Signal](https://www.intuitibits.com/products/wifisignal/) - lets you monitor your Wi-Fi network’s status and signal quality, notifying you about changes in your Wi-Fi connection.
@@ -376,6 +378,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) - this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
+  > [URLCheck](https://github.com/TrianguloY/UrlChecker) - open source alternative for Android platform.
 
 - [Consent-O-Matic](https://consentomatic.au.dk/) - a browser extension which handles cookies pop-ups based on your preferences.
   > [Hush](https://oblador.github.io/hush/) - a Safari only alternative.
@@ -451,11 +454,11 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Bike](https://hogbaysoftware.netlify.app/bike/) - a fast and fluid outliner for macOS. Simple but powerful tool for organizing thoughts, making lists, taking notes and saving ideas.
   > A cross-platform alternative: [WorkFlowy](https://workflowy.com/)
 
-- [Bob](https://bobtranslate.com/) - a macOS translation app for text and pictures, and manual input. The [PopClip](https://www.popclip.app/) plugin is also available.
-
 - [CopyChar](https://copychar.cc/) - find and copy special characters to your clipboard.
 
 - [Copy Text Easily](https://devapt.com/copy-text-easily) - a simple way to copy paragraphs, sentences and custom selections on web pages in one click.
+
+- [Easydict](https://github.com/tisfeng/Easydict/blob/main/README_EN.md) - quickly get translation from multiple services. Featuring words look up, OCR, auto translate.
 
 - [Espanso](https://espanso.org/) - a cross-platform text expander that detects a specific keyword and replaces it with something else.
 
@@ -472,6 +475,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [PopClip](https://www.popclip.app/) - appears when you select text, giving access to a customizable row of +200 helpful actions.
 
 - [Runestone](https://runestone.app/) - a lightweight and fast plain text editor with syntax highlighting, line numbers, theming and more.
+
+- [Showdown](https://apps.apple.com/en/app/showdown-presentation/id6504288864?mt=12) - quickly create presentations using Markdown.
 
 - [Simple keyboard](https://github.com/rkkr/simple-keyboard) - an open source minimalist Android keyboard focused on just typing some text. No emojis, GIFs, spell checking and word prediction.
 
@@ -506,6 +511,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Bunch](https://bunchapp.co/) - a macOS automation tool working with plain text.
 
 - [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
+
+- [Doll](https://github.com/xiaogdgenuine/Doll) - monitor app badges from menu bar.
 
 - [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
 
