@@ -468,7 +468,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
 
-- [OwlOCR](https://owlocr.com/) - a handy text recognition app living in menubar. Just select an area and then paste text wherever you want.
+- [OwlOCR](https://www.owlocr.com/) - a handy text recognition app living in menubar. Just select an area and then paste text wherever you want.
   > Alternative:
   > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
 
@@ -476,7 +476,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Runestone](https://runestone.app/) - a lightweight and fast plain text editor with syntax highlighting, line numbers, theming and more.
 
-- [Showdown](https://apps.apple.com/en/app/showdown-presentation/id6504288864?mt=12) - quickly create presentations using Markdown.
+- [Showdown](https://apps.apple.com/us/app/showdown-presentation/id6504288864?mt=12) - quickly create presentations using Markdown.
 
 - [Simple keyboard](https://github.com/rkkr/simple-keyboard) - an open source minimalist Android keyboard focused on just typing some text. No emojis, GIFs, spell checking and word prediction.
 
