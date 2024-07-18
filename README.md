@@ -38,6 +38,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.\
   >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
 
+- [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: it's structure, used frameworks, result of macOS secuity check. 
+
 - [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features.
 
 - [HazeOver](https://hazeover.com/) - fade all open apps' windows out except the front one.
@@ -374,6 +376,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 [`Table of contents`](#table-of-contents)
 
 ## Security and privacy
+
+- [2FAS](https://2fas.com/) - simple, secure open source two-factor authenticator.
 
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
