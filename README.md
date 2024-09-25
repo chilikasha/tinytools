@@ -393,7 +393,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - will show every single connection attempt of your computer so you can control your data.
   > There are also alternatives for other platforms:
-  > [simplewall](https://www.henrypp.org/product/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.
+  > [simplewall](https://github.com/henrypp/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.
   > And [OpenSnitch](https://github.com/evilsocket/opensnitch) - a `GNU/Linux` port of Little Snitch.
 
 - [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.

@@ -7,4 +7,4 @@ jobs:
       - name: check out
         uses: actions/checkout@v4  
       - name: check links with mlc
-        uses: becheran/mlc@v0.16.3
+        uses: becheran/mlc@v0.18.0
