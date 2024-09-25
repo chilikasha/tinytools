@@ -289,6 +289,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - an app that can download an entire website including images, PDFs, style sheets, and other files.
   > [SingleFile](https://github.com/gildas-lormeau/SingleFile) is an open source browser extension which saves an entire web page into a single HTML file.
 
+- [Sparrow](https://sparrow.menu/) - a lightweight hourly forecast app.
+
 - [WindowSwap](https://www.window-swap.com/) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
 
 [`Table of contents`](#table-of-contents)
@@ -497,6 +499,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Tofu](https://amarsagoo.info/tofu/) - an alternative documents reader which displays text in a horizontal array of columns what makes lines shorter and faster to read.
 
+- [Type](https://usetype.app/) - quick notes capture from anywhere in a `command palette` style.
+
 [`Table of contents`](#table-of-contents)
 
 ## Travel
@@ -534,6 +538,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [KeyClu](https://github.com/Anze/KeyCluCask) - press `⌘` twice and hold to see the list of any app's shortcuts.
 
 - [Klack](https://tryklack.com/) - this app adds mechanical keyboard sounds to every keystroke.
+
+- [LinearMouse](https://linearmouse.app/) - customize mouse and trackpad behaviour. Use different settings for each pointing device.
 
 - [Maccy](https://maccy.app/) - a lightweight clipboard manager for macOS which does one job - keeping your copy history at hand.
 
