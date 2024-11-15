@@ -38,7 +38,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.\
   >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
 
-- [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: it's structure, used frameworks, result of macOS secuity check. 
+- [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: it's structure, used frameworks, result of macOS secuity check.
 
 - [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features.
 
@@ -83,10 +83,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Anybox](https://anybox.app/) - a modern native bookmarks manager for mac and iOS.
 
-- [Velja](https://sindresorhus.com/velja) - open links in a specific browser or a matching native app.
-  > **Open source** alternatives:\
-  > [Browsers](https://browsers.software/) - cross platform.
-  > [Hurl](https://github.com/U-C-S/Hurl) - Windows only.
+- [linkding](https://linkding.link/) - a minimal and fast self-hosted bookmarks manager.
 
 - [Link Gopher](https://github.com/az0/linkgopher/) - a Firefox/Chrome add-on which can extract all links from a web page, sort them and remove duplicates.
 
@@ -102,7 +99,14 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Svadilfari](https://www.svadilfari.app/) - an extension that lets you control mobile Safari with gestures.
 
+- [Table of contents](https://github.com/Cykelero/table-of-contents) - see and quickly jump to any heading on a web page.
+
 - [TWP](https://github.com/FilipePS/Traduzir-paginas-web) - translate current web page in real time using Google or Yandex.
+
+- [Velja](https://sindresorhus.com/velja) - open links in a specific browser or a matching native app.
+  > Open source alternatives:\
+  > [Browsers](https://browsers.software/) - cross platform.
+  > [Hurl](https://github.com/U-C-S/Hurl) - Windows only.
 
 - [uBlacklist](https://github.com/iorate/ublacklist) - blocks specific sites from appearing in Google search results.
 
@@ -162,6 +166,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 ## Display
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - control external display brightness and volume right from your Mac.
+
+- [ScreenFocus](https://www.apptorium.com/screenfocus) - dim inactive monitors while working with multiple screens.
 
 - [Shifty](https://shifty.natethompson.io/en/) - expand capabilities of Night Shift and Dark mode. Disable for specific apps and sites, follow the schedule, adjust the colour temperature.
 
@@ -282,9 +288,11 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Mactracker](http://mactracker.ca/) - provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
 
+- [Minesweeper Desktop](https://github.com/cameron-goddard/Minesweeper-Desktop) - a modern Minesweeper clone for Mac.
+
 - [RunCat](https://kyome.io/runcat/index.html) - the more CPU load is, the faster the cat runs.
 
-- [Shadowmap](https://app.shadowmap.org/) - visualize solar shadows and the Sun in 3D. Anywhere on Earth, anytime.
+- [Shadowmap](https://app.shadowmap.org/) - visualize solar shadows and the Sun in 3D anywhere on Earth.
 
 - [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - an app that can download an entire website including images, PDFs, style sheets, and other files.
   > [SingleFile](https://github.com/gildas-lormeau/SingleFile) is an open source browser extension which saves an entire web page into a single HTML file.
@@ -350,6 +358,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Taskpaper](https://www.taskpaper.com/) - a plain text to-do list with outlining power.
 
 - [Voiceliner](https://a9.io/voiceliner/) - a fast way to capture and store voice notes in a nesting structure.
+
+- [Whendy](https://whendy.app/) - write your plans in text and the app will calculate times for each step. `[ios, free]`
 
 - [Wooshy](https://wooshy.app/) - search and navigate the whole macOS UI with just a keyboard.
   > Alternative: [Homerow](https://www.homerow.app/).
@@ -508,6 +518,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Organic Maps](https://organicmaps.app/) - wonderful detailed offline maps for travelers, hikers, and cyclists.
   > Alternative: [Guru Maps](https://gurumaps.app/).
 
+- [Railway](https://gitlab.com/schmiddi-on-mobile/railway) - look up travel information for many different railways. `[linux, oss]`
+
 - [TripMode](https://tripmode.ch/) - control your Mac's data usage on slow, expensive networks or mobile data. Monitor internet access, block unwanted apps.
 
 - [what3words](https://what3words.com/) - this app divides the world into 3 metre squares and gives each square a unique combination of three words which you can use to easily find and share exact locations.
@@ -577,6 +589,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [CaptionMe](https://apps.apple.com/us/app/captionme-automatic-subtitles/id1590848394) - a simple way to add captions to your videos.
 
 - [Clickbait Remover for Youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - browser extension which replaces thumbnails with a frame from the video, effectively removing any clickbait.
+
+- [FadCam] - a privacy-focused Android app for recording videos in the background.
 
 - [LICEcap](https://www.cockos.com/licecap/) - a lightweight free tool that can capture an area of your desktop and save to a `.GIF` file. You can move the screen capture frame while recording and also make a pause any time and then resume.
 
