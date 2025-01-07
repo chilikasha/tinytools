@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: check out
-        uses: actions/checkout@v4  
+        uses: actions/checkout@v4
       - name: check links with mlc
-        uses: becheran/mlc@v0.18.0
+        uses: becheran/mlc@v0.19.0

@@ -2,7 +2,7 @@
 
 A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
 
-If you have any questions or suggestions please open an issue or [send me an email](mailto:tropinqa@gmail.com).\
+If you have any questions or suggestions please open an issue.\
 Periodic URLs scans are made using [Markup Link Checker](https://github.com/becheran/mlc) to avoid broken links and dead projects.
 
 ## Table of contents
@@ -394,7 +394,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) - this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
-  > [URLCheck](https://github.com/TrianguloY/UrlChecker) - open source alternative for Android platform.
+  > [URLCheck](https://github.com/TrianguloY/UrlCheck) - open source alternative for Android platform.
 
 - [Consent-O-Matic](https://consentomatic.au.dk/) - a browser extension which handles cookies pop-ups based on your preferences.
   > [Hush](https://oblador.github.io/hush/) - a Safari only alternative.
@@ -437,6 +437,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [LSD](https://github.com/lsd-rs/lsd) - a rewrite of `ls` command with features like colors, icons, tree-view, more formatting options etc.
   > Or have a look at [exa](https://github.com/ogham/exa) as another option.
+
+- [Script Manager](https://github.com/DanielFiller30/ScriptManager) - a menu bar tool to organize and run custom terminal scripts.
 
 - [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands.
   ```bash
@@ -489,6 +491,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
 
 - [PopClip](https://www.popclip.app/) - appears when you select text, giving access to a customizable row of +200 helpful actions.
+  > Alternative: [Programmable Tooltip](https://programmabletooltip.com/)
 
 - [Runestone](https://runestone.app/) - a lightweight and fast plain text editor with syntax highlighting, line numbers, theming and more.
 
