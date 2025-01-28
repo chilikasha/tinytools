@@ -71,7 +71,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Micdrop](https://getmicdrop.com) - mutes your mic in any app with a global keyboard shortcut or a menu bar control.
 
 - [Recordia](https://sindresorhus.com/recordia) - lets you record audio directly from the menu bar or with a global keyboard shortcut.
-  > Alternatives: macOS [voice memos](https://support.apple.com/guide/voice-memos/record-vmaa4b813415/mac) or [Piezo](https://rogueamoeba.com/piezo/) app.
+  > Alternatives: macOS [voice memos](https://support.apple.com/ru-ru/guide/voice-memos/vmaa4b813415/mac) or [Piezo](https://rogueamoeba.com/piezo/) app.
 
 - [Wavacity](https://wavacity.com/) - well known Audacity audio editor but for the web.
 
@@ -193,7 +193,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Dropover](https://dropoverapp.com/) - improves drag & drop by providing a "shelf" where you can stash, gather or move any draggable content.
   > Alternatives:\
-  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).\
+  > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4-enhance-workflow/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).\
   > iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
 
 - [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
@@ -229,7 +229,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   > Alternative: [AirDash](https://airdash-project.web.app/).
 
 - [Snapdrop](https://snapdrop.net/) - a browser based AirDrop alternative. This handy app lets you share text and files between devices on the same network.
-  > You can also try [sharedrop.io](https://www.sharedrop.io/) which works the same way.
+  > You can also try [sharedrop.io](https://sharedrop.io/) which works the same way.
 
 - [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - a free service for sharing files right from the command line.
   ```bash
@@ -248,7 +248,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [CleanUp.pictures](https://cleanup.pictures/) - remove any object, people, text or defects from your pictures.
 
-- [Clop](https://lowtechguys.com/clop/) - copy an image and paste it optimised to the smallest possible size.
+- [Clop](https://lowtechguys.com/clop/) - copy images and videos and paste them optimised to the smallest possible size.
 
 - [Downlink](https://apps.apple.com/us/app/downlink/id1454269192) - get fresh background images of Earth.
 
@@ -281,7 +281,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Carsized](https://www.carsized.com/en/) - compare car dimensions and design from a street perspective side by side.
 
-- [Drive and Listen](https://driveandlisten.herokuapp.com/) - "drive" around cities while listening to their local radios.
+- [Drive and Listen](https://drivenlisten.com/) - "drive" around cities while listening to their local radios.
 
 - [KeyPad](https://bluetooth-keyboard.com/keypad/) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
   > Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
@@ -482,6 +482,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Exporter](http://falcon.star-lord.me/exporter/) - export notes from Apple Notes to Markdown/HTML with attachments.
 
+- [JuxaText](https://juxtatext.app/) - compare text, find differences and merge them.
+
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - a lightweight Markdown editor.
 
 - [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
@@ -553,6 +555,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [KeyClu](https://github.com/Anze/KeyCluCask) - press `⌘` twice and hold to see the list of any app's shortcuts.
 
 - [Klack](https://tryklack.com/) - this app adds mechanical keyboard sounds to every keystroke.
+
+- [Leader Key](https://github.com/mikker/LeaderKey.app) - create key combos to open apps and run commands.
 
 - [LinearMouse](https://linearmouse.app/) - customize mouse and trackpad behaviour. Use different settings for each pointing device.
 
