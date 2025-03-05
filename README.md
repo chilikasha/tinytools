@@ -149,7 +149,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Pika](https://superhighfives.com/pika) - a compact native colour picker app for macOS.
 
-- [Proxyman](https://proxyman.io/) - cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
+- [Proxyman](https://proxyman.com/) - cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
 
 - [QuickLens](https://quicklens.app/) - a powerful app to inspect the UI.
   > [PixelSnap](https://getpixelsnap.com/) - an alternative tool for measuring anything on your screen.\
@@ -180,6 +180,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 [`Table of contents`](#table-of-contents)
 
 ## Files
+
+- [789-Zip](https://789-zip.app/) - easily modify archives.
 
 - [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format and Go library.
 
@@ -220,8 +222,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Transnomino](https://www.transnomino.com/) - a batch rename utility.
 
 - [uPic](https://github.com/gee1k/uPic) - a simple pictures and files upload tool with support of different hosting services.
-
-- [VanillaTreeViewer](https://abhchand.me/vanilla-tree-viewer/) - a minimalist file browser for compactly displaying several files at once.
 
 #### Sharing
 
@@ -269,7 +269,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [ImageOptim](https://imageoptim.com/mac) - makes images load faster by applying advanced compression and removing invisible junk.
 
 - [qView](https://interversehq.com/qview/) - cross-platform image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar.
-  > macOS alternative: [Picview](https://enpicview.chitaner.com/).
+  > Alternatives: [Picview](https://enpicview.chitaner.com/) for macOS and [ImageGlass](https://imageglass.org/) for Windows.
 
 - [Shottr](https://shottr.cc/) - a tiny and fast macOS screenshot tool.
 
