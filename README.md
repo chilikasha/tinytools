@@ -1,6 +1,6 @@
 # Tiny tools
 
-A collection of useful, simple, single purpose apps and tools for everyday problems and tasks.
+A collection of useful, simple, single purpose apps and tools for everyday problems and tasks. With focus on macOS.
 
 If you have any questions or suggestions please open an issue.\
 Periodic URLs scans are made using [Markup Link Checker](https://github.com/becheran/mlc) to avoid broken links and dead projects.
@@ -104,9 +104,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [TWP](https://github.com/FilipePS/Traduzir-paginas-web) - translate current web page in real time using Google or Yandex.
 
 - [Velja](https://sindresorhus.com/velja) - open links in a specific browser or a matching native app.
-  > Open source alternatives:\
-  > [Browsers](https://browsers.software/) - cross platform.
-  > [Hurl](https://github.com/U-C-S/Hurl) - Windows only.
+  > [Browsers](https://browsers.software/) - an open source cross-platform alternative.
 
 - [uBlacklist](https://github.com/iorate/ublacklist) - blocks specific sites from appearing in Google search results.
 
@@ -114,9 +112,9 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 ## Camera
 
-- [Hand Mirror](https://handmirror.app/) - a macOS app that lives in the menu bar and gives a view from your camera when you click on it.
+- [Hand Mirror](https://handmirror.app/) - lives in the menu bar and gives a view from your camera when you click on it.
 
-- [Webcam Plus](https://webcamplus.app/) - use any camera on your iPhone as a **webcam** for your Mac.
+- [Webcam Plus](https://webcamplus.app/) - use any camera on iPhone as a webcam for your Mac.
 
 [`Table of contents`](#table-of-contents)
 
@@ -136,7 +134,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Gitleaks](https://gitleaks.io/index.html) - a fast and light-weight scanner for git repositories, files and directories for detecting and preventing hardcoded secrets like passwords, api keys and tokens.
 
-- [GitUpdate](https://github.com/nikitavoloboev/gitupdate): commit and push all updated files with one command.
+- [GitUpdate](https://github.com/nikitavoloboev/gitupdate) - commit and push all updated files with one command.
 
 - [Hopper](https://www.hopper-disassembler.app/) - reverse engineering tool that lets you disassemble, decompile and debug your applications.
 
@@ -147,7 +145,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   https://picsum.photos/200?grayscale&blur=2
   ```
 
-- [Pika](https://superhighfives.com/pika) - a compact native colour picker app for macOS.
+- [Pika](https://superhighfives.com/pika) - a compact native colour picker app.
 
 - [Proxyman](https://proxyman.com/) - cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
 
@@ -158,8 +156,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting.
 
 - [Secretive](https://github.com/maxgoedjen/secretive) - an app for storing and managing SSH keys in the Secure Enclave.
-
-- [Sysprof](https://wiki.gnome.org/Apps/Sysprof) - allows you to profile applications to aid in debugging and optimization.
 
 [`Table of contents`](#table-of-contents)
 
@@ -187,8 +183,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Broot](https://github.com/Canop/broot) - an alternative to the standard `tree` command, which allows you to view and navigate directories, perform fuzzy searches, run commands on the selected files or directories and etc.
 
-- [Collision](https://apps.gnome.org/app/dev.geopjr.Collision/) - compares and verifies MD5, SHA-256, SHA-512 and SHA-1 hashes.
-
 - [Czkawka](https://github.com/qarmin/czkawka) - a simple and fast app which finds duplicates, empty folders, similar images etc.
 
 - [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the `Open` and `Save` dialogs in all of your applications.
@@ -198,9 +192,10 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   > Mac: [Dropzone](https://apps.apple.com/in/app/dropzone-4-enhance-workflow/id1485052491?mt=12) and [Yoink](https://eternalstorms.at/yoink/mac/).\
   > iOS/iPadOS: [Gladys](https://apps.apple.com/us/app/gladys/id1257526927) and [Yoink](https://eternalstorms.at/yoink/mac/). Both provide iCloud sync.
 
-- [Everything](https://www.voidtools.com) - a free Windows search engine that locates files and folders by name instantly.
-  > Also check [EverythingToolbar](https://github.com/srwi/EverythingToolbar) which adds **Everything** integration with the Windows taskbar.\
-  Linux alternative: [FSearch](https://github.com/cboxdoerfer/fsearch).
+- [Duplicarius](https://duplicarius.fluthaus.com/) - a fast duplicate file finder.
+
+- [Find Any File](https://findanyfile.app/) - search for files on your disks with extra features that Spotlight doesn't have.
+  > Alternative: [ProFind](https://www.zeroonetwenty.com/profind/).
 
 - [Folder Peek](https://sindresorhus.com/folder-peek) - quickly access documents, files, folders, and apps from the menu bar.
 
@@ -210,14 +205,12 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Invisor](https://www.invisorapp.com/) - display and compare technical information of your media files.
 
-- [Marta](https://marta.sh/) - native, dual-pane file manager for macOS.
+- [Marta](https://marta.sh/) - native, dual-pane file manager.
 
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager.
   > Alternatives: [lf](https://github.com/gokcehan/lf) and [walk](https://github.com/antonmedv/walk) - CLI file managers written in Go.
 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar app to open folders and files in Terminal emulators and other apps.
-
-- [QuickLook](https://github.com/QL-Win/QuickLook) - allows to peek into a file content in lightning speed by just pressing the Space key.
 
 - [Transnomino](https://www.transnomino.com/) - a batch rename utility.
 
@@ -268,10 +261,9 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [ImageOptim](https://imageoptim.com/mac) - makes images load faster by applying advanced compression and removing invisible junk.
 
-- [qView](https://interversehq.com/qview/) - cross-platform image viewer designed with minimalism and usability in mind. No cluttered interface, just your image and a titlebar.
-  > Alternatives: [Picview](https://enpicview.chitaner.com/) for macOS and [ImageGlass](https://imageglass.org/) for Windows.
+- [Picview](https://enpicview.chitaner.com/) - a modern minimal image viewer.
 
-- [Shottr](https://shottr.cc/) - a tiny and fast macOS screenshot tool.
+- [Shottr](https://shottr.cc/) - a tiny and fast screenshot tool.
 
 [`Table of contents`](#table-of-contents)
 
@@ -305,8 +297,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 ## Music
 
-- [Amberol](https://gitlab.gnome.org/World/amberol) - a small and simple sound and music player that is well integrated with GNOME.
-
 - [Auxio](https://github.com/OxygenCobalt/Auxio) - a fast, open source, local music player for Android.
 
 - [Meta](https://www.nightbirdsevolve.com/meta/) - a professional music tag editor helping you manage your digital music collection.
@@ -339,7 +329,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Hyperkey](https://hyperkey.app/) - convert the `caps lock` key or any modifier keys to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. The hyper key acts as an additional modifier key that you can use in any app with keyboard shortcuts.
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click.
-  > Alternatives: [Dato](https://sindresorhus.com/dato) and _Day-O_.
+  > Alternatives: [Dato](https://sindresorhus.com/dato) and [Calendr](https://github.com/pakerwreah/Calendr).
 
 - [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets.
   ```bash
@@ -368,15 +358,11 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
   > Alternative:
   > [Hookmark](https://hookproductivity.com/) - link information across different apps.
 
-- [Wox](http://www.wox.one/) - a free launcher for Windows. With an `Alt` + `Space` keyboard shortcut you can search for apps, files, folders and any queries on the internet.
-
 [`Table of contents`](#table-of-contents)
 
 ## Reading
 
 - [Braille Scanner](https://apps.apple.com/us/app/braille-scanner/id1517369095) - take a photo of a piece of paper with Braille on it and convert to text.
-
-- [Foliate](https://github.com/johnfactotum/foliate) - a simple and modern book reader for Linux.
 
 - [Kill the Newsletter!](https://kill-the-newsletter.com/) - subscribe to a newsletter with a special email address and add a provided Atom feed. Each new email will become a new item in your RSS feed.
 
@@ -389,9 +375,9 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 ## Security and privacy
 
-- [2FAS](https://2fas.com/) - simple, secure open source two-factor authenticator.
+- [2FAS](https://2fas.com/) - a simple, secure open source two-factor authenticator.
 
-- [Burner Note](https://burnernote.com/) - ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
+- [Burner Note](https://burnernote.com/) - an ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) - this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
   > [URLCheck](https://github.com/TrianguloY/UrlCheck) - open source alternative for Android platform.
@@ -402,11 +388,6 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [LessPass](https://www.lesspass.com/#/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
 
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - will show every single connection attempt of your computer so you can control your data.
-  > There are also alternatives for other platforms:
-  > [simplewall](https://github.com/henrypp/simplewall) - a less than a megabyte `Windows` tool for configuring network activity.
-  > And [OpenSnitch](https://github.com/evilsocket/opensnitch) - a `GNU/Linux` port of Little Snitch.
-
-- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - allows to view metadata in your files and to get rid of sensitive information you may not want to disclose.
 
 - [NextDNS](https://nextdns.io/) - lightweight and easy customizable tool to block ads and trackers on websites and in apps.
 
@@ -470,11 +451,14 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Bean](https://bean-osx.com/Bean.html) - a small and easy-to-use word processor.
 
 - [Bike](https://hogbaysoftware.netlify.app/bike/) - a fast and fluid outliner for macOS. Simple but powerful tool for organizing thoughts, making lists, taking notes and saving ideas.
-  > A cross-platform alternative: [WorkFlowy](https://workflowy.com/)
+  > A cross-platform web based alternative: [WorkFlowy](https://workflowy.com/)
 
 - [CopyChar](https://copychar.cc/) - find and copy special characters to your clipboard.
 
 - [Copy Text Easily](https://devapt.com/copy-text-easily) - a simple way to copy paragraphs, sentences and custom selections on web pages in one click.
+
+- [Delimited](https://www.delimited.app/) - a simple CSV editor for macOS.
+  > [Table Tool](https://github.com/jakob/TableTool) - an open source alternative (and it's [fork](https://github.com/alexanderjamesrohrig/TableTool) for Apple Silicon.
 
 - [Easydict](https://github.com/tisfeng/Easydict/blob/main/README_EN.md) - quickly get translation from multiple services. Featuring words look up, OCR, auto translate.
 
@@ -503,14 +487,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Strflow](https://strflow.app/) - a chat-style note-taking app.
 
-- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) - a small and fast PDF and ebook reader.
-
 - [TableFlip](https://tableflipapp.com/) - a fast Markdown tables editing app.
-
-- [Table Tool](https://github.com/jakob/TableTool) - a simple CSV editor for macOS.
-  > Version (fork) for Apple Silicon can be found [here](https://github.com/rafi16jan/TableTool).
-
-- [TextPal](https://www.textpal.app/) - super-fast emoji picker for macOS. Works in any app.
 
 - [Tofu](https://amarsagoo.info/tofu/) - an alternative documents reader which displays text in a horizontal array of columns what makes lines shorter and faster to read.
 
@@ -520,10 +497,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 ## Travel
 
-- [Organic Maps](https://organicmaps.app/) - wonderful detailed offline maps for travelers, hikers, and cyclists.
-  > Alternative: [Guru Maps](https://gurumaps.app/).
-
-- [Railway](https://gitlab.com/schmiddi-on-mobile/railway) - look up travel information for many different railways. `[linux, oss]`
+- [Organic Maps](https://organicmaps.app/) - detailed offline maps for travelers, hikers, and cyclists.
+  > Alternative: [Guru Maps](https://gurumaps.app/), which is also available on macOS.
 
 - [TripMode](https://tripmode.ch/) - control your Mac's data usage on slow, expensive networks or mobile data. Monitor internet access, block unwanted apps.
 
@@ -549,8 +524,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [HottestCorners](https://bits.ee/hottestcorners/) - this app extends macOS built-in `Hot Corners` feature and allows to run any of your apps by moving mouse pointer to any of screen corners.
 
-- [KeyCastr](https://github.com/keycastr/keycastr) - an open source macOS app for visualizing your keystrokes in realtime. Handy for screencasts and presentations.
-  > [Keyviz](https://mularahul.github.io/keyviz/) - a free Windows alternative.
+- [KeyCastr](https://github.com/keycastr/keycastr) - an open source app for visualizing your keystrokes in realtime. Handy for screencasts and presentations.
 
 - [KeyClu](https://github.com/Anze/KeyCluCask) - press `⌘` twice and hold to see the list of any app's shortcuts.
 
@@ -560,12 +534,9 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [LinearMouse](https://linearmouse.app/) - customize mouse and trackpad behaviour. Use different settings for each pointing device.
 
-- [Maccy](https://maccy.app/) - a lightweight clipboard manager for macOS which does one job - keeping your copy history at hand.
+- [Maccy](https://maccy.app/) - a lightweight clipboard manager.
 
 - [maclaunch](https://github.com/hazcod/maclaunch) - list and control macOS startup items.
-  ```bash
-  maclaunch disable plex
-  ```
 
 - [MediaMate](https://wouter01.github.io/MediaMate/) - alternative visuals for Volume, Brightness and Now Playing.
 
@@ -573,7 +544,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Muzzle](https://muzzleapp.com/) - a simple app to silence embarrassing notifications while screensharing.
 
-- [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - a macOS menu bar app which provides a series of customizable toggle switches to simplify your routine work.
+- [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - a menu bar app which provides a series of customizable toggle switches to simplify your routine work.
 
 - [Quick Cursor](https://github.com/micku7zu/QuickCursor) - control large Android devices with just one finger.
 
@@ -585,7 +556,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Shortcut Bar](https://fiplab.com/apps/shortcut-bar-for-mac) - a handy app that connects you to the files, folders, apps, web bookmarks, text snippets and color swatches that you need lightning fast access to.
 
-- [stts](https://github.com/inket/stts) - a simple macOS app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored.
+- [stts](https://github.com/inket/stts) - a simple app for monitoring the status of cloud services. stts can also send notifications when a service goes down or gets restored.
 
 [`Table of contents`](#table-of-contents)
 
