@@ -1,9 +1,9 @@
 # Tiny tools
 
-A collection of useful, simple, single purpose apps and tools for everyday problems and tasks. With focus on macOS.
+A collection of useful, simple, single purpose apps and tools for everyday problems and tasks. With a focus on macOS.
 
 If you have any questions or suggestions please open an issue.\
-Periodic URLs scans are made using [Markup Link Checker](https://github.com/becheran/mlc) to avoid broken links and dead projects.
+URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on every update to avoid broken links and dead projects.
 
 ## Table of contents
 
@@ -55,7 +55,7 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Rapidmg](https://rapidmg.branchseer.com/) - fast app extraction from a `.dmg` file with optional cleanup.
 
 - [Swift Shift](https://www.swiftshift.app/) - create shortcuts to move and resize windows from anywhere.
-  > Alternative: [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize), [Rectangle](https://rectangleapp.com/), [Tiles](https://www.sempliva.com/tiles/)
+  > Alternatives: [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize), [Rectangle](https://rectangleapp.com/), [Tiles](https://www.sempliva.com/tiles/)
 
 - [Swish](https://highlyopinionated.co/swish/) - control windows and apps right from your trackpad with intuitive `swipe`, `pinch`, `tap` and `hold` gestures. Features easy-to-use titlebar, dock and menubar gestures and supports Magic Mouse and keyboard as well.
 
@@ -265,6 +265,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 
 - [Shottr](https://shottr.cc/) - a tiny and fast screenshot tool.
 
+- [Sponge](https://play.google.com/store/apps/details?id=com.prismtree.sponge) - simply swipe to organize photos on your Android device.
+
 [`Table of contents`](#table-of-contents)
 
 ## Miscellaneous
@@ -327,6 +329,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Flowchart](https://flowchart.fun/) - web app that lets you easily create flow charts just via typing. Every single line of text is a node, indentation makes a child node.
 
 - [Hyperkey](https://hyperkey.app/) - convert the `caps lock` key or any modifier keys to the hyper key, all four modifiers combined: ⌃⌥⌘⇧. The hyper key acts as an additional modifier key that you can use in any app with keyboard shortcuts.
+
+- [Input Source Pro](https://inputsource.pro/) - switch input sources based on current app or website.
 
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click.
   > Alternatives: [Dato](https://sindresorhus.com/dato) and [Calendr](https://github.com/pakerwreah/Calendr).
@@ -467,6 +471,8 @@ Periodic URLs scans are made using [Markup Link Checker](https://github.com/bech
 - [Exporter](http://falcon.star-lord.me/exporter/) - export notes from Apple Notes to Markdown/HTML with attachments.
 
 - [JuxaText](https://juxtatext.app/) - compare text, find differences and merge them.
+
+- [Leaflet](https://leaflet.pub/) - fast and shareable text documents on web.
 
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - a lightweight Markdown editor.
 
