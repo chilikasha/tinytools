@@ -305,6 +305,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Music Decoy](https://lowtechguys.com/musicdecoy/) - stop launching the macOS Music app whenever you press `Play` key.
 
+- [Radiola](https://github.com/SokoloffA/radiola) - a lightweight Internet radio player.
+
 - [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - a minimalist music player for macOS with clean interface that supports MP3, FLAC, AAC, AIFF and WAV.
   > Tiny Player also comes on [iPhone and iPad](https://www.catnapgames.com/tiny-player/) with a [TinyLoader](https://www.catnapgames.com/tiny-loader/) to bypass iTunes.
 
@@ -425,6 +427,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Script Manager](https://github.com/DanielFiller30/ScriptManager) - a menu bar tool to organize and run custom terminal scripts.
 
+- [sttr](https://github.com/abhimanyu003/sttr) - a command-line tool that performs various transformation operations on strings.
+
 - [The Fuck](https://github.com/nvbn/thefuck) - open source app that corrects errors in previous console commands.
   ```bash
   ➜ apt-get install vim
@@ -478,10 +482,6 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
 
-- [OwlOCR](https://www.owlocr.com/) - a handy text recognition app living in menubar. Just select an area and then paste text wherever you want.
-  > Alternative:
-  > [TextSniper](https://textsniper.app/) extracts text from images and other digital documents.
-
 - [PopClip](https://www.popclip.app/) - appears when you select text, giving access to a customizable row of +200 helpful actions.
   > Alternative: [Programmable Tooltip](https://programmabletooltip.com/)
 
@@ -496,6 +496,9 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [TableFlip](https://tableflipapp.com/) - a fast Markdown tables editing app.
 
 - [Tofu](https://amarsagoo.info/tofu/) - an alternative documents reader which displays text in a horizontal array of columns what makes lines shorter and faster to read.
+
+- [TRex](https://github.com/amebalabs/TRex) - select any area to extract text and get it copied to your clipboard.
+  > Paid alternatives: [TextSniper](https://textsniper.app/) and [Text Lens](https://sindresorhus.com/text-lens).
 
 - [Type](https://usetype.app/) - quick notes capture from anywhere in a `command palette` style.
 
@@ -521,6 +524,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Doll](https://github.com/xiaogdgenuine/Doll) - monitor app badges from menu bar.
 
 - [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
+
+- [FocusCursor](https://wangchujiang.com/focus-cursor/) - highlights the cursor's position, making it useful for conferences and tutorial creation.
 
 - [GrandPerspective](https://grandperspectiv.sourceforge.net/) - this small utility graphically shows the disk usage within a file system.
 
