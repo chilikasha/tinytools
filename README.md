@@ -94,7 +94,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Opener](https://www.opener.link/) - open links from the web in apps instead.
 
-- [Prevent Duplicate Tabs](https://github.com/brcontainer/prevent-duplicate-tabs/#install) - prevent creating of repeating tabs.
+- [Prevent Duplicate Tabs](https://github.com/brcontainer/prevent-duplicate-tabs/) - prevent creating of repeating tabs.
 
 - [Svadilfari](https://www.svadilfari.app/) - an extension that lets you control mobile Safari with gestures.
 
@@ -131,7 +131,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [fx](https://github.com/antonmedv/fx) - a Terminal JSON viewer.
 
-- [Gitleaks](https://gitleaks.io/index.html) - a fast and light-weight scanner for git repositories, files and directories for detecting and preventing hardcoded secrets like passwords, api keys and tokens.
+- [Gitleaks](https://gitleaks.io/) - a fast and light-weight scanner for git repositories, files and directories for detecting and preventing hardcoded secrets like passwords, api keys and tokens.
 
 - [GitUpdate](https://github.com/nikitavoloboev/gitupdate) - commit and push all updated files with one command.
 
@@ -147,10 +147,6 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Pika](https://superhighfives.com/pika) - a compact native colour picker app.
 
 - [Proxyman](https://proxyman.com/) - cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
-
-- [QuickLens](https://quicklens.app/) - a powerful app to inspect the UI.
-  > [PixelSnap](https://getpixelsnap.com/) - an alternative tool for measuring anything on your screen.\
-  > [Free Ruler](https://www.pascal.com/freeruler) - an open source, free ruler app for macOS.
 
 - [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting.
 
@@ -198,8 +194,6 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Folder Peek](https://sindresorhus.com/folder-peek) - quickly access documents, files, folders, and apps from the menu bar.
 
-- [Hat.sh](https://hat.sh/) - a web app that provides secure local file encryption in the browser.
-
 - [Hazel](https://www.noodlesoft.com/) - create rules to automatically organize files in many ways: open, move, rename, archive and tag files based on their name, date, type and much more.
 
 - [Invisor](https://www.invisorapp.com/) - display and compare technical information of your media files.
@@ -219,7 +213,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 #### Sharing
 
-- [LocalSend](https://localsend.org/#/) - cross-platform app for sharing files and messages with nearby devices.
+- [LocalSend](https://localsend.org/) - cross-platform app for sharing files and messages with nearby devices.
   > Alternative: [AirDash](https://airdash-project.web.app/).
 
 - [Snapdrop](https://snapdrop.net/) - a browser based AirDrop alternative. This handy app lets you share text and files between devices on the same network.
@@ -394,7 +388,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Consent-O-Matic](https://consentomatic.au.dk/) - a browser extension which handles cookies pop-ups based on your preferences.
   > [Hush](https://oblador.github.io/hush/) - a Safari only alternative.
 
-- [LessPass](https://www.lesspass.com/#/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
+- [LessPass](https://www.lesspass.com/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
 
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - will show every single connection attempt of your computer so you can control your data.
 
@@ -568,6 +562,9 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - a menu bar app which provides a series of customizable toggle switches to simplify your routine work.
 
+- [PixelSnap](https://pixelsnap.com/) - a tool for measuring anything on your screen.
+  > [Free Ruler](https://www.pascal.com/freeruler) - an open source, free ruler app for macOS.
+
 - [Quick Cursor](https://github.com/micku7zu/QuickCursor) - control large Android devices with just one finger.
 
 - [RustDesk](https://rustdesk.com/) - secure, fast and simple remote desktop software. Doesn't require configuration and works on any platform.
@@ -590,7 +587,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Clickbait Remover for Youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - browser extension which replaces thumbnails with a frame from the video, effectively removing any clickbait.
 
-- [FadCam] - a privacy-focused Android app for recording videos in the background.
+- [FadCam](https://github.com/anonfaded/FadCam) - a privacy-focused Android app for recording videos in the background.
 
 - [LICEcap](https://www.cockos.com/licecap/) - a lightweight free tool that can capture an area of your desktop and save to a `.GIF` file. You can move the screen capture frame while recording and also make a pause any time and then resume.
 
