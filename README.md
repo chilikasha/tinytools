@@ -34,9 +34,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [AltTab](https://alt-tab-macos.netlify.app/) - brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
   > Alternatives and similar apps:\
-  >  [Contexts](https://contexts.co/) - a paid window switcher.\
+  >  [TabLift](https://tablift.dev/) and [Witch](https://manytricks.com/witch/)\
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.\
-  >  [Witch](https://manytricks.com/witch/) - switch apps, windows and tabs.
 
 - [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: it's structure, used frameworks, result of macOS secuity check.
 
@@ -210,6 +209,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager.
   > Alternatives: [lf](https://github.com/gokcehan/lf) and [walk](https://github.com/antonmedv/walk) - CLI file managers written in Go.
 
+- [Offloader](https://apps.apple.com/app/id6749336975) - accelerates iCloud Drive offloading using smart delays and scheduled scans.
+
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar app to open folders and files in Terminal emulators and other apps.
 
 - [Transnomino](https://www.transnomino.com/) - a batch rename utility.
@@ -281,6 +282,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
   > Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
 
 - [Mactracker](http://mactracker.ca/) - provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
+
+- [MenuScores](https://menuscores.vercel.app/) - live scores in menu bar, with notch integration.
 
 - [Minesweeper Desktop](https://github.com/cameron-goddard/Minesweeper-Desktop) - a modern Minesweeper clone for Mac.
 
@@ -474,16 +477,22 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Exporter](http://falcon.star-lord.me/exporter/) - export notes from Apple Notes to Markdown/HTML with attachments.
 
+- [Harper](https://writewithharper.com/) - a fast and open source Grammarly alternative.
+
 - [JuxaText](https://juxtatext.app/) - compare text, find differences and merge them.
 
 - [Leaflet](https://leaflet.pub/) - fast and shareable text documents on web.
 
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - a lightweight Markdown editor.
 
+- [Monotype](https://monotype.app/) - a minimal writing app and a typewriter simulator.
+
 - [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
 
 - [PopClip](https://www.popclip.app/) - appears when you select text, giving access to a customizable row of +200 helpful actions.
   > Alternative: [Programmable Tooltip](https://programmabletooltip.com/)
+
+- [QuickSheet](https://gnomeapps.com/quicksheet/) - a menu bar spreadsheet app for quick calculations and notes.
 
 - [Runestone](https://runestone.app/) - a lightweight and fast plain text editor with syntax highlighting, line numbers, theming and more.
 
@@ -506,7 +515,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 ## Travel
 
-- [Organic Maps](https://organicmaps.app/) - detailed offline maps for travelers, hikers, and cyclists.
+- [CoMaps](https://www.comaps.app/) - detailed offline maps for travelers, hikers, and cyclists.
   > Alternative: [Guru Maps](https://gurumaps.app/), which is also available on macOS.
 
 - [TripMode](https://tripmode.ch/) - control your Mac's data usage on slow, expensive networks or mobile data. Monitor internet access, block unwanted apps.
@@ -520,6 +529,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Bunch](https://bunchapp.co/) - a macOS automation tool working with plain text.
 
 - [Cursorcerer](https://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) - hide the Mac's cursor with a global hotkey or automatically after being idle.
+
+- [Days](https://apps.apple.com/app/id6744068216) - tracks the number of days since an event or counts down the days remaining until a future event.
 
 - [Doll](https://github.com/xiaogdgenuine/Doll) - monitor app badges from menu bar.
 
