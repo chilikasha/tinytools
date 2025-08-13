@@ -47,6 +47,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Menuwhere](https://manytricks.com/menuwhere/) - pop up the frontmost app's menus at the current mouse location.
 
+- [Obtainium](https://obtainium.imranr.dev/) - get Android app updates from the source pages. Supports GitHub, GitLab and others.
+
 - [Paletro](https://appmakes.io/paletro) - command palette to access any functionality of a currently opened application.
 
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - apps uninstaller tool with leftover files search.
@@ -61,6 +63,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 [`Table of contents`](#table-of-contents)
 
 ## Audio
+
+- [EQ Studio](https://eqstudio.app/) - a simple equalizer for audio and video files preserving original video quality.
 
 - [Krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
   > Alternative: [Utterly](https://www.utterly.app/)
@@ -316,6 +320,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - a zero configuration app that tracks the network usage.
 
 - [Network Utility](https://www.devontechnologies.com/blog/20240711-network-utility-10) - a clean user interface of various shell commands for retrieving information about your network adapter.
+
+- [Passepartout](https://passepartoutvpn.app/) - a networking and privacy tool that supports OpenVPN and WireGuard protocols, along with presets for popular VPN providers.
 
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) - a network analyser (packet sniffer) developed with the aim to let people have a glance into their network in a simple and clear way. Features: filtering, overall traffic statistics, real-time charts, custom notifications and more.
 
