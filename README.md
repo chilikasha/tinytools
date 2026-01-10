@@ -35,7 +35,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [AltTab](https://alt-tab-macos.netlify.app/) - brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
   > Alternatives and similar apps:\
   >  [TabLift](https://tablift.dev/) and [Witch](https://manytricks.com/witch/)\
-  >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.\
+  >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.
 
 - [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: it's structure, used frameworks, result of macOS secuity check.
 
@@ -89,6 +89,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [linkding](https://linkding.link/) - a minimal and fast self-hosted bookmarks manager.
 
 - [Link Gopher](https://github.com/az0/linkgopher/) - a Firefox/Chrome add-on which can extract all links from a web page, sort them and remove duplicates.
+
+- [MaximizeVideo](https://github.com/ettoolong/MaximizeVideo) - watch a video maximized in the current tab without going fullscreen.
 
 - [MenubarX](https://menubarx.app/) - a browser in your menu bar.
 
@@ -194,7 +196,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Duplicarius](https://duplicarius.fluthaus.com/) - a fast duplicate file finder.
 
 - [Find Any File](https://findanyfile.app/) - search for files on your disks with extra features that Spotlight doesn't have.
-  > Alternative: [ProFind](https://www.zeroonetwenty.com/profind/).
+  > Alternatives for quick and easy search: [Cardinal](https://github.com/cardisoft/cardinal) and [Cling](https://github.com/FuzzyIdeas/Cling).
 
 - [Folder Peek](https://sindresorhus.com/folder-peek) - quickly access documents, files, folders, and apps from the menu bar.
 
@@ -263,6 +265,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Picview](https://enpicview.chitaner.com/) - a modern minimal image viewer.
 
 - [Shottr](https://shottr.cc/) - a tiny and fast screenshot tool.
+  > [ScrollSnap](https://github.com/Brkgng/ScrollSnap) - another option for capturing scrolling screenshots.
 
 - [Sponge](https://play.google.com/store/apps/details?id=com.prismtree.sponge) - simply swipe to organize photos on your Android device.
 
@@ -445,6 +448,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
   ...
   ```
 
+- [tldx](https://github.com/brandonyoungdev/tldx) - a quick search for available domains.
+
 [`Table of contents`](#table-of-contents)
 
 ## Social
@@ -561,6 +566,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [maclaunch](https://github.com/hazcod/maclaunch) - list and control macOS startup items.
 
 - [MediaMate](https://wouter01.github.io/MediaMate/) - alternative visuals for Volume, Brightness and Now Playing.
+
+- [MenuBarUSB](https://github.com/rafaelSwi/MenuBarUSB) - shows USB connections in the menu bar.
 
 - [Mos](https://mos.caldis.me/) - a lightweight tool used to smooth scrolling which also separates the touchpad and the mouse scrolls independently.
 
