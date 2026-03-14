@@ -139,9 +139,9 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Gitleaks](https://gitleaks.io/) - a fast and light-weight scanner for git repositories, files and directories for detecting and preventing hardcoded secrets like passwords, api keys and tokens.
 
-- [GitUpdate](https://github.com/nikitavoloboev/gitupdate) - commit and push all updated files with one command.
+- [GitUpdate](https://github.com/nikivdev/gitupdate) - commit and push all updated files with one command.
 
-- [Hopper](https://www.hopper-disassembler.app/) - reverse engineering tool that lets you disassemble, decompile and debug your applications.
+- [Hopper](https://www.hopperapp.com/) - reverse engineering tool that lets you disassemble, decompile and debug your applications.
 
 - [Lite XL](https://github.com/lite-xl/lite-xl) - cross-platform lightweight text editor written in Lua.
 
@@ -272,10 +272,13 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 [`Table of contents`](#table-of-contents)
 
 ## Miscellaneous
+May not be tiny is size but still cool.
 
 - [Animated Drawings](https://github.com/facebookresearch/AnimatedDrawings) - use this tool to create animations based on your own drawn characters.
 
 - [Carsized](https://www.carsized.com/en/) - compare car dimensions and design from a street perspective side by side.
+
+- [Consul](https://getconsul.app/), [Morpholder](https://morpholder.com/) - convert files by changing their extension.
 
 - [Drive and Listen](https://drivenlisten.com/) - "drive" around cities while listening to their local radios.
 
@@ -380,6 +383,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [NetNewsWire](https://netnewswire.com/) - a small and stable feed reader.
   > [yarr](https://github.com/nkanaev/yarr) - a cross-platform alternative.
+  > [Capy Reader](https://capyreader.com/) - Android RSS reader focused on simplicity and ease of use.
 
 - [RSSBud](https://github.com/Cay-Zhang/RSSBud) - helps quickly discover and subscribe to RSS feeds from websites or apps.
 
@@ -474,7 +478,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Copy Text Easily](https://devapt.com/copy-text-easily) - a simple way to copy paragraphs, sentences and custom selections on web pages in one click.
 
 - [Delimited](https://www.delimited.app/) - a simple CSV editor for macOS.
-  > [Table Tool](https://github.com/jakob/TableTool) - an open source alternative (and it's [fork](https://github.com/alexanderjamesrohrig/TableTool) for Apple Silicon.
+  > [Table Tool](https://github.com/jakob/TableTool) - an open source alternative (and it's [fork](https://github.com/alexanderjamesrohrig/TableTool) for Apple Silicon).
 
 - [Easydict](https://github.com/tisfeng/Easydict/blob/main/README_EN.md) - quickly get translation from multiple services. Featuring words look up, OCR, auto translate.
 
@@ -484,20 +488,24 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Harper](https://writewithharper.com/) - a fast and open source Grammarly alternative.
 
-- [JuxaText](https://juxtatext.app/) - compare text, find differences and merge them.
+- [Itsypad](https://itsypad.app/) - a tiny multi-tab scratchpad for Mac with split view support.
 
-- [Leaflet](https://leaflet.pub/) - fast and shareable text documents on web.
+- [JuxtaText](https://juxtatext.app/) - compare text, find differences and merge them.
+
+- [Leaflet](https://leaflet.pub/home) - fast and shareable text documents on web.
 
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - a lightweight Markdown editor.
 
-- [Monotype](https://monotype.app/) - a minimal writing app and a typewriter simulator.
-
 - [Markmap](https://markmap.js.org) - a tool to visualize Markdown documents with mindmaps.
+
+- [Notchie](https://www.notchie.app/) - a teleprompter app that hides in Mac's notch. Allows reading a script while looking directly at camera.
 
 - [PopClip](https://www.popclip.app/) - appears when you select text, giving access to a customizable row of +200 helpful actions.
   > Alternative: [Programmable Tooltip](https://programmabletooltip.com/)
 
 - [QuickSheet](https://gnomeapps.com/quicksheet/) - a menu bar spreadsheet app for quick calculations and notes.
+
+- [Retrotype](https://retrotype.ink/) - a minimal writing app and a typewriter simulator.
 
 - [Runestone](https://runestone.app/) - a lightweight and fast plain text editor with syntax highlighting, line numbers, theming and more.
 
@@ -557,7 +565,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Klack](https://tryklack.com/) - this app adds mechanical keyboard sounds to every keystroke.
 
-- [Leader Key](https://github.com/mikker/LeaderKey.app) - create key combos to open apps and run commands.
+- [Leader Key](https://github.com/mikker/LeaderKey) - create key combos to open apps and run commands.
 
 - [LinearMouse](https://linearmouse.app/) - customize mouse and trackpad behaviour. Use different settings for each pointing device.
 
