@@ -133,7 +133,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Dash](https://kapeli.com/dash) - an API documentation browser and code snippet manager. Dash instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets.
   > [DevDocs](https://devdocs.io/) - a web based free alternative.
 
-- [Fig](https://fig.io/) - adds autocomplete to an existing terminal so you can move faster.
+- [Fig](https://github.com/withfig/autocomplete) - adds autocomplete to an existing terminal so you can move faster.
 
 - [fx](https://github.com/antonmedv/fx) - a Terminal JSON viewer.
 
@@ -480,7 +480,7 @@ May not be tiny is size but still cool.
 - [Delimited](https://www.delimited.app/) - a simple CSV editor for macOS.
   > [Table Tool](https://github.com/jakob/TableTool) - an open source alternative (and it's [fork](https://github.com/alexanderjamesrohrig/TableTool) for Apple Silicon).
 
-- [Easydict](https://github.com/tisfeng/Easydict/blob/main/README_EN.md) - quickly get translation from multiple services. Featuring words look up, OCR, auto translate.
+- [Easydict](https://github.com/tisfeng/Easydict/blob/dev/README.md) - quickly get translation from multiple services. Featuring words look up, OCR, auto translate.
 
 - [Espanso](https://espanso.org/) - a cross-platform text expander that detects a specific keyword and replaces it with something else.
 
