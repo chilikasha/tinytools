@@ -47,6 +47,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Menuwhere](https://manytricks.com/menuwhere/) - pop up the frontmost app's menus at the current mouse location.
 
+- [Mino](https://github.com/nad-bit/Mino) - a lightweight macOS menu bar tool to track GitHub releases, with quick inline actions and Homebrew integration.
+
 - [Obtainium](https://obtainium.imranr.dev/) - get Android app updates from the source pages. Supports GitHub, GitLab and others.
 
 - [Paletro](https://appmakes.io/paletro) - command palette to access any functionality of a currently opened application.
@@ -65,6 +67,10 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 ## Audio
 
 - [EQ Studio](https://eqstudio.app/) - a simple equalizer for audio and video files preserving original video quality.
+
+- [FineTune](https://github.com/ronitsingh10/FineTune) - per-app volume control and audio routing on macOS.
+
+- [Fission](https://rogueamoeba.com/fission/) - a simple audio editor and converter with basic editing options.
 
 - [Krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
   > Alternative: [Utterly](https://www.utterly.app/)
@@ -212,6 +218,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Offloader](https://apps.apple.com/app/id6749336975) - accelerates iCloud Drive offloading using smart delays and scheduled scans.
 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar app to open folders and files in Terminal emulators and other apps.
+
+- [Radix](https://github.com/colinvkim/Radix) - a macOS disk space analyzer that visualizes storage usage with interactive sunburst and treemap charts.
 
 - [Transnomino](https://www.transnomino.com/) - a batch rename utility.
 
@@ -570,8 +578,6 @@ May not be tiny is size but still cool.
 - [LinearMouse](https://linearmouse.app/) - customize mouse and trackpad behaviour. Use different settings for each pointing device.
 
 - [Maccy](https://maccy.app/) - a lightweight clipboard manager.
-
-- [maclaunch](https://github.com/hazcod/maclaunch) - list and control macOS startup items.
 
 - [MediaMate](https://wouter01.github.io/MediaMate/) - alternative visuals for Volume, Brightness and Now Playing.
 
