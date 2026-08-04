@@ -32,7 +32,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 ## Apps management
 
-- [AltTab](https://alt-tab-macos.netlify.app/) - brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
+- [AltTab](https://alt-tab.app/) - brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
   > Alternatives and similar apps:\
   >  [TabLift](https://tablift.dev/) and [Witch](https://manytricks.com/witch/)\
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.
@@ -256,19 +256,21 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [edit.photo](https://edit.photo/) - a free online photo editor. No ads/cookies/registration.
 
-- [ImageMagick](https://imagemagick.org/script/index.php) - an open source free tool for creating, editing, composing or converting digital images of different formats.
+- [ImageMagick](https://imagemagick.org/) - an open source free tool for creating, editing, composing or converting digital images of different formats.
   ```bash
   # merge images
-  convert +append 1.jpg 2.jpg 3.jpg best.jpg
+  magick 1.jpg 2.jpg 3.jpg +append best.jpg
 
   # resizing
-  convert -resize 50% img.png img_resized.png
+  magick input.jpg -resize 800x600 img_resized.png
 
   # convert 3rd page of PDF to JPG
-  convert input.pdf[2] output.jpg
+  magick input.pdf[2] output.jpg
   ```
 
 - [ImageOptim](https://imageoptim.com/mac) - makes images load faster by applying advanced compression and removing invisible junk.
+
+- [Imagin RAW](https://github.com/cristibaluta/Imagin-Raw) - a folder-based RAW photo viewer with rating and color labeling, plus support for other image formats.
 
 - [Picview](https://enpicview.chitaner.com/) - a modern minimal image viewer.
 
@@ -288,7 +290,7 @@ May not be tiny is size but still cool.
 
 - [Consul](https://getconsul.app/), [Morpholder](https://morpholder.com/) - convert files by changing their extension.
 
-- [Drive and Listen](https://drivenlisten.com/) - "drive" around cities while listening to their local radios.
+- [Drive and Listen](https://drivefromhome.com/) - "drive" around cities while listening to their local radios.
 
 - [KeyPad](https://bluetooth-keyboard.com/keypad/) - use your Mac's keyboard and trackpad as a bluetooth keyboard and mouse on a phone, tablet or TV.
   > Alternative: [Typeeto](https://mac.eltima.com/bluetooth-keyboard.html)
@@ -508,6 +510,8 @@ May not be tiny is size but still cool.
 
 - [Notchie](https://www.notchie.app/) - a teleprompter app that hides in Mac's notch. Allows reading a script while looking directly at camera.
 
+- [Nought](https://www.nought.app/) - a simple native spreadsheet app for Mac.
+
 - [PopClip](https://www.popclip.app/) - appears when you select text, giving access to a customizable row of +200 helpful actions.
   > Alternative: [Programmable Tooltip](https://programmabletooltip.com/)
 
@@ -555,7 +559,7 @@ May not be tiny is size but still cool.
 
 - [Doll](https://github.com/xiaogdgenuine/Doll) - monitor app badges from menu bar.
 
-- [Finbar](https://www.roeybiran.com/apps/finbar) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
+- [Finbar](https://www.finbarapp.com/) - better `Menu Bar Search` with fuzzy filtering, tracking of recently selected items and other useful features.
 
 - [FocusCursor](https://wangchujiang.com/focus-cursor/) - highlights the cursor's position, making it useful for conferences and tutorial creation.
 
