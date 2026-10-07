@@ -256,6 +256,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [edit.photo](https://edit.photo/) - a free online photo editor. No ads/cookies/registration.
 
+- [FileOnTap HEIC to JPG](https://fileontap.com/heic-to-jpg/) - Free browser-based HEIC to JPG converter, files stay on device.
+
 - [ImageMagick](https://imagemagick.org/) - an open source free tool for creating, editing, composing or converting digital images of different formats.
   ```bash
   # merge images
