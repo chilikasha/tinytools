@@ -11,7 +11,6 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Audio](#audio)
 - [Browsing](#browsing)
 - [Camera](#camera)
-- [Developer tools](#developer-tools)
 - [Display](#display)
 - [Email](#email)
 - [Files](#files)
@@ -34,7 +33,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [AltTab](https://alt-tab.app/) - brings the power of Windows’s `alt-tab` window switcher to macOS. It represents a big mosaic of all the minimized, hidden, fullscreen windows of all apps so you can instantly identify and focus on the window you need.
   > Alternatives and similar apps:\
-  >  [TabLift](https://tablift.dev/) and [Witch](https://manytricks.com/witch/)\
+  >  [Switch](https://github.com/Sanyam-G/switch) and [Witch](https://manytricks.com/witch/)\
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.
 
 - [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: it's structure, used frameworks, result of macOS secuity check.
@@ -129,43 +128,6 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 [`Table of contents`](#table-of-contents)
 
-## Developer tools
-
-- [Boop](https://boop.okat.best) - handy scriptable scratchpad to transform plain text using basic operations such as JSON formatting, unescaping, base 64 encoding, etc.
-  > [DevUtils](https://devutils.com/) - a paid alternative with a bit different set of tools, but native macOS UI.
-
-- [cheat.sh](http://cheat.sh/) - unified access to the best community driven cheat sheets repositories of the world.
-
-- [Dash](https://kapeli.com/dash) - an API documentation browser and code snippet manager. Dash instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets.
-  > [DevDocs](https://devdocs.io/) - a web based free alternative.
-
-- [Fig](https://github.com/withfig/autocomplete) - adds autocomplete to an existing terminal so you can move faster.
-
-- [fx](https://github.com/antonmedv/fx) - a Terminal JSON viewer.
-
-- [Gitleaks](https://gitleaks.io/) - a fast and light-weight scanner for git repositories, files and directories for detecting and preventing hardcoded secrets like passwords, api keys and tokens.
-
-- [GitUpdate](https://github.com/nikivdev/gitupdate) - commit and push all updated files with one command.
-
-- [Hopper](https://www.hopperapp.com/) - reverse engineering tool that lets you disassemble, decompile and debug your applications.
-
-- [Lite XL](https://github.com/lite-xl/lite-xl) - cross-platform lightweight text editor written in Lua.
-
-- [Lorem Picsum](https://picsum.photos/) - Lorem Ipsum for photos only.
-  ```txt
-  https://picsum.photos/200?grayscale&blur=2
-  ```
-
-- [Pika](https://superhighfives.com/pika) - a compact native colour picker app.
-
-- [Proxyman](https://proxyman.com/) - cross-platform debugger tool which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
-
-- [regex101](https://regex101.com/) - a multilingual regular expression debugger with real time explanation, error detection and highlighting.
-
-- [Secretive](https://github.com/maxgoedjen/secretive) - an app for storing and managing SSH keys in the Secure Enclave.
-
-[`Table of contents`](#table-of-contents)
-
 ## Display
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - control external display brightness and volume right from your Mac.
@@ -183,8 +145,6 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 [`Table of contents`](#table-of-contents)
 
 ## Files
-
-- [789-Zip](https://789-zip.app/) - easily modify archives.
 
 - [age](https://github.com/FiloSottile/age) - a simple, modern and secure file encryption tool, format and Go library.
 
@@ -210,6 +170,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Invisor](https://www.invisorapp.com/) - display and compare technical information of your media files.
 
+- [MacPacker](https://macpacker.app/) - manage and browse archives, preview files without extracting.
+
 - [Marta](https://marta.sh/) - native, dual-pane file manager.
 
 - [nnn](https://github.com/jarun/nnn) - a tiny, fast, full-featured terminal file manager.
@@ -222,6 +184,10 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Radix](https://github.com/colinvkim/Radix) - a macOS disk space analyzer that visualizes storage usage with interactive sunburst and treemap charts.
 
 - [Transnomino](https://www.transnomino.com/) - a batch rename utility.
+
+- [Trellis](https://stefanramage.de/trellis/) - a mind map-like file manager which opens each folder as a pane on a canvas.
+
+- [Unfold](https://unfold.tools/) - extends Quick Look with 250+ file types support.
 
 - [uPic](https://github.com/gee1k/uPic) - a simple pictures and files upload tool with support of different hosting services.
 
@@ -401,8 +367,6 @@ May not be tiny is size but still cool.
 
 ## Security and privacy
 
-- [2FAS](https://2fas.com/) - a simple, secure open source two-factor authenticator.
-
 - [Burner Note](https://burnernote.com/) - an ad-free service for sending secure text based notes that are completely erased from existence once they've been read.
 
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls) - this browser add-on removes tracking elements from URLs to help protect your privacy when browsing the web. Available for Firefox and Chromium-based browsers.
@@ -410,6 +374,8 @@ May not be tiny is size but still cool.
 
 - [Consent-O-Matic](https://consentomatic.au.dk/) - a browser extension which handles cookies pop-ups based on your preferences.
   > [Hush](https://oblador.github.io/hush/) - a Safari only alternative.
+
+- [Ente Auth](https://ente.com/auth/) - an open source, cross platform 2FA authenticator.
 
 - [LessPass](https://www.lesspass.com/) - a sync free password manager which uses `site, login and master password` to compute passwords on any device.
 
