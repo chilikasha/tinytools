@@ -130,6 +130,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 ## Display
 
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - puts macOS windows back on the right monitor, Space, and position when you plug an external display back in.
+
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - control external display brightness and volume right from your Mac.
 
 - [ScreenFocus](https://www.apptorium.com/screenfocus) - dim inactive monitors while working with multiple screens.
