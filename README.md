@@ -322,6 +322,8 @@ May not be tiny is size but still cool.
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click.
   > Alternatives: [Dato](https://sindresorhus.com/dato) and [Calendr](https://github.com/pakerwreah/Calendr).
 
+- [Ripple](https://ripplefocus.github.io/en/) - a free Android app and short-form video blocker (YouTube Shorts, Instagram Reels, WeChat Channels) with mandatory cooldown timers and self-healing uninstall protection.
+
 - [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets.
   ```bash
   # Examples
