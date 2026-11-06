@@ -76,6 +76,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - quickly and easily transcribe audio files into text with OpenAI's transcription technology Whisper.
 
+- [OneMira C1](https://onemira.com/products/c1) - standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and open [MCP server](https://github.com/onemira-space/onemira-mcp).
+
 - [Micdrop](https://getmicdrop.com) - mutes your mic in any app with a global keyboard shortcut or a menu bar control.
 
 - [Recordia](https://sindresorhus.com/recordia) - lets you record audio directly from the menu bar or with a global keyboard shortcut.
