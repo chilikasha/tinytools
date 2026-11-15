@@ -442,6 +442,8 @@ May not be tiny is size but still cool.
 
 - [Minus](https://minus.social/) - a finite social network where you get 100 posts - for life. No likes, follows and noisy notifications.
 
+- [Secret Santa Generator](https://secretsantagenerator.xyz/) - draw names for a Secret Santa or gift exchange with exclusions and a budget. Everyone gets a private link or a printable QR slip, no sign-up or email addresses needed.
+
 [`Table of contents`](#table-of-contents)
 
 ## Text
