@@ -36,7 +36,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
   >  [Switch](https://github.com/Sanyam-G/switch) and [Witch](https://manytricks.com/witch/)\
   >  [rcmd](https://lowtechguys.com/rcmd/) - assign custom keys for your favorite apps.
 
-- [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: it's structure, used frameworks, result of macOS secuity check.
+- [Apparency](https://www.mothersruin.com/software/Apparency/) - get more details about any app: its structure, used frameworks, result of macOS secuity check.
 
 - [Cork](https://github.com/buresdv/Cork) - a fast GUI for Homebrew with useful features.
 
@@ -79,7 +79,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 - [Micdrop](https://getmicdrop.com) - mutes your mic in any app with a global keyboard shortcut or a menu bar control.
 
 - [Recordia](https://sindresorhus.com/recordia) - lets you record audio directly from the menu bar or with a global keyboard shortcut.
-  > Alternatives: macOS [voice memos](https://support.apple.com/ru-ru/guide/voice-memos/vmaa4b813415/mac) or [Piezo](https://rogueamoeba.com/piezo/) app.
+  > Alternatives: macOS [voice memos](https://support.apple.com/guide/voice-memos/create-a-recording-vmaa4b813415/mac) or [Piezo](https://rogueamoeba.com/piezo/) app.
 
 - [Wavacity](https://wavacity.com/) - well known Audacity audio editor but for the web.
 
@@ -113,10 +113,10 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [TWP](https://github.com/FilipePS/Traduzir-paginas-web) - translate current web page in real time using Google or Yandex.
 
+- [uBlacklist](https://github.com/iorate/ublacklist) - blocks specific sites from appearing in Google search results.
+
 - [Velja](https://sindresorhus.com/velja) - open links in a specific browser or a matching native app.
   > [Browsers](https://browsers.software/) - an open source cross-platform alternative.
-
-- [uBlacklist](https://github.com/iorate/ublacklist) - blocks specific sites from appearing in Google search results.
 
 [`Table of contents`](#table-of-contents)
 
@@ -154,7 +154,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Czkawka](https://github.com/qarmin/czkawka) - a simple and fast app which finds duplicates, empty folders, similar images etc.
 
-- [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) enhances the `Open` and `Save` dialogs in all of your applications.
+- [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/) - enhances the `Open` and `Save` dialogs in all of your applications.
 
 - [Dropover](https://dropoverapp.com/) - improves drag & drop by providing a "shelf" where you can stash, gather or move any draggable content.
   > Alternatives:\
@@ -250,7 +250,7 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 [`Table of contents`](#table-of-contents)
 
 ## Miscellaneous
-May not be tiny is size but still cool.
+May not be tiny in size but still cool.
 
 - [Animated Drawings](https://github.com/facebookresearch/AnimatedDrawings) - use this tool to create animations based on your own drawn characters.
 
@@ -324,7 +324,7 @@ May not be tiny is size but still cool.
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar: quickly have a month view and see your events with one click.
   > Alternatives: [Dato](https://sindresorhus.com/dato) and [Calendr](https://github.com/pakerwreah/Calendr).
 
-- [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing what makes it easier than spreadsheets.
+- [Soulver](https://soulver.app/) - a powerful but simple notepad calculator app for macOS that supports units, dates, currency and time zones conversions, variables and lines referencing which makes it easier than spreadsheets.
   ```bash
   # Examples
   $300 in Euro
@@ -404,7 +404,7 @@ May not be tiny is size but still cool.
 
 - [Dust](https://github.com/bootandy/dust) - a more intuitive `du` alternative written in Rust.
 
-- [eq](https://github.com/srsudar/eg) - provides examples of common uses of command line tools.
+- [eg](https://github.com/srsudar/eg) - provides examples of common uses of command line tools.
 
 - [fd](https://github.com/sharkdp/fd) - a fast and user-friendly program to find entries in your filesystem.
 
@@ -456,7 +456,7 @@ May not be tiny is size but still cool.
 - [Copy Text Easily](https://devapt.com/copy-text-easily) - a simple way to copy paragraphs, sentences and custom selections on web pages in one click.
 
 - [Delimited](https://www.delimited.app/) - a simple CSV editor for macOS.
-  > [Table Tool](https://github.com/jakob/TableTool) - an open source alternative (and it's [fork](https://github.com/alexanderjamesrohrig/TableTool) for Apple Silicon).
+  > [Table Tool](https://github.com/jakob/TableTool) - an open source alternative (and its [fork](https://github.com/alexanderjamesrohrig/TableTool) for Apple Silicon).
 
 - [Easydict](https://github.com/tisfeng/Easydict/blob/dev/README.md) - quickly get translation from multiple services. Featuring words look up, OCR, auto translate.
 
@@ -497,7 +497,7 @@ May not be tiny is size but still cool.
 
 - [TableFlip](https://tableflipapp.com/) - a fast Markdown tables editing app.
 
-- [Tofu](https://amarsagoo.info/tofu/) - an alternative documents reader which displays text in a horizontal array of columns what makes lines shorter and faster to read.
+- [Tofu](https://amarsagoo.info/tofu/) - an alternative documents reader which displays text in a horizontal array of columns which makes lines shorter and faster to read.
 
 - [TRex](https://github.com/amebalabs/TRex) - select any area to extract text and get it copied to your clipboard.
   > Paid alternatives: [TextSniper](https://textsniper.app/) and [Text Lens](https://sindresorhus.com/text-lens).
