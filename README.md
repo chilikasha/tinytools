@@ -440,6 +440,8 @@ May not be tiny in size but still cool.
 
 - [Cusdis](https://github.com/djyde/cusdis) - a lightweight, privacy-friendly, minimalist, embeddable comment system.
 
+- [minulo](https://minulo.app/en/) - hides Instagram Reels, YouTube Shorts, TikTok For You and Snapchat Spotlight on iPhone. Free, no account. `[ios, free]`
+
 - [Minus](https://minus.social/) - a finite social network where you get 100 posts - for life. No likes, follows and noisy notifications.
 
 [`Table of contents`](#table-of-contents)
