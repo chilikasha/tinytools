@@ -278,6 +278,8 @@ May not be tiny in size but still cool.
 
 - [Sparrow](https://sparrow.menu/) - a lightweight hourly forecast app.
 
+- [StagePeek](https://stagepeek.live/) - preview 2D seating maps and 3D concert stage views across 201 global arenas with 1x–10x zoom before buying tickets.
+
 - [WindowSwap](https://www.window-swap.com/) - open a new window somewhere in the world. Look through windows shared by real people from different countries.
 
 [`Table of contents`](#table-of-contents)
