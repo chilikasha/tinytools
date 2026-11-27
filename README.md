@@ -247,6 +247,8 @@ URLs are checked with [Markup Link Checker](https://github.com/becheran/mlc) on 
 
 - [Sponge](https://play.google.com/store/apps/details?id=com.prismtree.sponge) - simply swipe to organize photos on your Android device.
 
+- [Tinymast](https://tinymast.com/image-compress/) - compress images and PDFs online to a target size; uploaded files and results are deleted within 24 hours.
+
 [`Table of contents`](#table-of-contents)
 
 ## Miscellaneous
